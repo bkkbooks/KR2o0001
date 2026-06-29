@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2o0001/WYG/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 篇
+  hash: sha256:4e7b9204a9a691aa434c717be2a3a657bd7c682017712057ecd8c3579da40e9d
+metadata:
+  title: 史通
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:46:13.898442'
+  source:
+    repository: kanripo
+    path: KR2o0001/KR2o0001_001.txt
+hash: sha256:95f4a2ad1ba8f5769378a6832db7bd08c5955711a36d0e9b6762c54cf56ae081

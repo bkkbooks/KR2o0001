@@ -1,0 +1,115 @@
+canonical_identifier: bkk:krp/KR2o0001/krp/v1/markers/21
+seq: 21
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2o0001_SBCK_021-1a01}
+  - {type: variant, offset: 0, length: 170, content: 刋正史通序昔者孔子嘗曰吾自衛反魯然後樂正雅頌各得其所味斯言也則雅頌在當時見者亦衆矣必俟孔子後正者何也蓋權衡設輕重乃昭尺度懸長短斯别苟非其人道不虚行聖賢者誠萬世之權度哉愚舊讀史通見其缺文複意繁詞冗意心頗疑之掩卷而思展卷而玩莫可為懐者矣儼山先生帥蜀之初乃取而正之篇章㫖趣各循其軌意怄而文順事核而理瑩自是始爲完書此無他蓋先生以江南鉅儒養之翰苑復三, WYG: ''}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl2}
+  - {type: line-break, offset: 5, content: '', id: KR2o0001_SBCK_021-1a02}
+  - {type: 'kr:newline', offset: 21, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl3}
+  - {type: line-break, offset: 21, content: '', id: KR2o0001_SBCK_021-1a03}
+  - {type: variant, offset: 25, length: 1, content: 所, SBCK: 􅀁}
+  - {type: 'kr:newline', offset: 37, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl4}
+  - {type: line-break, offset: 37, content: '', id: KR2o0001_SBCK_021-1a04}
+  - {type: 'kr:newline', offset: 53, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl5}
+  - {type: line-break, offset: 53, content: '', id: KR2o0001_SBCK_021-1a05}
+  - {type: 'kr:newline', offset: 69, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl6}
+  - {type: line-break, offset: 69, content: '', id: KR2o0001_SBCK_021-1a06}
+  - {type: variant, offset: 84, length: 1, content: 舊, SBCK: 􅃇}
+  - {type: 'kr:newline', offset: 85, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl7}
+  - {type: line-break, offset: 85, content: '', id: KR2o0001_SBCK_021-1a07}
+  - {type: 'kr:newline', offset: 101, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl8}
+  - {type: line-break, offset: 101, content: '', id: KR2o0001_SBCK_021-1a08}
+  - {type: 'kr:newline', offset: 116, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl9}
+  - {type: page-break, offset: 116, content: '', id: KR2o0001_SBCK_021-1b}
+  - {type: 'kr:newline', offset: 116, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl10}
+  - {type: line-break, offset: 116, content: '', id: KR2o0001_SBCK_021-1b01}
+  - {type: 'kr:newline', offset: 132, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl11}
+  - {type: line-break, offset: 132, content: '', id: KR2o0001_SBCK_021-1b02}
+  - {type: variant, offset: 136, length: 1, content: 軌, SBCK: 􅁤}
+  - {type: 'kr:newline', offset: 148, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl12}
+  - {type: line-break, offset: 148, content: '', id: KR2o0001_SBCK_021-1b03}
+  - {type: 'kr:newline', offset: 164, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl13}
+  - {type: line-break, offset: 164, content: '', id: KR2o0001_SBCK_021-1b04}
+  - {type: variant, offset: 171, length: 141, content: 餘年其學邃故其思精其思精故其見髙如扁鵲視人五臟皆見庖丁遊刃目無全牛故稱量之下銖兩自明分寸不爽固其所哉厥功豈獨倍於作者殆升孔堂以續雅頌遺音矣近世有訂周禮之誤以𥙷冬官之缺或謂事類而功倍未知然否且羣書之誤尚不止此先生將次第正之其嘉惠後學之心益宏且逺矣敬當立雪以俟嘉靖乙未長至日後學李佶謹識, WYG: ''}
+  - {type: 'kr:newline', offset: 180, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl14}
+  - {type: line-break, offset: 180, content: '', id: KR2o0001_SBCK_021-1b05}
+  - {type: 'kr:newline', offset: 196, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl15}
+  - {type: line-break, offset: 196, content: '', id: KR2o0001_SBCK_021-1b06}
+  - {type: 'kr:newline', offset: 212, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl16}
+  - {type: line-break, offset: 212, content: '', id: KR2o0001_SBCK_021-1b07}
+  - {type: variant, offset: 219, length: 1, content: 所, SBCK: 􅀁}
+  - {type: 'kr:newline', offset: 228, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl17}
+  - {type: line-break, offset: 228, content: '', id: KR2o0001_SBCK_021-1b08}
+  - {type: 'kr:newline', offset: 244, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl18}
+  - {type: page-break, offset: 244, content: '', id: KR2o0001_SBCK_021-2a}
+  - {type: 'kr:newline', offset: 244, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl19}
+  - {type: line-break, offset: 244, content: '', id: KR2o0001_SBCK_021-2a01}
+  - {type: variant, offset: 249, length: 1, content: 𥙷, SBCK: 􅀘}
+  - {type: variant, offset: 254, length: 1, content: 或, SBCK: 􅂉}
+  - {type: variant, offset: 257, length: 1, content: 類, SBCK: 􅀋}
+  - {type: 'kr:newline', offset: 260, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl20}
+  - {type: line-break, offset: 260, content: '', id: KR2o0001_SBCK_021-2a02}
+  - {type: 'kr:newline', offset: 276, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl21}
+  - {type: line-break, offset: 276, content: '', id: KR2o0001_SBCK_021-2a03}
+  - {type: 'kr:newline', offset: 292, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl22}
+  - {type: line-break, offset: 292, content: '', id: KR2o0001_SBCK_021-2a04}
+  - {type: 'kr:newline', offset: 299, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl23}
+  - {type: line-break, offset: 299, content: '', id: KR2o0001_SBCK_021-2a05}
+  - {type: 'kr:newline', offset: 312, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl24}
+  - {type: page-break, offset: 312, content: '', id: KR2o0001_SBCK_021-2b}
+  - {type: 'kr:newline', offset: 312, content: '
+
+      ', id: KR2o0001_krp_021-bkkkrnewl25}
+  back: []
+hash: sha256:833cd29717d2c6164dca46b1eef314ea2ed76aae450dd6b1174cb59f48641049

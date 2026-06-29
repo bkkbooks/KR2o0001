@@ -1,0 +1,648 @@
+canonical_identifier: bkk:krp/KR2o0001/bkk/v1/markers/15
+seq: 15
+markers:
+  front:
+  - {type: variant, offset: 0, length: 2, content: 採撰, SBCK: 史通卷}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_SBCK_015-1a}
+  - {type: variant, offset: 0, length: 3, content: 採撰第, WYG: 文已於敘事篇言之詳矣然凡俗難曉下愚不移雖七卷成言而三隅莫反盖語曰百聞不如一見是以聚米為谷賊虜之虛實可知畫地成圖山川之形勢易悉昔陶隱居本草藥有冷熱味者朱墨㸃其名阮孝緒七録書有文惪殿者丹筆寫其字由是區分有别品類可知今輙擬其事鈔自古史傳文有煩者皆以筆㸃其上其㸃用朱粉雌黄並得凡字經㸃者盡宜去之如其間有文句虧缺者細書側注於其右其側書亦用朱粉雌黄等如正行用粉則别注者用朱黄以此為别或囘易數字或加足片言俾分布得所彌縫無闕庶觀者易悟其失自彰如我摭實而談是非茍誣前哲其一條孔子家語曰魯公索氏將祭而亡其牲孔子聞之曰公索氏不及二年必亡矣一年而亡門人問曰昔公索氏亡其祭牲而夫子曰不及二年必亡今果如期而亡夫子何以知然除二十四字其二條家語曰晉將伐宋使覘之宋陽門之介夫死司城子罕哭之哀覘者反言於晉侯曰宋陽門之介夫死而司城子罕哭之哀民咸悦矣宋殆未可伐也除三十一字移三字其三條史記五帝本紀曰諸侯之朝覲者不之丹朱而之舜百姓之獄訟者不之丹朱而之舜謳歌者皆不謳謌丹朱而謳謌舜舜年二十以孝聞三十而帝堯問可用者云云舜年二十以孝聞三十堯舉之除二十九字加七字其四條夏本紀曰禹之父曰鯀鯀之父曰帝顓頊顓頊之父曰昌意昌意之父曰黄帝禹者黄帝之𤣥孫而顓頊之孫也禹之曾大父曰昌意及父鯀皆不得在帝位為人臣除五十七字加五字案顓頊紀中已具云黄帝是顓頊祖矣此篇下云禹是顓頊孫則其上不得更言黄帝之𤣥孫既上云昌意及鯀不得在帝位則於下文不當復云為人臣今就於朱㸃之中復有此重復造次筆削庸可盡乎其五條項羽本紀曰項籍者下相人也字羽起時年二十四其季父項梁梁父楚將項燕為秦將王翦所殺者也項氏世世楚將封於項故姓項氏除三十字加二十四字釐革其次序其六條呂氏本紀曰呂太后者高祖微時妃也生孝惠帝魯元公主及高祖為漢王得定陶戚姬愛幸生趙隱王如意高祖嫌孝惠為人仁弱高祖以為不類我常欲廢太子立戚姬子如意如意類我又戚姬幸常獨從上之關東日夜泣涕欲立其子如意以代太子呂后年長常留守希見上益疎如意立為趙王後幾代太子者數矣賴大臣諍之及留侯䇿太子得無廢此事見高惠二紀及諸王叔孫通張良等傳過為重疊矣今又見於呂后紀固可略而不言除七}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_WYG_015-1b, image: WYG0685/WYG0685-0112b.png}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_WYG_015-2a, image: WYG0685/WYG0685-0112c.png}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_WYG_015-2b, image: WYG0685/WYG0685-0112d.png}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_WYG_015-3a, image: WYG0685/WYG0685-0113a.png}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_WYG_015-3b, image: WYG0685/WYG0685-0113b.png}
+  - {type: variant, offset: 0, length: 2, content: 採撰, krp: 史通卷}
+  body:
+  - {type: xml-element, offset: 5, content: '', id: KR2o0001_tls_015-bkkxmlele1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR2o0001_tls_015-1a.1}
+  - {type: variant, offset: 5, length: 0, content: '', SBCK: 外篇􅀧繁第六十一條夫史之繁文已扵敘事篇言之詳矣然凡俗難曉下愚不移雖七卷成言而三隅莫反盖語曰百聞不如一見是以聚米為谷賊虜之虛實可知畫地成圖山川之形勢易悉昔陶隱居本草藥有冷􅀬味者朱墨􅀧其名阮孝緒七録書有文悳殿丹筆寫其字由是區分有别品􅁼可知今輙擬其事鈔自古史傳文有繁者皆以筆􅀧其上雌黄並得其􅀧用朱粉凡字經􅀧者盡宜去之如其間有文句􅃜缺者細書側注於其右用朱粉雄其側書亦注者用朱黄以此為則黄等如正行用粉則别􅂉囘易數字􅂉加足片言俾分布得􅀁彌縫無闕庻觀者易悟其失自彰知必摭實而談是非苟誣前哲孔子家語曰魯公索氏將祭而亡其牲孔子聞之曰公索氏不及二年矣一年而亡門人問曰昔公索氏亡其祭牲而夫子曰不及二年必亡今果如期而亡夫子何以知然四字除二十家語曰􅀳將伐宋使覘之宋陽門之介夫死司城子罕哭之哀覘者反言於􅀳侯曰宋陽門之介夫死司城子罕哭之哀民咸悅矣宋殆未可伐也字移三字除二十一史記五帝本紀曰諸侯之朝覲者不之丹朱而之舜百姓之獄訟者不之丹朱而之舜謳謌者不之丹朱而謳謌舜舜年二十以孝聞三十而帝堯問可用者云云堯舉之加七字除二十九夏本紀曰禹之父曰鯀鯀之父曰帝顓帝顓之父曰昌意昌意之父曰黄帝禹者黄帝之玄孫而顓頊之孫也禹之曾大父曰昌意及父鯀皆不得在帝位為人臣五除頊祖矣此篇下云禹是顓頊孫則其上不得更十七字加五字按顓頊紀中已具云黄帝是顓則於下文不當復云為人臣今就於朱㸃之中言黄帝之玄孫既上云昌意父鯀不得在帝位筆削庸可盡乎復有此重復造次項羽本紀曰項籍者下相人也字羽起時年二十四其季父項梁梁父楚將項燕為秦將王翦所殺者也項氏世世楚將封於項故姓項氏四字􅁵革其次序除三十字加二十呂氏本紀曰呂太后者高祖㣲時妃也生孝惠帝魯元公王及高祖為漢王得定陶戚􅁎愛幸生趙隱王如意高祖嫌孝惠為人仁弱高祖以為不類我常欲廢太子立戚􅁎子如意類我又戚􅁎幸常獨從上之關東日夜泣涕欲立其子如意以代太子呂后年長常留守希見上益踈如意立為趙王後幾代太子者數矣頼大臣諍之及留侯䇿太子得無廢良等傳過為重矣今又見於呂后紀此事見高惠二紀及諸王叔孫通張十五字加十二字固可畧而不言除七宋世家曰初元公之孫紏景公殺之景公卒紏之公子特攻殺太子而自立是為昭公昭公父公孫紏紏父褍秦即元公少子也景公殺昭公父紏故昭公怨殺太子而自立加十三字除三十六字三王世家曰大司馬臣去病昩死再拜上䟽皇帝陛下陛下過聽使臣去病待罪行間宜專邉塞之思慮暴骸中野無以報乃敢惟他議以干用事者誠見陛下憂勞天下哀憐百姓以自忘虧膳貶樂損郎員皇子頼天能勝衣趨拜至今無號位師傳官陛下恭讓不恤群臣􅀻望不敢越職而言臣切不勝犬馬之心昧死願陛下詔有司因盛夏吉時定皇子位唯陛下幸察臣去病昧死再拜以聞皇帝陛下三月乙亥御史臣光守尚書令奏未央制曰下御史六年三月戊申朔乙亥御史臣光尚書令丞非下御史書到言丞相臣青翟御史大夫臣湯太常臣􅂶大行令臣息太子少傅臣安行宗正事昧死上言大司馬臣去病上䟽曰陛下過聽使臣去病待罪行間宜專邉塞之思慮暴骸中野無以報乃敢惟他議以干用事者誠見陛下憂勞天下哀怜百姓以自忘虧膳貶樂損郎貟皇子頼天能勝衣趍拜至今無號位師傅官陛下恭讓不恤羣臣私望不敢越職而言臣切不勝犬馬之心昧死願陛下詔有司因盛夏吉時定皇子位唯陛下幸察制曰下御史臣與中二千石臣賀等議曰古者裂地立國並建諸侯以承天子所以尊宗廟重社稷也今臣去病上䟽不忘其職因以宣恩乃道天子卑讓自貶以勞天下慮皇子未有􅃅位臣青翟臣湯等昧死請立皇子臣閎臣旦臣胥為諸侯王昧死請􅀁立􅀦名除一百八十四字加一字已上有言語相重者今畧􅀧廢如此但此一篇􅀁記全宜削除今輙具列扵斯籍為鑒戒者爾凡為史者􅀦有詔誥十分不當取其一焉故漢元帝詔曰蓋聞安民之道本由隂陽間者隂陽錯謬風雨不時朕之不德庶㡬羣公有敢言朕之過者今則不然媮合苟從未肯極言朕甚閔焉永惟蒸庶之饑寒逺離父母妻子勞扵非業之作衛扵不居之宫恐非􅀁以佐隂陽之道也其罷甘泉建章宮衛士各令就農百官各省費條奏毋有􅀁諱有司勉之母犯四時之禁丞相御史舉天下明隂陽灾異者各三人及荀恱撰漢紀略其文曰朕惟衆庶之飢寒逺離父母妻子勞扵非業之作衛扵不居之宮其罷甘泉建章宮衛士各令就農丞相御史舉天下明隂陽灾異者各三人自餘抄撮佗皆倣此近則天朝諸撰史者凡有制誥一字不遺唯去詔首稱門下詔尾云主者施行而已時武承嗣監修􅀦史見之大怒謂史官曰公軰是何人而敢輙减詔書自是史官寫詔書雖門下賛詔亦録後予聞此􅀃每唱嘆而已必以三王世家相比其煩碎則又甚扵斯是知史官之愚其来尚矣今之作者何獨笑武承嗣而已哉魏公子傳曰髙祖始㣲少時數聞公子賢及即天子位每過大梁常祠公子髙祖十二年從撃黥布還為公子置守􅃁五家世世􅀊以四時奉祠公子太史公曰吾過大梁之墟求問其􅀁謂夷門以徵信陵君故事􅀃者云當戰􅀦之時夷門者城之東門也天下諸公子亦有嘉士者矣然而信陵君之接岩穴􅀮者不恥下交名􅃣諸侯有以也高祖每過之祠奉不絶十除十字五字加魯仲連傳曰仲連好竒偉倜儻之畫而不肯仕官任職好持髙節遊扵趙孝成王時而秦王使白起破趙長平之軍前後四十餘萬秦遂東圍邯鄲趙王恐諸侯之救兵莫敢撃秦魏安􅁵王使將軍􅀳鄙救趙畏秦止扵蕩隂不進魏王使客將軍新垣衍間入邯鄲因平原君謂趙王曰秦所以急圍趙者前與齊涽王争強為帝已而復歸帝號今齊涽王已益弱今惟秦雄天下此非必貪邯鄲其意欲復求為帝趙誠發使尊秦昭王為帝秦必喜罷兵去平原君猶豫未有􅀁決此時魯連􅃴逰趙㑹秦圍趙聞魏將欲令趙尊秦為帝乃見平原君曰事將奈何平原君曰勝也何敢言事前亡四十萬之衆於外今又内圍邯鄲而不去魏王使客將軍新垣衍令趙帝秦今其人在此勝也何敢言事魯連曰吾始以君爲天下之賢公子也吾乃今然後知君非天下之賢公子也梁客新垣衍安在吾請爲君責而歸之平原君曰勝請爲紹介而見之於先生平原君遂見新垣􅄛曰東􅀦有魯連先生者今其人在此勝請爲紹介交之扵將軍新垣􅄛曰吾聞魯連先生齊之髙士也􅄛人臣也使事有職吾不願見魯連先生平原君曰勝已洩之矣新垣􅄛許諾魯連見新垣衍而無言新垣衍曰吾視居此圍城之中皆有求平原君者也今吾觀先生之玉貌非有所求扵平原君者也曷居此重圍之中而不去魯連云云梁未觀秦稱帝之害也使梁觀秦稱帝之害則必助趙矣新垣衍曰秦稱帝之害何如魯連曰云云吾將使秦王烹􅊽梁王新垣衍怏然不恱曰嘻亦甚矣先生之言也先生又焉能使秦王烹􅊽梁王魯連曰固矣吾將言之今秦萬乘之􅀦也梁亦萬乘之國也俱據萬乘之國各有稱王之名睹其一戰而勝欲從而帝之云云扵是新垣衍􅁸再拜而謝曰始以先生為庸人吾乃今日知先生為天下之士也適㑹魏公子無忌奪晉鄙軍以救趙撃秦軍遂引而去扵是平原君欲封魯連辭謝者三終不肯受平原君乃致酒酒酣起前以千金為魯連夀七十五字加七字云云除三百屈原傳漢有賈生為長沙王大􅀓過湘水投書以吊屈原賈生名誼洛陽人也謫賈生為長沙王太傅賈生既辭徃聞長沙卑濕自以為夀不得長又以謫去意不自得及渡湘水為賦以吊屈原其詞曰云云賈生為長沙傳三年有鴞飛入賈生舎止扵坐隅楚人命鴞曰鵩賈生既以謫居長沙卑濕自恐夀不得長傷悼之乃為賦以自廣其詞曰云云懷王騎墮馬而死無後賈生自傷無状􅀊餘亦死時年三十二矣字加三字除七十六扁鵲倉公傳曰太倉公者齊太倉長臨淄人也姓淳于名意少而喜醫方術高后八年更受師同郡元里公乘陽慶慶年七十餘無子使意盡去其故方更悉以禁方與之傳黃帝扁鵲之脉書五色診病知人死生多驗詔問所爲治病死生驗者幾何人主名爲誰詔問故太倉長臣意方伎所長及所能治病有其書無有皆安受學受學㡬何􅀊嘗有􅀁驗何縣里人也何病醫藥與其病之状皆何如其悉以對臣意對曰自意少時喜藥醫方試之多不驗者至髙皇后八年中得見師臨淄元里公乘陽慶已年七十餘意得見事之謂意曰盡去而方書非是也慶有古先道遺傳黄帝扁鵲之脉書五色診病知人死生決嫌疑定可治及藥書甚精我家給富心愛公欲盡以我禁方書悉教公臣意即曰幸甚非意之所敢望也臣意即避席再拜謁受其脉書上下經五色診奇咳術揆度隂陽外變藥論石神接隂陽禁書受讀解驗之可一年明􅀊即驗然尚未精也要事之三年所常以為人診病决死生有驗精良今慶已死十年臣意年盡三十九也齊侍史成自言病頭痛臣意診其脈吿曰君之病惡不可言也驗事除二百九十五字已上皆述一生醫療効宋世家初云襄公嗣位仍謂為宋襄公不去宋襄公二字呉世家云闔閭越世家云勾踐每扵其號上加呉王越王字句句未嘗捨之孟嘗君傳曰馮公形容状貌甚辨按形容状貌同是一􅀃而敷演重出分為四言凡如此流不可勝載其十二諸侯表曰孔子次春秋約其辭文去其煩重又屈原傳曰其文約其辭㣲觀子長此言實有深鑒及自撰史記榛蕪若此豈所謂非言之難而行之難乎漢書龔遂傳曰上遣使者徵遂議曹王生請從功曹以為王生每嗜酒亡節度不可從遂不聽從至京師王生日飲酒不視太守㑹遂引入官王生醉從後呼曰明府且止願有􅀁白遂還問其故王生曰天子即問君何以治渤海君不可有所陳對冝曰皆聖主之德非小臣之力也遂受其言既至前上果問以治状遂對如王生天子悅其有讓笑曰君安得長者之言而稱之遂因前曰臣非知此乃臣議曹敎戒臣也云云上以議曹王生為水衡丞四字除八十新􅀳書􅀽宏傳曰􅀽宏有逸才文章絶美曾為詠史詩是其風情􅀁􅀉少孤貧以運租自業謝尚時鎭牛渚秋夜乗月率爾與左右㣲服泛江㑹宏在舫中諷其所作詠史詩詠聲既清亮詞又藻麗遂駐聽乆之遣問焉答云是􅀽臨汝所誦詩即其詠史之作也尚頃率有勝致即迎升舟與之談論申旦不􅄰自此名譽日茂云云從桓温北伐作北征賦其文之髙者甞與王珣伏滔同在桓温坐温令滔讀其北征賦至聞所傳扵相傳云獲麟扵此野誕靈物以瑞德奚受體於虞者疚尼父之慟泣似實慟而非假豈一性之足傷乃致傷扵天下其本至此便改韻珣云此賦方傳千載無容率爾今扵天下之後便改移韻從事然扵寫送之致似為未盡滔云得益寫韻一句或為小勝宏應聲答曰感不絶扵予心愬流風而獨寫云云謝安甞賞其機對辨速後安為楊州刺史自吏部郎出為東陽郡乃祖道扵冶亭時賢皆集謝安欲以卒迫試之臨别執其手願就左右以一扇而授之曰􅂓以贈行宏應聲答曰􅂺當奉揚仁風慰彼􅀺庶顧者無不歎服時人歎其卒而能要焉􅀃除一百一十四字加一十九字此事出檀道鸞晉陽秋及劉義慶世十六國春秋曰郭瑀有女始笄妙選良偶有心於劉昞遂别設一席於座前謂諸弟}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-1b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-2a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-2b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-3a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-3b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-4a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-4b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-5a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-5b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-6a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-6b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-7a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-7b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-8a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-8b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-9a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-9b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-10a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-10b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-11a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-11b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-12a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_015-12b}
+  - {type: variant, offset: 5, length: 0, content: '', WYG: 字加十二字其七條宋世家曰初元公之孫糺景公殺之景公卒糺之公}
+  - {type: variant, offset: 5, length: 0, content: '', krp: 外篇點繁第六十一條夫史之繁文已扵敘事篇言之詳矣然凡俗難曉下愚不移雖七卷成言而三隅莫反盖語曰百聞不如一見是以聚米為谷賊虜之虛實可知畫地成圖山川之形勢易悉昔陶隱居本草藥有冷熱味者朱墨點其名阮孝緒七録書有文悳殿丹筆寫其字由是區分有别品類可知今輙擬其事鈔自古史傳文有繁者皆以筆點其上雌黄並得其點用朱粉凡字經點者盡宜去之如其間有文句虧缺者細書側注於其右用朱粉雄其側書亦注者用朱黄以此為則黄等如正行用粉則别或囘易數字或加足片言俾分布得所彌縫無闕庻觀者易悟其失自彰知必摭實而談是非苟誣前哲孔子家語曰魯公索氏將祭而亡其牲孔子聞之曰公索氏不及二年矣一年而亡門人問曰昔公索氏亡其祭牲而夫子曰不及二年必亡今果如期而亡夫子何以知然四字除二十家語曰晉將伐宋使覘之宋陽門之介夫死司城子罕哭之哀覘者反言於晉侯曰宋陽門之介夫死司城子罕哭之哀民咸悅矣宋殆未可伐也字移三字除二十一史記五帝本紀曰諸侯之朝覲者不之丹朱而之舜百姓之獄訟者不之丹朱而之舜謳謌者不之丹朱而謳謌舜舜年二十以孝聞三十而帝堯問可用者云云堯舉之加七字除二十九夏本紀曰禹之父曰鯀鯀之父曰帝顓帝顓之父曰昌意昌意之父曰黄帝禹者黄帝之玄孫而顓頊之孫也禹之曾大父曰昌意及父鯀皆不得在帝位為人臣五除頊祖矣此篇下云禹是顓頊孫則其上不得更十七字加五字按顓頊紀中已具云黄帝是顓則於下文不當復云為人臣今就於朱㸃之中言黄帝之玄孫既上云昌意父鯀不得在帝位筆削庸可盡乎復有此重復造次項羽本紀曰項籍者下相人也字羽起時年二十四其季父項梁梁父楚將項燕為秦將王翦所殺者也項氏世世楚將封於項故姓項氏四字釐革其次序除三十字加二十呂氏本紀曰呂太后者高祖㣲時妃也生孝惠帝魯元公王及高祖為漢王得定陶戚姬愛幸生趙隱王如意高祖嫌孝惠為人仁弱高祖以為不類我常欲廢太子立戚姬子如意類我又戚姬幸常獨從上之關東日夜泣涕欲立其子如意以代太子呂后年長常留守希見上益踈如意立為趙王後幾代太子者數矣頼大臣諍之及留侯䇿太子得無廢良等傳過為重矣今又見於呂后紀此事見高惠二紀及諸王叔孫通張十五字加十二字固可畧而不言除七宋世家曰初元公之孫紏景公殺之景公卒紏之公子特攻殺太子而自立是為昭公昭公父公孫紏紏父褍秦即元公少子也景公殺昭公父紏故昭公怨殺太子而自立加十三字除三十六字三王世家曰大司馬臣去病昩死再拜上䟽皇帝陛下陛下過聽使臣去病待罪行間宜專邉塞之思慮暴骸中野無以報乃敢惟他議以干用事者誠見陛下憂勞天下哀憐百姓以自忘虧膳貶樂損郎員皇子頼天能勝衣趨拜至今無號位師傳官陛下恭讓不恤群臣私望不敢越職而言臣切不勝犬馬之心昧死願陛下詔有司因盛夏吉時定皇子位唯陛下幸察臣去病昧死再拜以聞皇帝陛下三月乙亥御史臣光守尚書令奏未央制曰下御史六年三月戊申朔乙亥御史臣光尚書令丞非下御史書到言丞相臣青翟御史大夫臣湯太常臣充大行令臣息太子少傅臣安行宗正事昧死上言大司馬臣去病上䟽曰陛下過聽使臣去病待罪行間宜專邉塞之思慮暴骸中野無以報乃敢惟他議以干用事者誠見陛下憂勞天下哀怜百姓以自忘虧膳貶樂損郎貟皇子頼天能勝衣趍拜至今無號位師傅官陛下恭讓不恤羣臣私望不敢越職而言臣切不勝犬馬之心昧死願陛下詔有司因盛夏吉時定皇子位唯陛下幸察制曰下御史臣與中二千石臣賀等議曰古者裂地立國並建諸侯以承天子所以尊宗廟重社稷也今臣去病上䟽不忘其職因以宣恩乃道天子卑讓自貶以勞天下慮皇子未有號位臣青翟臣湯等昧死請立皇子臣閎臣旦臣胥為諸侯王昧死請所立國名除一百八十四字加一字已上有言語相重者今畧點廢如此但此一篇所記全宜削除今輙具列扵斯籍為鑒戒者爾凡為史者國有詔誥十分不當取其一焉故漢元帝詔曰蓋聞安民之道本由隂陽間者隂陽錯謬風雨不時朕之不德庶㡬羣公有敢言朕之過者今則不然媮合苟從未肯極言朕甚閔焉永惟蒸庶之饑寒逺離父母妻子勞扵非業之作衛扵不居之宫恐非所以佐隂陽之道也其罷甘泉建章宮衛士各令就農百官各省費條奏毋有所諱有司勉之母犯四時之禁丞相御史舉天下明隂陽灾異者各三人及荀恱撰漢紀略其文曰朕惟衆庶之飢寒逺離父母妻子勞扵非業之作衛扵不居之宮其罷甘泉建章宮衛士各令就農丞相御史舉天下明隂陽灾異者各三人自餘抄撮佗皆倣此近則天朝諸撰史者凡有制誥一字不遺唯去詔首稱門下詔尾云主者施行而已時武承嗣監修國史見之大怒謂史官曰公軰是何人而敢輙减詔書自是史官寫詔書雖門下賛詔亦録後予聞此說每唱嘆而已必以三王世家相比其煩碎則又甚扵斯是知史官之愚其来尚矣今之作者何獨笑武承嗣而已哉魏公子傳曰髙祖始㣲少時數聞公子賢及即天子位每過大梁常祠公子髙祖十二年從撃黥布還為公子置守冡五家世世歲以四時奉祠公子太史公曰吾過大梁之墟求問其所謂夷門以徵信陵君故事說者云當戰國之時夷門者城之東門也天下諸公子亦有嘉士者矣然而信陵君之接岩穴隱者不恥下交名冠諸侯有以也高祖每過之祠奉不絶十除十字五字加魯仲連傳曰仲連好竒偉倜儻之畫而不肯仕官任職好持髙節遊扵趙孝成王時而秦王使白起破趙長平之軍前後四十餘萬秦遂東圍邯鄲趙王恐諸侯之救兵莫敢撃秦魏安釐王使將軍晉鄙救趙畏秦止扵蕩隂不進魏王使客將軍新垣衍間入邯鄲因平原君謂趙王曰秦所以急圍趙者前與齊涽王争強為帝已而復歸帝號今齊涽王已益弱今惟秦雄天下此非必貪邯鄲其意欲復求為帝趙誠發使尊秦昭王為帝秦必喜罷兵去平原君猶豫未有所決此時魯連適逰趙㑹秦圍趙聞魏將欲令趙尊秦為帝乃見平原君曰事將奈何平原君曰勝也何敢言事前亡四十萬之衆於外今又内圍邯鄲而不去魏王使客將軍新垣衍令趙帝秦今其人在此勝也何敢言事魯連曰吾始以君爲天下之賢公子也吾乃今然後知君非天下之賢公子也梁客新垣衍安在吾請爲君責而歸之平原君曰勝請爲紹介而見之於先生平原君遂見新垣衍曰東國有魯連先生者今其人在此勝請爲紹介交之扵將軍新垣衍曰吾聞魯連先生齊之髙士也衍人臣也使事有職吾不願見魯連先生平原君曰勝已洩之矣新垣衍許諾魯連見新垣衍而無言新垣衍曰吾視居此圍城之中皆有求平原君者也今吾觀先生之玉貌非有所求扵平原君者也曷居此重圍之中而不去魯連云云梁未觀秦稱帝之害也使梁觀秦稱帝之害則必助趙矣新垣衍曰秦稱帝之害何如魯連曰云云吾將使秦王烹醢梁王新垣衍怏然不恱曰嘻亦甚矣先生之言也先生又焉能使秦王烹醢梁王魯連曰固矣吾將言之今秦萬乘之國也梁亦萬乘之國也俱據萬乘之國各有稱王之名睹其一戰而勝欲從而帝之云云扵是新垣衍𧺫再拜而謝曰始以先生為庸人吾乃今日知先生為天下之士也適㑹魏公子無忌奪晉鄙軍以救趙撃秦軍遂引而去扵是平原君欲封魯連辭謝者三終不肯受平原君乃致酒酒酣起前以千金為魯連夀七十五字加七字云云除三百屈原傳漢有賈生為長沙王大傳過湘水投書以吊屈原賈生名誼洛陽人也謫賈生為長沙王太傅賈生既辭徃聞長沙卑濕自以為夀不得長又以謫去意不自得及渡湘水為賦以吊屈原其詞曰云云賈生為長沙傳三年有鴞飛入賈生舎止扵坐隅楚人命鴞曰鵩賈生既以謫居長沙卑濕自恐夀不得長傷悼之乃為賦以自廣其詞曰云云懷王騎墮馬而死無後賈生自傷無状歲餘亦死時年三十二矣字加三字除七十六扁鵲倉公傳曰太倉公者齊太倉長臨淄人也姓淳于名意少而喜醫方術高后八年更受師同郡元里公乘陽慶慶年七十餘無子使意盡去其故方更悉以禁方與之傳黃帝扁鵲之脉書五色診病知人死生多驗詔問所爲治病死生驗者幾何人主名爲誰詔問故太倉長臣意方伎所長及所能治病有其書無有皆安受學受學㡬何歲嘗有所驗何縣里人也何病醫藥與其病之状皆何如其悉以對臣意對曰自意少時喜藥醫方試之多不驗者至髙皇后八年中得見師臨淄元里公乘陽慶已年七十餘意得見事之謂意曰盡去而方書非是也慶有古先道遺傳黄帝扁鵲之脉書五色診病知人死生決嫌疑定可治及藥書甚精我家給富心愛公欲盡以我禁方書悉教公臣意即曰幸甚非意之所敢望也臣意即避席再拜謁受其脉書上下經五色診奇咳術揆度隂陽外變藥論石神接隂陽禁書受讀解驗之可一年明歲即驗然尚未精也要事之三年所常以為人診病决死生有驗精良今慶已死十年臣意年盡三十九也齊侍史成自言病頭痛臣意診其脈吿曰君之病惡不可言也驗事除二百九十五字已上皆述一生醫療効宋世家初云襄公嗣位仍謂為宋襄公不去宋襄公二字呉世家云闔閭越世家云勾踐每扵其號上加呉王越王字句句未嘗捨之孟嘗君傳曰馮公形容状貌甚辨按形容状貌同是一說而敷演重出分為四言凡如此流不可勝載其十二諸侯表曰孔子次春秋約其辭文去其煩重又屈原傳曰其文約其辭㣲觀子長此言實有深鑒及自撰史記榛蕪若此豈所謂非言之難而行之難乎漢書龔遂傳曰上遣使者徵遂議曹王生請從功曹以為王生每嗜酒亡節度不可從遂不聽從至京師王生日飲酒不視太守㑹遂引入官王生醉從後呼曰明府且止願有所白遂還問其故王生曰天子即問君何以治渤海君不可有所陳對冝曰皆聖主之德非小臣之力也遂受其言既至前上果問以治状遂對如王生天子悅其有讓笑曰君安得長者之言而稱之遂因前曰臣非知此乃臣議曹敎戒臣也云云上以議曹王生為水衡丞四字除八十新晉書袁宏傳曰袁宏有逸才文章絶美曾為詠史詩是其風情所寄少孤貧以運租自業謝尚時鎭牛渚秋夜乗月率爾與左右㣲服泛江㑹宏在舫中諷其所作詠史詩詠聲既清亮詞又藻麗遂駐聽乆之遣問焉答云是袁臨汝所誦詩即其詠史之作也尚頃率有勝致即迎升舟與之談論申旦不寐自此名譽日茂云云從桓温北伐作北征賦其文之髙者甞與王珣伏滔同在桓温坐温令滔讀其北征賦至聞所傳扵相傳云獲麟扵此野誕靈物以瑞德奚受體於虞者疚尼父之慟泣似實慟而非假豈一性之足傷乃致傷扵天下其本至此便改韻珣云此賦方傳千載無容率爾今扵天下之後便改移韻從事然扵寫送之致似為未盡滔云得益寫韻一句或為小勝宏應聲答曰感不絶扵予心愬流風而獨寫云云謝安甞賞其機對辨速後安為楊州刺史自吏部郎出為東陽郡乃祖道扵冶亭時賢皆集謝安欲以卒迫試之臨别執其手願就左右以一扇而授之曰聊以贈行宏應聲答曰輒當奉揚仁風慰彼黎庶顧者無不歎服時人歎其卒而能要焉說除一百一十四字加一十九字此事出檀道鸞晉陽秋及劉義慶世十六國春秋曰郭瑀有女始笄妙選良偶有心於劉昞遂别設一席於座前謂諸弟}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 得正殺太子而自立是為昭公昭公者父公孫糺糺父公子襦秦即元公少子也景公殺昭公父糺故昭公怨殺太子而自立除三十六字加十三字其八條三王世家}
+  - {type: punctuation, offset: 7, content: ：, id: KR2o0001_tls_015-bkkpn1}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR2o0001_tls_015-1a.2}
+  - {type: punctuation, offset: 7, content: 「, id: KR2o0001_tls_015-bkkpn2}
+  - {type: variant, offset: 7, length: 2, content: 吾猶, WYG: 大司馬臣去病昩死再拜上疏皇帝陛下陛下過聽使臣去病待罪行間宜專邊塞之思慮暴骸中野無以報乃敢惟他議以干用事者誠見陛下憂勞天下哀憐百姓以自忘虧膳貶樂損郎貟皇子賴天能勝衣趨拜至今無號位師傅官陛下恭讓不恤羣臣私望不敢越職而言臣切不勝犬馬之心昧死願陛下詔有司因盛夏吉時定皇子位唯陛下幸察臣去病昧死再拜以聞皇帝陛下三月乙亥御史臣光守尚書令奏未央制曰下御史六年三月戊申朔乙亥御史臣光尚書令丞非下御史書到言丞相臣青翟御史大夫臣湯大常臣充大行令臣息太子太傅臣安行宗正事昧死上言大司馬臣去病上疏曰陛下過聽使臣去病待罪行間宜專邊塞之思慮暴骸中野無以報乃敢惟他議以干用事者誠見陛下憂勞天下哀憐百姓以自忘虧膳貶樂損郎貟皇子賴天能勝衣趨拜至今無號位師傅官陛下恭讓不恤羣臣私望不敢越職而言臣切不勝犬馬之心昧死願陛下詔有司因盛夏吉時定皇子位唯陛下幸察制曰下御史臣與中二千石臣賀等議曰古者裂地立國並建諸侯以承天子所以尊宗廟重社稷也今臣去病上疏不㤀其職因以宣恩乃道天子卑讓自貶以勞天下慮皇子未有號位臣青翟臣湯等昧死請立皇子臣閎臣旦臣胥為諸侯王昧死請所立國名除一百八十四字加一字其九條已上有言語相重者今略㸃發如此但此一篇所記全宜削除今輙具列於斯籍為鑒戒者爾凡為史者國有詔誥十分不當取其一焉故漢元帝詔曰盖聞安民之道本由隂陽間者隂陽錯謬風雨不時朕之不德庶幾羣公有敢言朕之過者今則不然婾合茍從未肯極言朕甚閔焉永惟蒸庶之饑寒逺離父母妻子勞於非業之作衞於不居之宫恐非所以佐隂陽之道也其罷甘泉建章宫衞士各令就農百家各省費條奏毋有所諱有司勉之毋犯四時之禁丞相御史舉天下明隂陽灾異者各三人}
+  - {type: page-break, offset: 7, content: '', id: KR2o0001_WYG_015-4a, image: WYG0685/WYG0685-0113c.png}
+  - {type: page-break, offset: 7, content: '', id: KR2o0001_WYG_015-4b, image: WYG0685/WYG0685-0113d.png}
+  - {type: page-break, offset: 7, content: '', id: KR2o0001_WYG_015-5a, image: WYG0685/WYG0685-0114a.png}
+  - {type: page-break, offset: 7, content: '', id: KR2o0001_WYG_015-5b, image: WYG0685/WYG0685-0114b.png}
+  - {type: variant, offset: 8, length: 2, content: 猶及, SBCK: 有一女年向成長欲覔一快女婿誰坐此席者吾當婿焉昞遂奮衣來坐神志湛然曰向聞先生欲求怏女婿其人也除二十三字}
+  - {type: page-break, offset: 8, content: '', id: KR2o0001_SBCK_015-13a}
+  - {type: variant, offset: 8, length: 2, content: 猶及, krp: 有一女年向成長欲覔一快女婿誰坐此席者吾當婿焉昞遂奮衣來坐神志湛然曰向聞先生欲求怏女婿其人也除二十三字}
+  - {type: variant, offset: 10, length: 0, content: '', WYG: 荀悅撰漢紀略其文曰朕惟衆庶之饑寒逺離父母妻子勞於非業之作衞於不居之宫其罷甘泉建章宫衛士各令就農丞相御}
+  - {type: page-break, offset: 10, content: '', id: KR2o0001_WYG_015-6a, image: WYG0685/WYG0685-0114c.png}
+  - {type: variant, offset: 11, length: 0, content: '', SBCK: 通卷}
+  - {type: variant, offset: 11, length: 0, content: '', WYG: 舉天下明隂陽灾異者各三人自餘抄撮他皆倣此近則天朝諸撰史者凡有制誥一字不遺唯去詔首稱門下詔尾云主者施行而已時武承嗣監修國史見}
+  - {type: variant, offset: 11, length: 0, content: '', krp: 通卷}
+  - {type: variant, offset: 12, length: 743, content: 闕文是知史文有闕其來尚矣自非博雅君子何以補其遺逸者哉蓋珍裘以衆腋成溫廣廈以羣材合構自古探穴藏山之士懷鉛握槧之客何嘗不徵求異說採摭羣言然後能成一家傳諸不朽觀夫丘明受經立傳廣包諸國蓋當時有周志晉乘楚杌等篇遂乃聚而編之混成一錄向使專憑魯策獨詢孔氏何以能殫見洽聞若斯之博也馬遷史記採世本國語戰國策楚漢春秋至班固漢書則全同太史自太初已後又雜引劉氏新序說苑七略之辭此並當代雅言事無邪僻故能取信一時擅名千載但中世作者其流日煩雖國有策書殺青不暇而百家諸子私存撰錄寸有所長實廣聞見其失之者則有茍出異端虛益新事至如禹生啟石伊產空桑海客乘槎以登漢姮娥竊藥以奔月如斯踳駁不可殫論固難以汙南董之片簡霑班華之寸札而嵇康高士傳好聚七國寓言玄晏帝王紀多採六經圖讖引書之誤其萌於此矣至范曄增損東漢一代自謂無愧良直而王喬鳧履出於風俗通左慈羊鳴傳於抱朴子朱紫不別穢莫大焉沈氏著書好誣先代於晉則故造奇說在宋則多出謗言前史所載已譏其謬矣而魏收黨附北朝尤苦南國承其詭妄重以加諸遂云馬叡出於牛金王劭曰沈約晉書造奇說云瑯琊國姓牛者與夏侯妃私通生中宗因遠敍宣帝以毒酒殺牛金符證其狀收承此言乃云司馬叡晉將牛金之子也宋孝王曰收以叡爲金子計其年全不相干案前史尚如此誤況後史編錄者耶劉駿上淫路氏沈約宋書曰孝武於路太后處寢息時人多有異議魏書因云駿烝其母路氏醜聲播於甌越也可謂助桀爲虐幸人之災尋其生絕胤嗣死遭剖斵蓋亦陰過之所致也晉世雜書諒非一族若語林世說幽明錄搜神記之徒其所載或恢諧小辯或神鬼怪物其事非聖揚雄所不觀其言亂神宣尼所不語皇朝新撰晉史多採以爲書夫以干鄧之所糞除王虞之所糠秕持爲逸史用補前傳此何異魏朝之撰皇覽梁世之修徧略務多爲美聚博爲功雖取說於小人終見嗤於君子矣夫郡國之記譜諜之書務欲矜其州里誇其氏族讀之者安可不練其得失明其真偽者乎至如江東, SBCK: 十}
+  - {type: variant, offset: 12, length: 2, content: 闕文, WYG: 大怒謂史官曰公輩是何人而敢輙減詔書自是史官寫詔書雖門下贊詔亦録後予聞此説每唱噱而已必以三王世家相比其煩碎則又甚於斯}
+  - {type: variant, offset: 12, length: 743, content: 闕文是知史文有闕其來尚矣自非博雅君子何以補其遺逸者哉蓋珍裘以衆腋成溫廣廈以羣材合構自古探穴藏山之士懷鉛握槧之客何嘗不徵求異說採摭羣言然後能成一家傳諸不朽觀夫丘明受經立傳廣包諸國蓋當時有周志晉乘楚杌等篇遂乃聚而編之混成一錄向使專憑魯策獨詢孔氏何以能殫見洽聞若斯之博也馬遷史記採世本國語戰國策楚漢春秋至班固漢書則全同太史自太初已後又雜引劉氏新序說苑七略之辭此並當代雅言事無邪僻故能取信一時擅名千載但中世作者其流日煩雖國有策書殺青不暇而百家諸子私存撰錄寸有所長實廣聞見其失之者則有茍出異端虛益新事至如禹生啟石伊產空桑海客乘槎以登漢姮娥竊藥以奔月如斯踳駁不可殫論固難以汙南董之片簡霑班華之寸札而嵇康高士傳好聚七國寓言玄晏帝王紀多採六經圖讖引書之誤其萌於此矣至范曄增損東漢一代自謂無愧良直而王喬鳧履出於風俗通左慈羊鳴傳於抱朴子朱紫不別穢莫大焉沈氏著書好誣先代於晉則故造奇說在宋則多出謗言前史所載已譏其謬矣而魏收黨附北朝尤苦南國承其詭妄重以加諸遂云馬叡出於牛金王劭曰沈約晉書造奇說云瑯琊國姓牛者與夏侯妃私通生中宗因遠敍宣帝以毒酒殺牛金符證其狀收承此言乃云司馬叡晉將牛金之子也宋孝王曰收以叡爲金子計其年全不相干案前史尚如此誤況後史編錄者耶劉駿上淫路氏沈約宋書曰孝武於路太后處寢息時人多有異議魏書因云駿烝其母路氏醜聲播於甌越也可謂助桀爲虐幸人之災尋其生絕胤嗣死遭剖斵蓋亦陰過之所致也晉世雜書諒非一族若語林世說幽明錄搜神記之徒其所載或恢諧小辯或神鬼怪物其事非聖揚雄所不觀其言亂神宣尼所不語皇朝新撰晉史多採以爲書夫以干鄧之所糞除王虞之所糠秕持爲逸史用補前傳此何異魏朝之撰皇覽梁世之修徧略務多爲美聚博爲功雖取說於小人終見嗤於君子矣夫郡國之記譜諜之書務欲矜其州里誇其氏族讀之者安可不練其得失明其真偽者乎至如江東, krp: 十}
+  - {type: punctuation, offset: 14, content: 。, id: KR2o0001_tls_015-bkkpn3}
+  - {type: punctuation, offset: 14, content: 」, id: KR2o0001_tls_015-bkkpn4}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR2o0001_tls_015-1a.3}
+  - {type: variant, offset: 17, length: 1, content: 文, WYG: 官}
+  - {type: variant, offset: 18, length: 1, content: 有, WYG: 之}
+  - {type: variant, offset: 19, length: 1, content: 闕, WYG: 愚}
+  - {type: punctuation, offset: 20, content: ，, id: KR2o0001_tls_015-bkkpn5}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR2o0001_tls_015-1a.4}
+  - {type: punctuation, offset: 24, content: 。, id: KR2o0001_tls_015-bkkpn6}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR2o0001_tls_015-1a.5}
+  - {type: variant, offset: 24, length: 1, content: 自, WYG: 今之作者何獨笑武承嗣而已哉其十條魏公子傳髙祖始微少時數聞公子賢及即天子位每過大梁常祠公子髙祖十二年從撃黥布還為公子置守冢五家世世歲以四時奉祠公子太史公曰吾過大梁之墟求問其所謂夷門以徵信陵君故事說者云當戰國之時夷門者城之東門也天下諸公子亦有嘉士者矣然而信陵君之接岩穴隱者不恥下交名冠諸侯有以也高祖每過之祠奉不絶除十五字加二十字其十一條魯仲連傳曰仲連好竒偉倜儻之畫而不肯仕宦任職好持髙節遊於趙孝成王時而秦王使白起破趙長平之軍前後四十餘萬秦遂東圍邯鄲趙王恐諸侯之救兵莫敢撃秦魏安釐王使將軍晉鄙救趙畏秦止於湯隂不進魏王使客將軍新垣衍間入邯鄲因平原君謂趙王曰秦所以急圍趙者前與齊涽王爭强為帝已而復歸帝號今齊涽王已益弱今唯秦雄天下此}
+  - {type: page-break, offset: 24, content: '', id: KR2o0001_WYG_015-6b, image: WYG0685/WYG0685-0114d.png}
+  - {type: page-break, offset: 24, content: '', id: KR2o0001_WYG_015-7a, image: WYG0685/WYG0685-0115a.png}
+  - {type: variant, offset: 26, length: 2, content: 博雅, WYG: 必貪邯鄲其意欲復求為帝趙誠發使尊秦昭王為帝秦必喜罷兵去平原}
+  - {type: page-break, offset: 26, content: '', id: KR2o0001_WYG_015-7b, image: WYG0685/WYG0685-0115b.png}
+  - {type: variant, offset: 29, length: 0, content: '', WYG: 猶豫未有所決此時魯連適遊趙㑹秦圍趙聞魏將欲令趙尊秦為帝乃見平原君曰事將奈何平原君曰勝也何敢言事前亡四十萬之衆於外今又内圍邯鄲而不去魏王使客將軍新垣衍令趙帝秦今其人在此勝也何敢言事魯連曰吾始以君為天下之賢公}
+  - {type: punctuation, offset: 30, content: ，, id: KR2o0001_tls_015-bkkpn7}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR2o0001_tls_015-1a.6}
+  - {type: variant, offset: 30, length: 0, content: '', WYG: 也吾乃今然後知君非天下之賢公子也梁客新垣衍安在吾請為君責而歸之平原君曰勝請為紹介而見之於先生平原君遂見新垣衍曰東國有魯連先生者今其人在此勝請為紹介交之於將軍新垣衍曰吾聞魯連先生齊之髙士也衍人臣也使事有職吾不願見魯連先生平原君曰勝已洩之矣新垣衍許諾魯連見新垣衍而無言新垣衍曰吾視居此圍城之中皆有求平原君者也今吾觀先生之玉貌非有所求於平原君者也曷居此重圍之中而不去魯連云云梁未觀秦稱帝之害也使梁觀秦稱帝之害則必助趙矣新垣衍曰稱秦帝之害}
+  - {type: page-break, offset: 30, content: '', id: KR2o0001_WYG_015-8a, image: WYG0685/WYG0685-0115c.png}
+  - {type: variant, offset: 31, length: 0, content: '', WYG: 如魯連曰云云吾將使秦王烹醢梁王新垣衍怏然不悅也嘻亦甚矣先生之言也先生又焉能使秦王烹醢梁王魯連曰固矣吾將言之今秦萬乘之國也梁亦萬乘之國也俱據萬乘之國交有稱王之名睹其一戰而勝欲從而帝之云云於是新垣衍起再拜而謝曰始}
+  - {type: page-break, offset: 31, content: '', id: KR2o0001_WYG_015-8b, image: WYG0685/WYG0685-0115d.png}
+  - {type: variant, offset: 32, length: 27, content: 補其遺逸者哉蓋珍裘以衆腋成溫廣廈以羣材合構自古探穴藏山, WYG: 先生為庸人吾乃今日知先生為天下}
+  - {type: punctuation, offset: 38, content: ？, id: KR2o0001_tls_015-bkkpn8}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR2o0001_tls_015-1a.7}
+  - {type: punctuation, offset: 46, content: ，, id: KR2o0001_tls_015-bkkpn9}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR2o0001_tls_015-1a.8}
+  - {type: punctuation, offset: 53, content: 。, id: KR2o0001_tls_015-bkkpn10}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR2o0001_tls_015-1a.9}
+  - {type: punctuation, offset: 61, content: ，, id: KR2o0001_tls_015-bkkpn11}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR2o0001_tls_015-1a.10}
+  - {type: variant, offset: 61, length: 0, content: '', WYG: 也適㑹魏公子無忌奪晉鄙軍以救趙撃秦軍遂引而去於是平原君欲封魯連辭謝者三終不肯受平原君乃致酒酒酣前起以千金為魯連壽云云除三百七十五字加七字其十二條屈原傳漢有賈生為長沙王太傅過湘水投書以弔屈原賈生名誼洛陽人也謫賈生為長沙王太傅賈生既辭往聞長沙卑濕自以為壽不得長又以謫去意不自得及渡湘水為賦以弔屈原其詞曰云云賈生為長沙傅二年有鴞飛入賈生舍止於坐隅楚人命鴞曰鵩賈生既以謫居長沙長沙卑濕自恐壽不得長傷悼之乃為賦以自廣其詞曰云云}
+  - {type: page-break, offset: 61, content: '', id: KR2o0001_WYG_015-9a, image: WYG0685/WYG0685-0116a.png}
+  - {type: variant, offset: 62, length: 3, content: 鉛握槧, WYG: 王騎墮馬而死無後賈生自傷無狀歲亦死時年三十三矣除七十六字加三字其十三條扁鵲倉公傳曰太倉公者齊太倉長臨淄人也姓淳于氏名意少而喜醫方術高后八年更受師同郡公里公乘陽慶慶年七十餘無子使意盡去其故方更悉以禁方與}
+  - {type: page-break, offset: 62, content: '', id: KR2o0001_WYG_015-9b, image: WYG0685/WYG0685-0116b.png}
+  - {type: variant, offset: 66, length: 1, content: 客, WYG: 傳黄帝扁鵲之脉書五色診病知人死生多驗詔問所為治病死生驗者幾}
+  - {type: punctuation, offset: 67, content: ，, id: KR2o0001_tls_015-bkkpn12}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR2o0001_tls_015-1a.11}
+  - {type: variant, offset: 68, length: 0, content: '', WYG: 人主名為誰詔問故太倉長臣意方􅇊所長及所能治病有其書無有皆安受學受學幾何歲}
+  - {type: variant, offset: 69, length: 0, content: '', WYG: 有所驗何縣里人也何病醫藥與其病之狀皆何如其悉以對臣意對曰自意少時喜藥醫方試之多}
+  - {type: page-break, offset: 69, content: '', id: KR2o0001_WYG_015-10a, image: WYG0685/WYG0685-0116c.png}
+  - {type: variant, offset: 70, length: 7, content: 徵求異說採摭羣, WYG: 驗者至髙皇后八年中得見師臨淄元里公乘陽慶已年七十餘意得見事之謂意曰盡去而方書非是也慶有古先道遺傳黄帝扁鵲之脉書五色診病知人死生決嫌疑定可治及藥書甚精我家給富心愛公欲盡以我禁方書悉敎公臣意即曰幸甚非意之所敢望也臣意即避席再拜謁受其脉書上下經五色診竒咳術揆度隂陽外變藥論石神接隂陽禁書受讀解驗之可一年明歲即驗然尚未精也要事之三年所常以為人診病決死生有驗精良今慶已死十年臣意年盡三十九也齊侍史成自}
+  - {type: page-break, offset: 70, content: '', id: KR2o0001_WYG_015-10b, image: WYG0685/WYG0685-0116d.png}
+  - {type: punctuation, offset: 74, content: ，, id: KR2o0001_tls_015-bkkpn13}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR2o0001_tls_015-1a.12}
+  - {type: substitution, offset: 75, original: 摭, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4100}}
+  - {type: punctuation, offset: 78, content: ，, id: KR2o0001_tls_015-bkkpn14}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR2o0001_tls_015-1a.13}
+  - {type: variant, offset: 78, length: 4, content: 然後能成, WYG: 病也臣意診其脉吿曰君之病惡不可言也已下皆述}
+  - {type: variant, offset: 83, length: 0, content: '', WYG: 生醫療効驗事除二百九十五字其十四條宋世}
+  - {type: punctuation, offset: 84, content: ，, id: KR2o0001_tls_015-bkkpn15}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR2o0001_tls_015-1a.14}
+  - {type: variant, offset: 84, length: 0, content: '', WYG: 初云襄公嗣位仍謂為宋襄公不去宋襄二字吳世家云闔閭越世家云勾踐每於其號上加吳王越王字句句未嘗捨之孟嘗君}
+  - {type: variant, offset: 85, length: 0, content: '', WYG: 曰馮公形容狀貌甚辨按形容狀貌同是一説而敷演重出分為四言凡如此流不可勝載其十二}
+  - {type: page-break, offset: 85, content: '', id: KR2o0001_WYG_015-11a, image: WYG0685/WYG0685-0117a.png}
+  - {type: variant, offset: 86, length: 44, content: 不朽觀夫丘明受經立傳廣包諸國蓋當時有周志晉乘楚杌等篇遂乃聚而編之混成一錄向使專憑魯策獨詢, WYG: 侯表曰}
+  - {type: punctuation, offset: 88, content: 。, id: KR2o0001_tls_015-bkkpn16}
+  - {type: 'tls:seg', offset: 88, content: '', id: KR2o0001_tls_015-1a.15}
+  - {type: punctuation, offset: 93, content: 《, id: KR2o0001_tls_015-bkkpn17}
+  - {type: punctuation, offset: 94, content: 》, id: KR2o0001_tls_015-bkkpn18}
+  - {type: punctuation, offset: 95, content: 《, id: KR2o0001_tls_015-bkkpn19}
+  - {type: punctuation, offset: 96, content: 》, id: KR2o0001_tls_015-bkkpn20}
+  - {type: punctuation, offset: 96, content: ，, id: KR2o0001_tls_015-bkkpn21}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR2o0001_tls_015-1a.16}
+  - {type: punctuation, offset: 100, content: ，, id: KR2o0001_tls_015-bkkpn22}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2o0001_tls_015-1a.17}
+  - {type: punctuation, offset: 104, content: 《, id: KR2o0001_tls_015-bkkpn23}
+  - {type: punctuation, offset: 106, content: 》, id: KR2o0001_tls_015-bkkpn24}
+  - {type: punctuation, offset: 106, content: 、, id: KR2o0001_tls_015-bkkpn25}
+  - {type: punctuation, offset: 106, content: 《, id: KR2o0001_tls_015-bkkpn26}
+  - {type: punctuation, offset: 108, content: 》, id: KR2o0001_tls_015-bkkpn27}
+  - {type: punctuation, offset: 108, content: 、, id: KR2o0001_tls_015-bkkpn28}
+  - {type: punctuation, offset: 108, content: 《, id: KR2o0001_tls_015-bkkpn29}
+  - {type: punctuation, offset: 110, content: 》, id: KR2o0001_tls_015-bkkpn30}
+  - {type: punctuation, offset: 112, content: ，, id: KR2o0001_tls_015-bkkpn31}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR2o0001_tls_015-1a.18}
+  - {type: punctuation, offset: 118, content: ，, id: KR2o0001_tls_015-bkkpn32}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR2o0001_tls_015-1a.19}
+  - {type: substitution, offset: 121, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 122, content: 。, id: KR2o0001_tls_015-bkkpn33}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR2o0001_tls_015-1a.20}
+  - {type: punctuation, offset: 128, content: ，, id: KR2o0001_tls_015-bkkpn34}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR2o0001_tls_015-1a.21}
+  - {type: variant, offset: 131, length: 27, content: 氏何以能殫見洽聞若斯之博也馬遷史記採世本國語戰國策楚漢, WYG: 子次}
+  - {type: punctuation, offset: 132, content: ，, id: KR2o0001_tls_015-bkkpn35}
+  - {type: 'tls:seg', offset: 132, content: '', id: KR2o0001_tls_015-1a.22}
+  - {type: punctuation, offset: 139, content: ，, id: KR2o0001_tls_015-bkkpn36}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR2o0001_tls_015-1a.23}
+  - {type: punctuation, offset: 144, content: ？, id: KR2o0001_tls_015-bkkpn37}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR2o0001_tls_015-1a.24}
+  - {type: punctuation, offset: 146, content: 《, id: KR2o0001_tls_015-bkkpn38}
+  - {type: punctuation, offset: 148, content: 》, id: KR2o0001_tls_015-bkkpn39}
+  - {type: punctuation, offset: 148, content: ，, id: KR2o0001_tls_015-bkkpn40}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR2o0001_tls_015-1a.25}
+  - {type: punctuation, offset: 149, content: 《, id: KR2o0001_tls_015-bkkpn41}
+  - {type: punctuation, offset: 151, content: 》, id: KR2o0001_tls_015-bkkpn42}
+  - {type: punctuation, offset: 151, content: 、, id: KR2o0001_tls_015-bkkpn43}
+  - {type: punctuation, offset: 151, content: 《, id: KR2o0001_tls_015-bkkpn44}
+  - {type: punctuation, offset: 153, content: 》, id: KR2o0001_tls_015-bkkpn45}
+  - {type: punctuation, offset: 153, content: 、, id: KR2o0001_tls_015-bkkpn46}
+  - {type: punctuation, offset: 153, content: 《, id: KR2o0001_tls_015-bkkpn47}
+  - {type: punctuation, offset: 156, content: 》, id: KR2o0001_tls_015-bkkpn48}
+  - {type: punctuation, offset: 156, content: 、, id: KR2o0001_tls_015-bkkpn49}
+  - {type: punctuation, offset: 156, content: 《, id: KR2o0001_tls_015-bkkpn50}
+  - {type: punctuation, offset: 160, content: 》, id: KR2o0001_tls_015-bkkpn51}
+  - {type: punctuation, offset: 160, content: 。, id: KR2o0001_tls_015-bkkpn52}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR2o0001_tls_015-1a.26}
+  - {type: variant, offset: 160, length: 15, content: 至班固漢書則全同太史自太初已後, WYG: 約其辭文去其煩重}
+  - {type: punctuation, offset: 163, content: 《, id: KR2o0001_tls_015-bkkpn53}
+  - {type: punctuation, offset: 165, content: 》, id: KR2o0001_tls_015-bkkpn54}
+  - {type: punctuation, offset: 165, content: ，, id: KR2o0001_tls_015-bkkpn55}
+  - {type: 'tls:seg', offset: 165, content: '', id: KR2o0001_tls_015-1a.27}
+  - {type: punctuation, offset: 170, content: 。, id: KR2o0001_tls_015-bkkpn56}
+  - {type: 'tls:seg', offset: 170, content: '', id: KR2o0001_tls_015-1a.28}
+  - {type: punctuation, offset: 175, content: ，, id: KR2o0001_tls_015-bkkpn57}
+  - {type: 'tls:seg', offset: 175, content: '', id: KR2o0001_tls_015-1a.29}
+  - {type: variant, offset: 176, length: 11, content: 雜引劉氏新序說苑七略之, WYG: 屈原傳曰其文約其}
+  - {type: punctuation, offset: 180, content: 《, id: KR2o0001_tls_015-bkkpn58}
+  - {type: punctuation, offset: 182, content: 》, id: KR2o0001_tls_015-bkkpn59}
+  - {type: punctuation, offset: 182, content: 、, id: KR2o0001_tls_015-bkkpn60}
+  - {type: punctuation, offset: 182, content: 《, id: KR2o0001_tls_015-bkkpn61}
+  - {type: punctuation, offset: 184, content: 》, id: KR2o0001_tls_015-bkkpn62}
+  - {type: punctuation, offset: 184, content: 、, id: KR2o0001_tls_015-bkkpn63}
+  - {type: punctuation, offset: 184, content: 《, id: KR2o0001_tls_015-bkkpn64}
+  - {type: punctuation, offset: 186, content: 》, id: KR2o0001_tls_015-bkkpn65}
+  - {type: punctuation, offset: 188, content: 。, id: KR2o0001_tls_015-bkkpn66}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR2o0001_tls_015-1a.30}
+  - {type: variant, offset: 188, length: 42, content: 此並當代雅言事無邪僻故能取信一時擅名千載但中世作者其流日煩雖國有策書殺青不暇而百家諸, WYG: 微觀}
+  - {type: punctuation, offset: 194, content: ，, id: KR2o0001_tls_015-bkkpn67}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR2o0001_tls_015-1a.31}
+  - {type: punctuation, offset: 198, content: ，, id: KR2o0001_tls_015-bkkpn68}
+  - {type: 'tls:seg', offset: 198, content: '', id: KR2o0001_tls_015-1a.32}
+  - {type: punctuation, offset: 204, content: ，, id: KR2o0001_tls_015-bkkpn69}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR2o0001_tls_015-1a.33}
+  - {type: punctuation, offset: 208, content: 。, id: KR2o0001_tls_015-bkkpn70}
+  - {type: xml-element, offset: 208, content: '', id: KR2o0001_tls_015-bkkxmlele2}
+  - {type: xml-element, offset: 208, content: '', id: KR2o0001_tls_015-bkkxmlele3}
+  - {type: 'tls:seg', offset: 208, content: '', id: KR2o0001_tls_015-2a.1}
+  - {type: punctuation, offset: 213, content: ，, id: KR2o0001_tls_015-bkkpn71}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR2o0001_tls_015-2a.2}
+  - {type: punctuation, offset: 217, content: ，, id: KR2o0001_tls_015-bkkpn72}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR2o0001_tls_015-2a.3}
+  - {type: punctuation, offset: 222, content: ，, id: KR2o0001_tls_015-bkkpn73}
+  - {type: 'tls:seg', offset: 222, content: '', id: KR2o0001_tls_015-2a.4}
+  - {type: punctuation, offset: 226, content: ，, id: KR2o0001_tls_015-bkkpn74}
+  - {type: 'tls:seg', offset: 226, content: '', id: KR2o0001_tls_015-2a.5}
+  - {type: punctuation, offset: 231, content: ，, id: KR2o0001_tls_015-bkkpn75}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR2o0001_tls_015-2a.6}
+  - {type: variant, offset: 231, length: 7, content: 私存撰錄寸有所, WYG: ''}
+  - {type: substitution, offset: 234, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 235, content: ，, id: KR2o0001_tls_015-bkkpn76}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR2o0001_tls_015-2a.7}
+  - {type: punctuation, offset: 239, content: ，, id: KR2o0001_tls_015-bkkpn77}
+  - {type: 'tls:seg', offset: 239, content: '', id: KR2o0001_tls_015-2a.8}
+  - {type: variant, offset: 239, length: 240, content: 實廣聞見其失之者則有茍出異端虛益新事至如禹生啟石伊產空桑海客乘槎以登漢姮娥竊藥以奔月如斯踳駁不可殫論固難以汙南董之片簡霑班華之寸札而嵇康高士傳好聚七國寓言玄晏帝王紀多採六經圖讖引書之誤其萌於此矣至范曄增損東漢一代自謂無愧良直而王喬鳧履出於風俗通左慈羊鳴傳於抱朴子朱紫不別穢莫大焉沈氏著書好誣先代於晉則故造奇說在宋則多出謗言前史所載已譏其謬矣而魏收黨附北朝尤苦南國承其詭妄重以加諸遂云馬叡出於牛金王劭曰沈約晉書造奇說云瑯琊國姓牛者與夏侯妃私通生中宗因遠敍宣帝以毒酒殺牛金符證其狀收承, WYG: ''}
+  - {type: punctuation, offset: 243, content: 。, id: KR2o0001_tls_015-bkkpn78}
+  - {type: 'tls:seg', offset: 243, content: '', id: KR2o0001_tls_015-2a.9}
+  - {type: punctuation, offset: 247, content: ，, id: KR2o0001_tls_015-bkkpn79}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR2o0001_tls_015-2a.10}
+  - {type: punctuation, offset: 253, content: ，, id: KR2o0001_tls_015-bkkpn80}
+  - {type: 'tls:seg', offset: 253, content: '', id: KR2o0001_tls_015-2a.11}
+  - {type: punctuation, offset: 257, content: ，, id: KR2o0001_tls_015-bkkpn81}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR2o0001_tls_015-2a.12}
+  - {type: substitution, offset: 261, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
+  - {type: punctuation, offset: 263, content: ，, id: KR2o0001_tls_015-bkkpn82}
+  - {type: 'tls:seg', offset: 263, content: '', id: KR2o0001_tls_015-2a.13}
+  - {type: substitution, offset: 264, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
+  - {type: punctuation, offset: 267, content: ，, id: KR2o0001_tls_015-bkkpn83}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR2o0001_tls_015-2a.14}
+  - {type: punctuation, offset: 274, content: ，, id: KR2o0001_tls_015-bkkpn84}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR2o0001_tls_015-2a.15}
+  - {type: punctuation, offset: 281, content: 。, id: KR2o0001_tls_015-bkkpn85}
+  - {type: 'tls:seg', offset: 281, content: '', id: KR2o0001_tls_015-2a.16}
+  - {type: punctuation, offset: 285, content: ，, id: KR2o0001_tls_015-bkkpn86}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR2o0001_tls_015-2a.17}
+  - {type: punctuation, offset: 289, content: ，, id: KR2o0001_tls_015-bkkpn87}
+  - {type: 'tls:seg', offset: 289, content: '', id: KR2o0001_tls_015-2a.18}
+  - {type: punctuation, offset: 294, content: 、, id: KR2o0001_tls_015-bkkpn88}
+  - {type: punctuation, offset: 298, content: ，, id: KR2o0001_tls_015-bkkpn89}
+  - {type: 'tls:seg', offset: 298, content: '', id: KR2o0001_tls_015-2a.19}
+  - {type: punctuation, offset: 300, content: 、, id: KR2o0001_tls_015-bkkpn90}
+  - {type: punctuation, offset: 304, content: 。, id: KR2o0001_tls_015-bkkpn91}
+  - {type: 'tls:seg', offset: 304, content: '', id: KR2o0001_tls_015-2a.20}
+  - {type: punctuation, offset: 307, content: 《, id: KR2o0001_tls_015-bkkpn92}
+  - {type: punctuation, offset: 310, content: 》, id: KR2o0001_tls_015-bkkpn93}
+  - {type: punctuation, offset: 310, content: ，, id: KR2o0001_tls_015-bkkpn94}
+  - {type: 'tls:seg', offset: 310, content: '', id: KR2o0001_tls_015-2a.21}
+  - {type: punctuation, offset: 316, content: ，, id: KR2o0001_tls_015-bkkpn95}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR2o0001_tls_015-2a.22}
+  - {type: punctuation, offset: 318, content: 《, id: KR2o0001_tls_015-bkkpn96}
+  - {type: punctuation, offset: 321, content: 》, id: KR2o0001_tls_015-bkkpn97}
+  - {type: punctuation, offset: 321, content: ，, id: KR2o0001_tls_015-bkkpn98}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR2o0001_tls_015-2a.23}
+  - {type: punctuation, offset: 323, content: 《, id: KR2o0001_tls_015-bkkpn99}
+  - {type: punctuation, offset: 325, content: 》, id: KR2o0001_tls_015-bkkpn100}
+  - {type: punctuation, offset: 327, content: ，, id: KR2o0001_tls_015-bkkpn101}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR2o0001_tls_015-2a.24}
+  - {type: punctuation, offset: 331, content: ，, id: KR2o0001_tls_015-bkkpn102}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR2o0001_tls_015-2a.25}
+  - {type: punctuation, offset: 336, content: 。, id: KR2o0001_tls_015-bkkpn103}
+  - {type: xml-element, offset: 336, content: '', id: KR2o0001_tls_015-bkkxmlele4}
+  - {type: xml-element, offset: 336, content: '', id: KR2o0001_tls_015-bkkxmlele5}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR2o0001_tls_015-3a.1}
+  - {type: punctuation, offset: 345, content: ，, id: KR2o0001_tls_015-bkkpn104}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR2o0001_tls_015-3a.2}
+  - {type: punctuation, offset: 351, content: ，, id: KR2o0001_tls_015-bkkpn105}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR2o0001_tls_015-3a.3}
+  - {type: punctuation, offset: 356, content: ，, id: KR2o0001_tls_015-bkkpn106}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR2o0001_tls_015-3a.4}
+  - {type: punctuation, offset: 358, content: 《, id: KR2o0001_tls_015-bkkpn107}
+  - {type: punctuation, offset: 361, content: 》, id: KR2o0001_tls_015-bkkpn108}
+  - {type: punctuation, offset: 361, content: ，, id: KR2o0001_tls_015-bkkpn109}
+  - {type: 'tls:seg', offset: 361, content: '', id: KR2o0001_tls_015-3a.5}
+  - {type: punctuation, offset: 365, content: ，, id: KR2o0001_tls_015-bkkpn110}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR2o0001_tls_015-3a.6}
+  - {type: punctuation, offset: 367, content: 《, id: KR2o0001_tls_015-bkkpn111}
+  - {type: punctuation, offset: 370, content: 》, id: KR2o0001_tls_015-bkkpn112}
+  - {type: punctuation, offset: 370, content: 。, id: KR2o0001_tls_015-bkkpn113}
+  - {type: 'tls:seg', offset: 370, content: '', id: KR2o0001_tls_015-3a.7}
+  - {type: punctuation, offset: 374, content: ，, id: KR2o0001_tls_015-bkkpn114}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR2o0001_tls_015-3a.8}
+  - {type: punctuation, offset: 378, content: 。, id: KR2o0001_tls_015-bkkpn115}
+  - {type: 'tls:seg', offset: 378, content: '', id: KR2o0001_tls_015-3a.9}
+  - {type: punctuation, offset: 382, content: ，, id: KR2o0001_tls_015-bkkpn116}
+  - {type: 'tls:seg', offset: 382, content: '', id: KR2o0001_tls_015-3a.10}
+  - {type: punctuation, offset: 386, content: ，, id: KR2o0001_tls_015-bkkpn117}
+  - {type: 'tls:seg', offset: 386, content: '', id: KR2o0001_tls_015-3a.11}
+  - {type: punctuation, offset: 393, content: ，, id: KR2o0001_tls_015-bkkpn118}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR2o0001_tls_015-3a.12}
+  - {type: punctuation, offset: 400, content: ，, id: KR2o0001_tls_015-bkkpn119}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR2o0001_tls_015-3a.13}
+  - {type: punctuation, offset: 404, content: ，, id: KR2o0001_tls_015-bkkpn120}
+  - {type: 'tls:seg', offset: 404, content: '', id: KR2o0001_tls_015-3a.14}
+  - {type: punctuation, offset: 409, content: 。, id: KR2o0001_tls_015-bkkpn121}
+  - {type: 'tls:seg', offset: 409, content: '', id: KR2o0001_tls_015-3a.15}
+  - {type: punctuation, offset: 416, content: ，, id: KR2o0001_tls_015-bkkpn122}
+  - {type: 'tls:seg', offset: 416, content: '', id: KR2o0001_tls_015-3a.16}
+  - {type: punctuation, offset: 420, content: ，, id: KR2o0001_tls_015-bkkpn123}
+  - {type: 'tls:seg', offset: 420, content: '', id: KR2o0001_tls_015-3a.17}
+  - {type: punctuation, offset: 424, content: ，, id: KR2o0001_tls_015-bkkpn124}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR2o0001_tls_015-3a.18}
+  - {type: punctuation, offset: 428, content: 。, id: KR2o0001_tls_015-bkkpn125}
+  - {type: 'tls:seg', offset: 428, content: '', id: KR2o0001_tls_015-3a.19}
+  - {type: substitution, offset: 431, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2361}}
+  - {type: punctuation, offset: 439, content: ︰, id: KR2o0001_tls_015-bkkpn126}
+  - {type: punctuation, offset: 441, content: 《, id: KR2o0001_tls_015-bkkpn127}
+  - {type: punctuation, offset: 443, content: 》, id: KR2o0001_tls_015-bkkpn128}
+  - {type: punctuation, offset: 447, content: ，, id: KR2o0001_tls_015-bkkpn129}
+  - {type: substitution, offset: 447, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1048}}
+  - {type: punctuation, offset: 453, content: ，, id: KR2o0001_tls_015-bkkpn130}
+  - {type: punctuation, offset: 459, content: ，, id: KR2o0001_tls_015-bkkpn131}
+  - {type: punctuation, offset: 462, content: ，, id: KR2o0001_tls_015-bkkpn132}
+  - {type: punctuation, offset: 473, content: ，, id: KR2o0001_tls_015-bkkpn133}
+  - {type: punctuation, offset: 477, content: 。, id: KR2o0001_tls_015-bkkpn134}
+  - {type: punctuation, offset: 481, content: ，, id: KR2o0001_tls_015-bkkpn135}
+  - {type: variant, offset: 481, length: 66, content: 乃云司馬叡晉將牛金之子也宋孝王曰收以叡爲金子計其年全不相干案前史尚如此誤況後史編錄者耶劉駿上淫路氏沈約宋書曰孝武於路太后處寢息時人多, WYG: 實}
+  - {type: punctuation, offset: 483, content: ︰, id: KR2o0001_tls_015-bkkpn136}
+  - {type: substitution, offset: 485, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2361}}
+  - {type: punctuation, offset: 486, content: ，, id: KR2o0001_tls_015-bkkpn137}
+  - {type: punctuation, offset: 493, content: 。, id: KR2o0001_tls_015-bkkpn138}
+  - {type: punctuation, offset: 497, content: ︰, id: KR2o0001_tls_015-bkkpn139}
+  - {type: substitution, offset: 499, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2361}}
+  - {type: substitution, offset: 500, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 503, content: ，, id: KR2o0001_tls_015-bkkpn140}
+  - {type: punctuation, offset: 506, content: ，, id: KR2o0001_tls_015-bkkpn141}
+  - {type: punctuation, offset: 510, content: 。, id: KR2o0001_tls_015-bkkpn142}
+  - {type: punctuation, offset: 517, content: ，, id: KR2o0001_tls_015-bkkpn143}
+  - {type: substitution, offset: 521, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 524, content: ？, id: KR2o0001_tls_015-bkkpn144}
+  - {type: punctuation, offset: 524, content: ，, id: KR2o0001_tls_015-bkkpn145}
+  - {type: 'tls:seg', offset: 524, content: '', id: KR2o0001_tls_015-3a.20}
+  - {type: punctuation, offset: 532, content: 《, id: KR2o0001_tls_015-bkkpn146}
+  - {type: punctuation, offset: 534, content: 》, id: KR2o0001_tls_015-bkkpn147}
+  - {type: punctuation, offset: 535, content: ︰, id: KR2o0001_tls_015-bkkpn148}
+  - {type: punctuation, offset: 544, content: ，, id: KR2o0001_tls_015-bkkpn149}
+  - {type: variant, offset: 548, length: 210, content: 異議魏書因云駿烝其母路氏醜聲播於甌越也可謂助桀爲虐幸人之災尋其生絕胤嗣死遭剖斵蓋亦陰過之所致也晉世雜書諒非一族若語林世說幽明錄搜神記之徒其所載或恢諧小辯或神鬼怪物其事非聖揚雄所不觀其言亂神宣尼所不語皇朝新撰晉史多採以爲書夫以干鄧之所糞除王虞之所糠秕持爲逸史用補前傳此何異魏朝之撰皇覽梁世之修徧略務多爲美聚博爲功雖取說於小人終見嗤於君子矣夫郡國之記譜諜之書務欲矜其州里誇其氏族讀之者安可不練其得失明其真偽者乎至如江東五儁始, WYG: 深鑒及}
+  - {type: punctuation, offset: 550, content: 。, id: KR2o0001_tls_015-bkkpn150}
+  - {type: punctuation, offset: 550, content: 《, id: KR2o0001_tls_015-bkkpn151}
+  - {type: punctuation, offset: 552, content: 》, id: KR2o0001_tls_015-bkkpn152}
+  - {type: substitution, offset: 555, original: 烝, replacement: 蒸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3197}}
+  - {type: punctuation, offset: 560, content: ，, id: KR2o0001_tls_015-bkkpn153}
+  - {type: punctuation, offset: 565, content: 、, id: KR2o0001_tls_015-bkkpn154}
+  - {type: punctuation, offset: 567, content: 。, id: KR2o0001_tls_015-bkkpn155}
+  - {type: punctuation, offset: 567, content: 。, id: KR2o0001_tls_015-bkkpn156}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR2o0001_tls_015-3a.21}
+  - {type: substitution, offset: 571, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 573, content: ，, id: KR2o0001_tls_015-bkkpn157}
+  - {type: 'tls:seg', offset: 573, content: '', id: KR2o0001_tls_015-3a.22}
+  - {type: punctuation, offset: 577, content: 。, id: KR2o0001_tls_015-bkkpn158}
+  - {type: 'tls:seg', offset: 577, content: '', id: KR2o0001_tls_015-3a.23}
+  - {type: substitution, offset: 580, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 583, content: ，, id: KR2o0001_tls_015-bkkpn159}
+  - {type: 'tls:seg', offset: 583, content: '', id: KR2o0001_tls_015-3a.24}
+  - {type: substitution, offset: 586, original: 斵, replacement: 斫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1806}}
+  - {type: punctuation, offset: 587, content: ，, id: KR2o0001_tls_015-bkkpn160}
+  - {type: 'tls:seg', offset: 587, content: '', id: KR2o0001_tls_015-3a.25}
+  - {type: punctuation, offset: 595, content: 。, id: KR2o0001_tls_015-bkkpn161}
+  - {type: xml-element, offset: 595, content: '', id: KR2o0001_tls_015-bkkxmlele6}
+  - {type: xml-element, offset: 595, content: '', id: KR2o0001_tls_015-bkkxmlele7}
+  - {type: 'tls:seg', offset: 595, content: '', id: KR2o0001_tls_015-4a.1}
+  - {type: punctuation, offset: 599, content: ，, id: KR2o0001_tls_015-bkkpn162}
+  - {type: 'tls:seg', offset: 599, content: '', id: KR2o0001_tls_015-4a.2}
+  - {type: punctuation, offset: 603, content: ，, id: KR2o0001_tls_015-bkkpn163}
+  - {type: 'tls:seg', offset: 603, content: '', id: KR2o0001_tls_015-4a.3}
+  - {type: punctuation, offset: 604, content: 《, id: KR2o0001_tls_015-bkkpn164}
+  - {type: punctuation, offset: 606, content: 》, id: KR2o0001_tls_015-bkkpn165}
+  - {type: punctuation, offset: 606, content: 、, id: KR2o0001_tls_015-bkkpn166}
+  - {type: punctuation, offset: 606, content: 《, id: KR2o0001_tls_015-bkkpn167}
+  - {type: punctuation, offset: 608, content: 》, id: KR2o0001_tls_015-bkkpn168}
+  - {type: punctuation, offset: 608, content: 、, id: KR2o0001_tls_015-bkkpn169}
+  - {type: punctuation, offset: 608, content: 《, id: KR2o0001_tls_015-bkkpn170}
+  - {type: substitution, offset: 610, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 611, content: 》, id: KR2o0001_tls_015-bkkpn171}
+  - {type: punctuation, offset: 611, content: 、, id: KR2o0001_tls_015-bkkpn172}
+  - {type: punctuation, offset: 611, content: 《, id: KR2o0001_tls_015-bkkpn173}
+  - {type: punctuation, offset: 614, content: 》, id: KR2o0001_tls_015-bkkpn174}
+  - {type: punctuation, offset: 616, content: ，, id: KR2o0001_tls_015-bkkpn175}
+  - {type: 'tls:seg', offset: 616, content: '', id: KR2o0001_tls_015-4a.4}
+  - {type: substitution, offset: 623, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
+  - {type: punctuation, offset: 624, content: ，, id: KR2o0001_tls_015-bkkpn176}
+  - {type: 'tls:seg', offset: 624, content: '', id: KR2o0001_tls_015-4a.5}
+  - {type: punctuation, offset: 629, content: 。, id: KR2o0001_tls_015-bkkpn177}
+  - {type: 'tls:seg', offset: 629, content: '', id: KR2o0001_tls_015-4a.6}
+  - {type: punctuation, offset: 633, content: ，, id: KR2o0001_tls_015-bkkpn178}
+  - {type: 'tls:seg', offset: 633, content: '', id: KR2o0001_tls_015-4a.7}
+  - {type: punctuation, offset: 638, content: ；, id: KR2o0001_tls_015-bkkpn179}
+  - {type: 'tls:seg', offset: 638, content: '', id: KR2o0001_tls_015-4a.8}
+  - {type: punctuation, offset: 642, content: ，, id: KR2o0001_tls_015-bkkpn180}
+  - {type: 'tls:seg', offset: 642, content: '', id: KR2o0001_tls_015-4a.9}
+  - {type: punctuation, offset: 647, content: 。, id: KR2o0001_tls_015-bkkpn181}
+  - {type: 'tls:seg', offset: 647, content: '', id: KR2o0001_tls_015-4a.10}
+  - {type: punctuation, offset: 651, content: 《, id: KR2o0001_tls_015-bkkpn182}
+  - {type: punctuation, offset: 653, content: 》, id: KR2o0001_tls_015-bkkpn183}
+  - {type: punctuation, offset: 653, content: ，, id: KR2o0001_tls_015-bkkpn184}
+  - {type: 'tls:seg', offset: 653, content: '', id: KR2o0001_tls_015-4a.11}
+  - {type: substitution, offset: 656, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 658, content: 。, id: KR2o0001_tls_015-bkkpn185}
+  - {type: 'tls:seg', offset: 658, content: '', id: KR2o0001_tls_015-4a.12}
+  - {type: punctuation, offset: 661, content: 、, id: KR2o0001_tls_015-bkkpn186}
+  - {type: punctuation, offset: 666, content: ，, id: KR2o0001_tls_015-bkkpn187}
+  - {type: 'tls:seg', offset: 666, content: '', id: KR2o0001_tls_015-4a.13}
+  - {type: punctuation, offset: 667, content: 、, id: KR2o0001_tls_015-bkkpn188}
+  - {type: punctuation, offset: 672, content: ，, id: KR2o0001_tls_015-bkkpn189}
+  - {type: 'tls:seg', offset: 672, content: '', id: KR2o0001_tls_015-4a.14}
+  - {type: substitution, offset: 673, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 676, content: ，, id: KR2o0001_tls_015-bkkpn190}
+  - {type: 'tls:seg', offset: 676, content: '', id: KR2o0001_tls_015-4a.15}
+  - {type: punctuation, offset: 680, content: ，, id: KR2o0001_tls_015-bkkpn191}
+  - {type: 'tls:seg', offset: 680, content: '', id: KR2o0001_tls_015-4a.16}
+  - {type: punctuation, offset: 687, content: 《, id: KR2o0001_tls_015-bkkpn192}
+  - {type: punctuation, offset: 689, content: 》, id: KR2o0001_tls_015-bkkpn193}
+  - {type: punctuation, offset: 689, content: ，, id: KR2o0001_tls_015-bkkpn194}
+  - {type: 'tls:seg', offset: 689, content: '', id: KR2o0001_tls_015-4a.17}
+  - {type: punctuation, offset: 693, content: 《, id: KR2o0001_tls_015-bkkpn195}
+  - {type: substitution, offset: 693, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
+  - {type: punctuation, offset: 695, content: 》, id: KR2o0001_tls_015-bkkpn196}
+  - {type: punctuation, offset: 695, content: ，, id: KR2o0001_tls_015-bkkpn197}
+  - {type: 'tls:seg', offset: 695, content: '', id: KR2o0001_tls_015-4a.18}
+  - {type: substitution, offset: 697, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 699, content: ，, id: KR2o0001_tls_015-bkkpn198}
+  - {type: 'tls:seg', offset: 699, content: '', id: KR2o0001_tls_015-4a.19}
+  - {type: substitution, offset: 701, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 703, content: ，, id: KR2o0001_tls_015-bkkpn199}
+  - {type: 'tls:seg', offset: 703, content: '', id: KR2o0001_tls_015-4a.20}
+  - {type: punctuation, offset: 709, content: ，, id: KR2o0001_tls_015-bkkpn200}
+  - {type: 'tls:seg', offset: 709, content: '', id: KR2o0001_tls_015-4a.21}
+  - {type: punctuation, offset: 716, content: 。, id: KR2o0001_tls_015-bkkpn201}
+  - {type: xml-element, offset: 716, content: '', id: KR2o0001_tls_015-bkkxmlele8}
+  - {type: xml-element, offset: 716, content: '', id: KR2o0001_tls_015-bkkxmlele9}
+  - {type: 'tls:seg', offset: 716, content: '', id: KR2o0001_tls_015-5a.1}
+  - {type: punctuation, offset: 721, content: ，, id: KR2o0001_tls_015-bkkpn202}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR2o0001_tls_015-5a.2}
+  - {type: punctuation, offset: 725, content: ，, id: KR2o0001_tls_015-bkkpn203}
+  - {type: 'tls:seg', offset: 725, content: '', id: KR2o0001_tls_015-5a.3}
+  - {type: punctuation, offset: 731, content: ，, id: KR2o0001_tls_015-bkkpn204}
+  - {type: 'tls:seg', offset: 731, content: '', id: KR2o0001_tls_015-5a.4}
+  - {type: punctuation, offset: 735, content: 。, id: KR2o0001_tls_015-bkkpn205}
+  - {type: 'tls:seg', offset: 735, content: '', id: KR2o0001_tls_015-5a.5}
+  - {type: punctuation, offset: 745, content: ，, id: KR2o0001_tls_015-bkkpn206}
+  - {type: 'tls:seg', offset: 745, content: '', id: KR2o0001_tls_015-5a.6}
+  - {type: substitution, offset: 748, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
+  - {type: punctuation, offset: 751, content: ？, id: KR2o0001_tls_015-bkkpn207}
+  - {type: 'tls:seg', offset: 751, content: '', id: KR2o0001_tls_015-5a.7}
+  - {type: punctuation, offset: 755, content: 「, id: KR2o0001_tls_015-bkkpn208}
+  - {type: variant, offset: 756, length: 373, content: 儁始自會稽典錄潁川八龍出於荀氏家傳而修晉漢史者皆徵彼虛譽定爲實錄茍不加以研覈何以詳其是非又訛言難信傳聞多失至如曾參殺人不疑盜嫂翟義不死諸葛猶存此皆得之於行路傳之於衆口儻無明白其誰曰然故蜀相薨於渭濱晉書稱嘔血而死魏君崩於馬圈齊史云中矢而亡沈炯罵書河北以爲王偉魏收草檄關西謂之邢邵夫同說一事而分爲兩家蓋言之者彼此有殊故書之者是非無定況古今路阻視聽壤隔談者或以前爲後或以有爲無涇渭一亂莫之能辨而後來穿鑿喜出異同不憑國史別訊流俗及其記事也則有師曠將軒轅並世公明與方朔同時堯有八眉夔唯一足烏白馬角救燕丹而免禍犬吠雞鳴逐劉安以高蹈此之乖濫往往有旃故作者惡道聽途說之違理街談巷議之損實觀夫子長之撰史記也殷周已往採彼家人安國之述陽秋也梁益舊事訪諸故老夫以芻堯鄙說刊爲竹帛正言而輒欲與五經方駕三志競爽斯亦難矣嗚呼逝者不作冥漠九泉毀譽所加遠誣千載異辭疑事學者宜善思之, SBCK: ''}
+  - {type: variant, offset: 756, length: 373, content: 儁始自會稽典錄潁川八龍出於荀氏家傳而修晉漢史者皆徵彼虛譽定爲實錄茍不加以研覈何以詳其是非又訛言難信傳聞多失至如曾參殺人不疑盜嫂翟義不死諸葛猶存此皆得之於行路傳之於衆口儻無明白其誰曰然故蜀相薨於渭濱晉書稱嘔血而死魏君崩於馬圈齊史云中矢而亡沈炯罵書河北以爲王偉魏收草檄關西謂之邢邵夫同說一事而分爲兩家蓋言之者彼此有殊故書之者是非無定況古今路阻視聽壤隔談者或以前爲後或以有爲無涇渭一亂莫之能辨而後來穿鑿喜出異同不憑國史別訊流俗及其記事也則有師曠將軒轅並世公明與方朔同時堯有八眉夔唯一足烏白馬角救燕丹而免禍犬吠雞鳴逐劉安以高蹈此之乖濫往往有旃故作者惡道聽途說之違理街談巷議之損實觀夫子長之撰史記也殷周已往採彼家人安國之述陽秋也梁益舊事訪諸故老夫以芻堯鄙說刊爲竹帛正言而輒欲與五經方駕三志競爽斯亦難矣嗚呼逝者不作冥漠九泉毀譽所加遠誣千載異辭疑事學者宜善思之, krp: ''}
+  - {type: substitution, offset: 756, original: 儁, replacement: 俊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0763}}
+  - {type: punctuation, offset: 757, content: 」, id: KR2o0001_tls_015-bkkpn209}
+  - {type: punctuation, offset: 757, content: ，, id: KR2o0001_tls_015-bkkpn210}
+  - {type: 'tls:seg', offset: 757, content: '', id: KR2o0001_tls_015-5a.8}
+  - {type: punctuation, offset: 759, content: 《, id: KR2o0001_tls_015-bkkpn211}
+  - {type: variant, offset: 759, length: 287, content: 會稽典錄潁川八龍出於荀氏家傳而修晉漢史者皆徵彼虛譽定爲實錄茍不加以研覈何以詳其是非又訛言難信傳聞多失至如曾參殺人不疑盜嫂翟義不死諸葛猶存此皆得之於行路傳之於衆口儻無明白其誰曰然故蜀相薨於渭濱晉書稱嘔血而死魏君崩於馬圈齊史云中矢而亡沈炯罵書河北以爲王偉魏收草檄關西謂之邢邵夫同說一事而分爲兩家蓋言之者彼此有殊故書之者是非無定況古今路阻視聽壤隔談者或以前爲後或以有爲無涇渭一亂莫之能辨而後來穿鑿喜出異同不憑國史別訊流俗及其記事也則有師曠將軒轅並世公明與方朔同時堯有八眉夔唯一足烏白馬角救燕丹而免禍犬吠雞鳴逐劉安以高蹈此之乖濫往往有旃故作者惡道聽途說之違理街談巷議之損實觀夫子長之, WYG: ''}
+  - {type: substitution, offset: 762, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 763, content: 》, id: KR2o0001_tls_015-bkkpn212}
+  - {type: punctuation, offset: 763, content: ，, id: KR2o0001_tls_015-bkkpn213}
+  - {type: 'tls:seg', offset: 763, content: '', id: KR2o0001_tls_015-5a.9}
+  - {type: punctuation, offset: 765, content: 「, id: KR2o0001_tls_015-bkkpn214}
+  - {type: punctuation, offset: 767, content: 」, id: KR2o0001_tls_015-bkkpn215}
+  - {type: punctuation, offset: 767, content: ，, id: KR2o0001_tls_015-bkkpn216}
+  - {type: 'tls:seg', offset: 767, content: '', id: KR2o0001_tls_015-5a.10}
+  - {type: punctuation, offset: 769, content: 《, id: KR2o0001_tls_015-bkkpn217}
+  - {type: punctuation, offset: 773, content: 》, id: KR2o0001_tls_015-bkkpn218}
+  - {type: punctuation, offset: 773, content: ，, id: KR2o0001_tls_015-bkkpn219}
+  - {type: 'tls:seg', offset: 773, content: '', id: KR2o0001_tls_015-5a.11}
+  - {type: punctuation, offset: 776, content: 、, id: KR2o0001_tls_015-bkkpn220}
+  - {type: punctuation, offset: 779, content: ，, id: KR2o0001_tls_015-bkkpn221}
+  - {type: 'tls:seg', offset: 779, content: '', id: KR2o0001_tls_015-5a.12}
+  - {type: punctuation, offset: 784, content: ，, id: KR2o0001_tls_015-bkkpn222}
+  - {type: 'tls:seg', offset: 784, content: '', id: KR2o0001_tls_015-5a.13}
+  - {type: substitution, offset: 785, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 787, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 788, content: 。, id: KR2o0001_tls_015-bkkpn223}
+  - {type: 'tls:seg', offset: 788, content: '', id: KR2o0001_tls_015-5a.14}
+  - {type: substitution, offset: 793, original: 覈, replacement: 核, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0893}}
+  - {type: punctuation, offset: 794, content: ，, id: KR2o0001_tls_015-bkkpn224}
+  - {type: 'tls:seg', offset: 794, content: '', id: KR2o0001_tls_015-5a.15}
+  - {type: punctuation, offset: 800, content: ？, id: KR2o0001_tls_015-bkkpn225}
+  - {type: xml-element, offset: 800, content: '', id: KR2o0001_tls_015-bkkxmlele10}
+  - {type: xml-element, offset: 800, content: '', id: KR2o0001_tls_015-bkkxmlele11}
+  - {type: 'tls:seg', offset: 800, content: '', id: KR2o0001_tls_015-6a.1}
+  - {type: punctuation, offset: 805, content: ，, id: KR2o0001_tls_015-bkkpn226}
+  - {type: 'tls:seg', offset: 805, content: '', id: KR2o0001_tls_015-6a.2}
+  - {type: punctuation, offset: 809, content: ，, id: KR2o0001_tls_015-bkkpn227}
+  - {type: 'tls:seg', offset: 809, content: '', id: KR2o0001_tls_015-6a.3}
+  - {type: punctuation, offset: 815, content: ，, id: KR2o0001_tls_015-bkkpn228}
+  - {type: 'tls:seg', offset: 815, content: '', id: KR2o0001_tls_015-6a.4}
+  - {type: punctuation, offset: 819, content: ，, id: KR2o0001_tls_015-bkkpn229}
+  - {type: 'tls:seg', offset: 819, content: '', id: KR2o0001_tls_015-6a.5}
+  - {type: punctuation, offset: 823, content: ，, id: KR2o0001_tls_015-bkkpn230}
+  - {type: 'tls:seg', offset: 823, content: '', id: KR2o0001_tls_015-6a.6}
+  - {type: punctuation, offset: 827, content: ，, id: KR2o0001_tls_015-bkkpn231}
+  - {type: 'tls:seg', offset: 827, content: '', id: KR2o0001_tls_015-6a.7}
+  - {type: punctuation, offset: 834, content: ，, id: KR2o0001_tls_015-bkkpn232}
+  - {type: 'tls:seg', offset: 834, content: '', id: KR2o0001_tls_015-6a.8}
+  - {type: punctuation, offset: 839, content: ，, id: KR2o0001_tls_015-bkkpn233}
+  - {type: 'tls:seg', offset: 839, content: '', id: KR2o0001_tls_015-6a.9}
+  - {type: punctuation, offset: 843, content: ，, id: KR2o0001_tls_015-bkkpn234}
+  - {type: 'tls:seg', offset: 843, content: '', id: KR2o0001_tls_015-6a.10}
+  - {type: punctuation, offset: 847, content: 。, id: KR2o0001_tls_015-bkkpn235}
+  - {type: 'tls:seg', offset: 847, content: '', id: KR2o0001_tls_015-6a.11}
+  - {type: punctuation, offset: 854, content: ，, id: KR2o0001_tls_015-bkkpn236}
+  - {type: 'tls:seg', offset: 854, content: '', id: KR2o0001_tls_015-6a.12}
+  - {type: punctuation, offset: 854, content: 《, id: KR2o0001_tls_015-bkkpn237}
+  - {type: punctuation, offset: 856, content: 》, id: KR2o0001_tls_015-bkkpn238}
+  - {type: punctuation, offset: 861, content: ；, id: KR2o0001_tls_015-bkkpn239}
+  - {type: 'tls:seg', offset: 861, content: '', id: KR2o0001_tls_015-6a.13}
+  - {type: punctuation, offset: 867, content: ，, id: KR2o0001_tls_015-bkkpn240}
+  - {type: 'tls:seg', offset: 867, content: '', id: KR2o0001_tls_015-6a.14}
+  - {type: punctuation, offset: 867, content: 《, id: KR2o0001_tls_015-bkkpn241}
+  - {type: punctuation, offset: 869, content: 》, id: KR2o0001_tls_015-bkkpn242}
+  - {type: punctuation, offset: 874, content: ；, id: KR2o0001_tls_015-bkkpn243}
+  - {type: 'tls:seg', offset: 874, content: '', id: KR2o0001_tls_015-6a.15}
+  - {type: punctuation, offset: 878, content: ，, id: KR2o0001_tls_015-bkkpn244}
+  - {type: 'tls:seg', offset: 878, content: '', id: KR2o0001_tls_015-6a.16}
+  - {type: substitution, offset: 881, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 884, content: ；, id: KR2o0001_tls_015-bkkpn245}
+  - {type: 'tls:seg', offset: 884, content: '', id: KR2o0001_tls_015-6a.17}
+  - {type: punctuation, offset: 888, content: ，, id: KR2o0001_tls_015-bkkpn246}
+  - {type: 'tls:seg', offset: 888, content: '', id: KR2o0001_tls_015-6a.18}
+  - {type: punctuation, offset: 894, content: 。, id: KR2o0001_tls_015-bkkpn247}
+  - {type: 'tls:seg', offset: 894, content: '', id: KR2o0001_tls_015-6a.19}
+  - {type: punctuation, offset: 899, content: ，, id: KR2o0001_tls_015-bkkpn248}
+  - {type: 'tls:seg', offset: 899, content: '', id: KR2o0001_tls_015-6a.20}
+  - {type: substitution, offset: 901, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 904, content: ，, id: KR2o0001_tls_015-bkkpn249}
+  - {type: 'tls:seg', offset: 904, content: '', id: KR2o0001_tls_015-6a.21}
+  - {type: punctuation, offset: 912, content: ，, id: KR2o0001_tls_015-bkkpn250}
+  - {type: 'tls:seg', offset: 912, content: '', id: KR2o0001_tls_015-6a.22}
+  - {type: punctuation, offset: 920, content: 。, id: KR2o0001_tls_015-bkkpn251}
+  - {type: xml-element, offset: 920, content: '', id: KR2o0001_tls_015-bkkxmlele12}
+  - {type: xml-element, offset: 920, content: '', id: KR2o0001_tls_015-bkkxmlele13}
+  - {type: 'tls:seg', offset: 920, content: '', id: KR2o0001_tls_015-7a.1}
+  - {type: punctuation, offset: 925, content: ，, id: KR2o0001_tls_015-bkkpn252}
+  - {type: 'tls:seg', offset: 925, content: '', id: KR2o0001_tls_015-7a.2}
+  - {type: punctuation, offset: 929, content: ，, id: KR2o0001_tls_015-bkkpn253}
+  - {type: 'tls:seg', offset: 929, content: '', id: KR2o0001_tls_015-7a.3}
+  - {type: substitution, offset: 934, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 936, content: ，, id: KR2o0001_tls_015-bkkpn254}
+  - {type: 'tls:seg', offset: 936, content: '', id: KR2o0001_tls_015-7a.4}
+  - {type: substitution, offset: 939, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 941, content: ，, id: KR2o0001_tls_015-bkkpn255}
+  - {type: 'tls:seg', offset: 941, content: '', id: KR2o0001_tls_015-7a.5}
+  - {type: punctuation, offset: 942, content: 、, id: KR2o0001_tls_015-bkkpn256}
+  - {type: punctuation, offset: 945, content: ，, id: KR2o0001_tls_015-bkkpn257}
+  - {type: 'tls:seg', offset: 945, content: '', id: KR2o0001_tls_015-7a.6}
+  - {type: punctuation, offset: 949, content: 。, id: KR2o0001_tls_015-bkkpn258}
+  - {type: 'tls:seg', offset: 949, content: '', id: KR2o0001_tls_015-7a.7}
+  - {type: punctuation, offset: 954, content: ，, id: KR2o0001_tls_015-bkkpn259}
+  - {type: 'tls:seg', offset: 954, content: '', id: KR2o0001_tls_015-7a.8}
+  - {type: punctuation, offset: 958, content: ，, id: KR2o0001_tls_015-bkkpn260}
+  - {type: 'tls:seg', offset: 958, content: '', id: KR2o0001_tls_015-7a.9}
+  - {type: punctuation, offset: 962, content: ，, id: KR2o0001_tls_015-bkkpn261}
+  - {type: 'tls:seg', offset: 962, content: '', id: KR2o0001_tls_015-7a.10}
+  - {type: punctuation, offset: 966, content: 。, id: KR2o0001_tls_015-bkkpn262}
+  - {type: 'tls:seg', offset: 966, content: '', id: KR2o0001_tls_015-7a.11}
+  - {type: punctuation, offset: 971, content: ，, id: KR2o0001_tls_015-bkkpn263}
+  - {type: 'tls:seg', offset: 971, content: '', id: KR2o0001_tls_015-7a.12}
+  - {type: punctuation, offset: 980, content: ，, id: KR2o0001_tls_015-bkkpn264}
+  - {type: 'tls:seg', offset: 980, content: '', id: KR2o0001_tls_015-7a.13}
+  - {type: punctuation, offset: 987, content: ；, id: KR2o0001_tls_015-bkkpn265}
+  - {type: 'tls:seg', offset: 987, content: '', id: KR2o0001_tls_015-7a.14}
+  - {type: punctuation, offset: 991, content: ，, id: KR2o0001_tls_015-bkkpn266}
+  - {type: 'tls:seg', offset: 991, content: '', id: KR2o0001_tls_015-7a.15}
+  - {type: punctuation, offset: 995, content: ；, id: KR2o0001_tls_015-bkkpn267}
+  - {type: 'tls:seg', offset: 995, content: '', id: KR2o0001_tls_015-7a.16}
+  - {type: punctuation, offset: 999, content: ，, id: KR2o0001_tls_015-bkkpn268}
+  - {type: 'tls:seg', offset: 999, content: '', id: KR2o0001_tls_015-7a.17}
+  - {type: punctuation, offset: 1005, content: ；, id: KR2o0001_tls_015-bkkpn269}
+  - {type: 'tls:seg', offset: 1005, content: '', id: KR2o0001_tls_015-7a.18}
+  - {type: punctuation, offset: 1009, content: ，, id: KR2o0001_tls_015-bkkpn270}
+  - {type: 'tls:seg', offset: 1009, content: '', id: KR2o0001_tls_015-7a.19}
+  - {type: punctuation, offset: 1015, content: 。, id: KR2o0001_tls_015-bkkpn271}
+  - {type: 'tls:seg', offset: 1015, content: '', id: KR2o0001_tls_015-7a.20}
+  - {type: punctuation, offset: 1019, content: ，, id: KR2o0001_tls_015-bkkpn272}
+  - {type: 'tls:seg', offset: 1019, content: '', id: KR2o0001_tls_015-7a.21}
+  - {type: punctuation, offset: 1023, content: 。, id: KR2o0001_tls_015-bkkpn273}
+  - {type: xml-element, offset: 1023, content: '', id: KR2o0001_tls_015-bkkxmlele14}
+  - {type: xml-element, offset: 1023, content: '', id: KR2o0001_tls_015-bkkxmlele15}
+  - {type: 'tls:seg', offset: 1023, content: '', id: KR2o0001_tls_015-8a.1}
+  - {type: punctuation, offset: 1034, content: ，, id: KR2o0001_tls_015-bkkpn274}
+  - {type: 'tls:seg', offset: 1034, content: '', id: KR2o0001_tls_015-8a.2}
+  - {type: punctuation, offset: 1041, content: 。, id: KR2o0001_tls_015-bkkpn275}
+  - {type: 'tls:seg', offset: 1041, content: '', id: KR2o0001_tls_015-8a.3}
+  - {type: punctuation, offset: 1047, content: 《, id: KR2o0001_tls_015-bkkpn276}
+  - {type: punctuation, offset: 1049, content: 》, id: KR2o0001_tls_015-bkkpn277}
+  - {type: variant, offset: 1049, length: 0, content: '', WYG: 榛蕪若此豈所謂非言之難而行之難乎其十五條漢書龔遂傳曰上遣使者徵遂議曹王生請從功曹以為王生每嗜酒亡節度不可從遂不聽從至京師王生日飲酒不視太守㑹遂引入宫王生醉從後呼曰明府且止願有所白遂還問其故王生曰天子即問君何以治渤海君不可有所陳對宜曰皆聖主之德非小臣之力}
+  - {type: page-break, offset: 1049, content: '', id: KR2o0001_WYG_015-11b, image: WYG0685/WYG0685-0117b.png}
+  - {type: punctuation, offset: 1050, content: ，, id: KR2o0001_tls_015-bkkpn278}
+  - {type: 'tls:seg', offset: 1050, content: '', id: KR2o0001_tls_015-8a.4}
+  - {type: variant, offset: 1050, length: 5, content: 殷周已往採, WYG: 遂受其言既至前上果問以治狀遂對如王生天子悅其有讓笑曰君安得長者之言而稱之遂因前曰臣非知此乃臣議曹敎戒臣也云云上以議曹王生為水衡丞除八十四字其十六條新晉書袁宏傳曰袁宏有逸才文章絶美曾為詠史詩是其風情所寄少孤貧以運租自業謝尚時鎮牛渚秋夜乘月率爾與左右微服泛江㑹宏在舫中諷其所作詠史詩詠聲既清詞又藻麗遂駐聽久之遣問焉答曰是袁臨汝郎誦詩即其詠史之作也尚傾率有勝致即迎升舟與之談論申旦不寐自此名譽日茂云云從桓温北伐作北征賦其文之髙者嘗與王珣伏滔同在桓温坐温令滔讀其北征賦至聞所傳於相傳云獲麟於北野誕靈物以瑞德奚受體於虞者疚尼父之慟泣似實慟而非假豈一性之足傷乃致傷於天下其本至此便改韻珣云此賦方傳千載無容率爾今於天下之後便改移韻從事然於寫送之致似為未盡滔云得益寫韻一句或為小勝宏應聲答曰感不絶於予心愬流風而獨寫云云謝安嘗賞其機對辨速後安為揚州刺史自吏部郎出為東陽郡乃祖道於冶亭時賢皆集謝安欲以卒迫試之臨别執其手顧就左右以一扇而授之曰聊以贈行宏應聲答曰輙當奉揚仁風慰}
+  - {type: page-break, offset: 1050, content: '', id: KR2o0001_WYG_015-12a, image: WYG0685/WYG0685-0117c.png}
+  - {type: page-break, offset: 1050, content: '', id: KR2o0001_WYG_015-12b, image: WYG0685/WYG0685-0117d.png}
+  - {type: punctuation, offset: 1051, content: 、, id: KR2o0001_tls_015-bkkpn279}
+  - {type: punctuation, offset: 1054, content: ，, id: KR2o0001_tls_015-bkkpn280}
+  - {type: 'tls:seg', offset: 1054, content: '', id: KR2o0001_tls_015-8a.5}
+  - {type: variant, offset: 1056, length: 1, content: 家, WYG: 黎庶顧者無不歎服時}
+  - {type: punctuation, offset: 1058, content: ；, id: KR2o0001_tls_015-bkkpn281}
+  - {type: 'tls:seg', offset: 1058, content: '', id: KR2o0001_tls_015-8a.6}
+  - {type: variant, offset: 1058, length: 4, content: 安國之述, WYG: 歎其卒而能要焉此事出檀道鸞晉}
+  - {type: punctuation, offset: 1062, content: 《, id: KR2o0001_tls_015-bkkpn282}
+  - {type: punctuation, offset: 1064, content: 》, id: KR2o0001_tls_015-bkkpn283}
+  - {type: variant, offset: 1064, length: 0, content: '', WYG: 及劉義慶世説除一百一十四字加一十九字其十七條十六國春秋曰郭瑀有女始筓妙選良偶有心於劉昞遂别設一席於座前謂諸弟子曰吾有一女年向成長欲覔一快女壻誰坐此席者吾當婚焉昞遂奮衣來坐神志湛然曰向聞先生欲求快女壻昞其人}
+  - {type: page-break, offset: 1064, content: '', id: KR2o0001_WYG_015-13a, image: WYG0685/WYG0685-0118a.png}
+  - {type: punctuation, offset: 1065, content: ，, id: KR2o0001_tls_015-bkkpn284}
+  - {type: 'tls:seg', offset: 1065, content: '', id: KR2o0001_tls_015-8a.7}
+  - {type: variant, offset: 1065, length: 24, content: 梁益舊事訪諸故老夫以芻堯鄙說刊爲竹帛正言而輒欲與, WYG: 除二十二字其十八條史通卷十}
+  - {type: page-break, offset: 1065, content: '', id: KR2o0001_WYG_015-13b, image: WYG0685/WYG0685-0118b.png}
+  - {type: punctuation, offset: 1066, content: 、, id: KR2o0001_tls_015-bkkpn285}
+  - {type: punctuation, offset: 1069, content: ，, id: KR2o0001_tls_015-bkkpn286}
+  - {type: 'tls:seg', offset: 1069, content: '', id: KR2o0001_tls_015-8a.8}
+  - {type: punctuation, offset: 1073, content: 。, id: KR2o0001_tls_015-bkkpn287}
+  - {type: 'tls:seg', offset: 1073, content: '', id: KR2o0001_tls_015-8a.9}
+  - {type: punctuation, offset: 1079, content: ，, id: KR2o0001_tls_015-bkkpn288}
+  - {type: 'tls:seg', offset: 1079, content: '', id: KR2o0001_tls_015-8a.10}
+  - {type: substitution, offset: 1080, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 1085, content: ，, id: KR2o0001_tls_015-bkkpn289}
+  - {type: 'tls:seg', offset: 1085, content: '', id: KR2o0001_tls_015-8a.11}
+  - {type: punctuation, offset: 1089, content: 《, id: KR2o0001_tls_015-bkkpn290}
+  - {type: variant, offset: 1090, length: 39, content: 經方駕三志競爽斯亦難矣嗚呼逝者不作冥漠九泉毀譽所加遠誣千載異辭疑事學者宜善思之, WYG: 欽定四庫全書史通卷十六唐劉知幾撰外篇雜説上第七總}
+  - {type: page-break, offset: 1090, content: '', id: KR2o0001_WYG_016-1a, image: WYG0685/WYG0685-0119a.png}
+  - {type: punctuation, offset: 1091, content: 》, id: KR2o0001_tls_015-bkkpn291}
+  - {type: punctuation, offset: 1093, content: ，, id: KR2o0001_tls_015-bkkpn292}
+  - {type: 'tls:seg', offset: 1093, content: '', id: KR2o0001_tls_015-8a.12}
+  - {type: punctuation, offset: 1093, content: 《, id: KR2o0001_tls_015-bkkpn293}
+  - {type: punctuation, offset: 1095, content: 》, id: KR2o0001_tls_015-bkkpn294}
+  - {type: punctuation, offset: 1097, content: ，, id: KR2o0001_tls_015-bkkpn295}
+  - {type: 'tls:seg', offset: 1097, content: '', id: KR2o0001_tls_015-8a.13}
+  - {type: punctuation, offset: 1101, content: 。, id: KR2o0001_tls_015-bkkpn296}
+  - {type: 'tls:seg', offset: 1101, content: '', id: KR2o0001_tls_015-8a.14}
+  - {type: punctuation, offset: 1103, content: ！, id: KR2o0001_tls_015-bkkpn297}
+  - {type: 'tls:seg', offset: 1103, content: '', id: KR2o0001_tls_015-8a.15}
+  - {type: punctuation, offset: 1107, content: ，, id: KR2o0001_tls_015-bkkpn298}
+  - {type: 'tls:seg', offset: 1107, content: '', id: KR2o0001_tls_015-8a.16}
+  - {type: punctuation, offset: 1111, content: ；, id: KR2o0001_tls_015-bkkpn299}
+  - {type: 'tls:seg', offset: 1111, content: '', id: KR2o0001_tls_015-8a.17}
+  - {type: punctuation, offset: 1115, content: ，, id: KR2o0001_tls_015-bkkpn300}
+  - {type: 'tls:seg', offset: 1115, content: '', id: KR2o0001_tls_015-8a.18}
+  - {type: punctuation, offset: 1119, content: 。, id: KR2o0001_tls_015-bkkpn301}
+  - {type: 'tls:seg', offset: 1119, content: '', id: KR2o0001_tls_015-8a.19}
+  - {type: punctuation, offset: 1123, content: ，, id: KR2o0001_tls_015-bkkpn302}
+  - {type: 'tls:seg', offset: 1123, content: '', id: KR2o0001_tls_015-8a.20}
+  - {type: punctuation, offset: 1129, content: 。, id: KR2o0001_tls_015-bkkpn303}
+  - {type: xml-element, offset: 1129, content: '', id: KR2o0001_tls_015-bkkxmlele16}
+  - {type: page-break, offset: 1129, content: '', id: KR2o0001_SBCK_015-13b}
+  back: []
+hash: sha256:411dd78803fb220adf6a51571c515724359e558e2e18fc78c6effdd908898b0e

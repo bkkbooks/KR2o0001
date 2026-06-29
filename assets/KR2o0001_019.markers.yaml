@@ -1,0 +1,567 @@
+canonical_identifier: bkk:krp/KR2o0001/bkk/v1/markers/19
+seq: 19
+markers:
+  front:
+  - {type: variant, offset: 0, length: 2, content: 邑里, SBCK: 史通卷}
+  - {type: page-break, offset: 0, content: '', id: KR2o0001_SBCK_019-1a}
+  - {type: variant, offset: 0, length: 2, content: 邑里, WYG: 漢書五行志錯誤}
+  - {type: variant, offset: 0, length: 2, content: 邑里, krp: 史通卷}
+  body:
+  - {type: variant, offset: 4, length: 0, content: '', WYG: 班氏著志牴牾者多在於五行蕪累尤甚今輒條其錯繆定為四科一曰引書失宜二曰叙事乖理三曰釋災多濫四曰古學不精又於四科之中疏為雜目類聚區分編之如后第一科引書失宜者其流有四一曰史記左氏交錯相併二曰春秋史記雜亂難别三曰屢舉春秋言無定體四曰書名去取所記不同其志叙言之不從也先稱史記周單襄公告魯成公曰晉將有亂又稱宣公六年鄭公孫曼蒲與王子伯廖語欲為卿按宣公六年自左傳所載也夫上論單襄則持史記以標首下列曼蒲則遺左氏而無言遂令讀者疑此宣公上出史記而不云魯后莫定何邦是非難悟進退無準此所謂史記左氏交錯相併也志云史記成公十六年公㑹齊侯于周按成公者即魯侯也班氏凡說魯之某公皆以春秋為冠何則春秋者魯史之號言春秋則知公是魯君今引史記居先成公在下書非魯史而公捨魯名膠柱不移守株何甚此所謂春秋史記雜亂難别也按班書為志本以漢為主在於漢時直記其帝號諡耳至於他代則云某書某國君此其大例也至如叙火不炎上具春秋桓公十四年次叙稼穡不成直云莊公二十八年而已夫以火稼之間别書漢莽之事年代已隔去魯尤疎洎乎改說異端仍取春秋為始而於莊公之上不復以春秋建名遂使漢帝魯公同歸一揆必為永例理亦可容在諸異科事又不爾求之畫一其例無常此所謂屢舉春秋言無定體也按本志叙漢已前事多略其書名至如服妖章初云晉獻公使太子率師佩之金玦續云鄭子臧好為聚鷸之冠此二事之上每加左氏為首夫一言可悉而再列其名省則都捐繁則太甚此所謂書名去取所記不同也第二科叙事乖理者其流有五一曰徒發首端不副徵驗二曰虚編古語討事不終三曰直引時談竟無他述四曰科條不整尋繹難知五曰標舉年號詳略無準志曰左氏昭公十五年晉籍談如周葬穆后既除喪而燕叔向曰王其不終乎吾聞之所樂必卒焉今王一嵗而有三年之喪二焉於是乎以喪賔燕樂憂甚矣禮王之大經也一動而失二禮無大經矣將安用之按其後七年王室終如羊舌所說此即其效也而班氏了不言之此所謂徒發首端不副徵驗也志云左氏襄公二十}
+  - {type: page-break, offset: 4, content: '', id: KR2o0001_WYG_019-1b, image: WYG0685/WYG0685-0137d.png}
+  - {type: page-break, offset: 4, content: '', id: KR2o0001_WYG_019-2a, image: WYG0685/WYG0685-0138a.png}
+  - {type: page-break, offset: 4, content: '', id: KR2o0001_WYG_019-2b, image: WYG0685/WYG0685-0138b.png}
+  - {type: page-break, offset: 4, content: '', id: KR2o0001_WYG_019-3a, image: WYG0685/WYG0685-0138c.png}
+  - {type: page-break, offset: 4, content: '', id: KR2o0001_WYG_019-3b, image: WYG0685/WYG0685-0138d.png}
+  - {type: xml-element, offset: 5, content: '', id: KR2o0001_tls_019-bkkxmlele1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR2o0001_tls_019-1a.1}
+  - {type: variant, offset: 5, length: 0, content: '', SBCK: 外篇漢書五行志錯誤第十班氏著志牴牾者多在於五行蕪累尤甚今輒條其錯繆定為四科一曰引書失宜二曰叙事乖理三曰釋災多濫四曰古學不精又於四科之中疏為雜志類聚區分編之如后第一科引書失宜者其流有四一曰史記左氏交錯相併二曰春秋史記雜亂難别三曰屢舉春秋言無定體四曰書名去取所記不同其志叙言之不從也先稱史記周單襄公告魯成公曰晉將有亂又稱宣公六年鄭公孫曼滿與王子伯廖語欲為卿按宣公六年自左傳所載也夫上論單襄則持史記以標首下列曼滿則遺左氏而無言遂令讀者疑此宣公上出史記而不云魯后莫定何邦是非難悟進退無準此所謂史記左氏交錯相併也志云史記成公十六年公㑹齊侯于周按成公者即魯侯也班氏凡說魯之某公皆以春秋為冠何則春秋者魯史之號言春秋則知公是魯公今引史記居先成公在下書非魯史而公捨魯名膠柱不移守株何甚此其所謂春秋史記雜亂難别也按班書為志本以漢為主在於漢時直記其帝號諡耳至於他代則云某書某國君此其大例也至如叙火不灾上具春秋桓公十四年次敘稼穡不成直云嚴公二十八年而已夫以火稼之間别書漢莽之事年代已隔去魯尤疎洎乎改說異端仍取春秋為始而於嚴公之上不復以春秋建名遂使漢帝魯公同歸一揆必為永例理亦可容在諸異科事又不爾求之畫一其例無常此所謂屢舉春秋言無定體也按本志叙漢已前事多略其書名至如服妖章初云晉獻公使太子率師佩之金玦續云鄭子威好為聚鷸之冠此二事之上每加左氏為首夫一言可悉而再列其名省則都捐繁則太甚此所謂書名去取所記之不同也第二科叙事乖理者其流有五一曰徒發首端不副徵驗二曰虚編古語討事不終三曰直引時談竟無他述四曰科條不整尋繹難知五曰標舉年號詳略無准志曰左氏昭公十五年晉籍談如周葬穆后既除喪而燕宴叔向曰王其不終乎吾聞之所樂必卒焉今王一嵗而有三年之喪二焉於是乎與喪賔燕樂憂甚矣禮王之大經也一動而失二禮無大經矣將安用之按其後七年王室終如羊舌所說此即其効也而班氏了不言之此所謂徒發首端不副徵驗也志云左氏襄公二十九年晉女齊語智伯曰齊髙子容宋司徒皆將不免子容専司徒侈皆亡子之主也専則速及侈則將以力斃九月髙止出奔北燕所載至此更無他說按左氏昭公二十年宋司徒奔陳而班氏採諸本傳直寫片言閱彼全書唯徵半事遂令學者疑丘明之說有是有非女齊之言或得或失此所謂虚編古語討事不終也志云成帝於鴻嘉永始之載好為微行置私田於民間谷永諫曰諸侯夢得田占為失國而況王者畜私田財物為庶人之事乎已下弗云成帝悛與不悛谷永言効與不効諫詞雖具而事闕如此所謂直引時談竟無佗述者也其述庶徵之恒寒也先云釐公十年冬大雨雹隨載劉向之占次云公羊經曰大雨雹續書董生之解按公羊所說與上奚殊而再列其辭俱云大雨雹而入此科又言大雪與雹繼言殞霜殺草起自春秋訖乎漢代其事既盡仍重叙雹災分散相離斷絶無趣夫同是一類而限成二條首尾紛挐章句錯糅此所謂科條不整尋繹難知者也夫人君改元肇自劉氏史官所録須存凡例按斯志之記異也首列元封年號不詳漢代何君次言地節河平具述宣成二帝成帝河平二年宣帝地節四年􅃅如此其紀年武稱元鼎每嵗皆書續云元鼎三年按始云元鼎二年鼎之號也三年宜除元哀曰建平同年必録平三年續後始云哀帝建云是嵗而已不當言重言事也云哀帝建平三年按同是一年宜此所謂標舉年號詳略無準者也第三科釋災多濫其流有八一曰商㩁前世全違故實二曰影響不接牽引相㑹三曰敷演多端準的無主四曰輕持善政用配妖禍五曰但伸解釋不顯符應六曰考覈雖讜義理非精七曰妖祥可知寢嘿無說八曰不循經典自任胷懐志云史記周威烈王二十三年九鼎震是嵗韓魏趙簒晉而分其地威烈王命以為諸侯天子不恤同姓而爵其賊臣天下不附矣按周當戰國之世微弱尤甚故君疑竊斧臺名逃責正比夫泗上諸侯附庸小國者耳至如三晉跋扈欲為諸侯雖假王命實由已出譬夫近代莽稱安漢匪平帝之至誠卓􅃅太師豈献皇之本願而作者茍責威烈以妄施爵賞坐貽妖㜸謂得人之情偽盡知之者乎此􅀁謂商㩁前世全違故實也志云昭公十六年九月大雩先是昭母夫人歸氏薨昭不戚而蒐于比蒲又曰定公十一年九月大雩先是公自侵鄭歸而城中城二大夫圍鄆按大夫蒐于比蒲昭之十一年城中城圍鄆定之六年也其二役去雩皆非一載夫以國家常事而坐延灾􅌌嵗月既遥而方聞響應斯豈非烏有成說扣寂為辝者㢤此􅀁謂影響不按牽引相㑹也志云嚴公明帝諱故改曰嚴嚴公謂荘公也漢避七年秋大水董仲舒劉向以為嚴母姜與兄齊侯淫共殺桓公嚴釋公讎復娶齊女未入而先與之淫一年再出㑹於道逆亂臣下賤之應也又云十一年秋宋大水董仲舒以為時魯宋比年有乘丘鄑之戰百姓愁怨陰氣盛故二國俱水水今年宋大謂七年魯大也水按此說有三失焉何者嚴公十年十一年公敗宋師於乘丘及鄑夫以制勝克敵䇿勲命賞可祈榮降福而反愁怨貽災邪其失一也且先是數年嚴遭大水十一年亦謂校其時月殊在戰前而云與宋交兵故二國大水其失二也況於七年之内已釋水災始以齊女為辭終以宋師為應前後靡定向背何倚其失三也夫以一災示眚而三說競興此所謂敷演多端準的無主者也其釋厥咎舒厥罰恒燠以為其政弛慢失在舒緩故罰之以燠冬而世冰尋其解春秋之無冰也皆主内失黎庶外失諸侯不事誅賞不明善惡蠻夷猾夏天子不能討大夫擅權邦君不能制若斯而已矣次至武帝元封六年冬亡冰而云先是遣衛霍二將軍竆追單于斬首十餘萬級歸而大行慶賞上又閔恤勤勞遣使巡行天下存賜鰥寡假貸與之困舉遺逸獨行君子詣行在所郡國有以為便宜者上丞相御史以聞於是天下咸喜按漢帝其武功文徳也如彼其先猛後寛也如此豈是有懦弱凌遲之失而無刑罰戡定之功哉何得茍以無冰示災便謂與}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-1b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-2a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-2b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-3a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-3b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-4a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-4b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-5a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-5b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-6a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-6b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-7a}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-7b}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_SBCK_019-8a}
+  - {type: variant, offset: 5, length: 0, content: '', WYG: 年晉汝齊語智伯曰齊髙子容宋司徒皆將不免子容専司徒侈皆亡家之主也専則速及侈則將以力弊九月髙子出奔北燕所載至此更無他說按左氏昭公二十年宋司徒奔陳而班氏採諸本傳直寫片言閱彼全書唯徵半事遂令學者疑丘明之說有是有非汝齊之言或得或失此所謂虚編古語討事不終也志云成帝於鴻嘉永始之載好為微行置私田於民間谷永諫曰諸侯夢得田占為失國而況王者畜私田財物為庶人之事乎已下弗云成帝悛與不悛谷永言效與不效諫詞雖具諸事闕如此所謂直引時談竟無他述者也其述庶徵之恒寒也先云釐公十年冬大雨雹隨載劉向之占次云公羊經曰大書雹續書董生之解按公羊所說與上奚殊而再列其辭俱云大雨雹而又此科言大雪與雹繼言隕霜殺草起自春秋訖乎漢代其事既盡仍重叙雹災分散相離斷絶無趣夫同是一類而限成二條首尾紛挐章句雜糅此所謂科條不整尋繹難知者也夫人君改元肇自劉氏史官所録須存凡例按斯志之記異也首列元封年號不詳漢代何君次言地節河平具述宣成二帝宣帝地節四年成帝河平二年其紀年號如此武稱元鼎每嵗皆書始云元鼎二年續復云元鼎三年按三年宜除元鼎之號也哀曰建平同年必録始云哀帝建平三年續復云哀帝建平三年按同是一年宜云是嵗而已不當言重其事也此所謂標舉年號詳略無準者也第三科釋災多濫其流有八一曰商㩁前世全違故實二曰影響不接牽引相㑹三曰敷演多端準的無主四曰輕持善政用配妖禍五曰但伸解釋不顯符應六曰考覈雖讜義理非精七曰妖祥可知寢嘿無說八曰不循經典自任胷懐志云史記周威烈王二十三年九鼎震是嵗韓魏趙簒晉而分其地威烈王命以為諸侯天子不恤同姓而爵其賊臣天下不附矣按周當戰國之世微弱尤甚故君疑竊斧臺名逃債正比夫泗上諸侯附庸小國者耳至如三晉跋扈欲為諸侯雖假王命實由已出譬夫近代莽稱安漢匪平帝之至誠卓號太師豈獻王之本願而作者茍責威烈以妄施爵賞坐貽妖孽豈得謂人之情偽盡知之矣者乎此所謂商㩁前世全違故實也志云昭公十六年九月大雩先是昭母夫人歸氏薨昭不戚而大蒐于比蒲又曰定公十一年九月大雩先是公自侵鄭歸而城中城二大夫圍鄆按夫大蒐于比蒲昭之十一年城中城圍鄆定之六年也其二役去雩皆非一載夫以國家常事而坐延災眚嵗月既遥而方聞感應斯豈非烏有成說扣寂為辭者哉此所謂影響不接牽引相㑹也志云嚴公七年秋大水董仲舒劉向以為嚴母姜與兄齊侯淫共殺桓公嚴釋公讎復娶齊女未入而先與之淫一年再出㑹於道逆亂臣下賤之應也又云十一年秋宋大水董仲舒以為時魯宋比年有乘丘鄑之戰百姓愁怨陰氣盛故二國俱水謂七年魯大水今年宋大水也按此說有三失焉何者嚴公十年十一年公敗宋師於乘丘及鄑夫以制勝克敵䇿勲命賞可以祈榮降福而反愁怨貽災邪其失一也且先是數年嚴遭大水亦謂七年校其時月殊在戰前而云與宋交兵故二國大水其失二也況於七年之内已釋水災始以齊女為辭終以宋師為應前後靡定向背何依其失三也夫以一災示眚而三說競興此所謂敷演多端準的無主者也其釋厥咎舒厥罰恒燠以為其政弛慢失在舒緩故罰之以燠冬而無冰尋其解春秋之無冰也皆主内失黎庶外失諸侯不事誅賞不明善惡蠻夷猾夏天子不能討大夫擅權邦君不能制若斯而已矣次至武帝元封六年冬無冰而云先是遣衛霍二將軍窮追單于斬首十萬餘級歸而大行慶賞上又閔恤勤勞遣使巡行天下存賜鰥寡假與乏困舉遺逸獨行君子詣行在所郡國有以為便宜者上丞相御史以聞於是天下咸喜按漢帝其武功文徳也如彼其先猛後寛也如此豈是有懦弱凌遲之失而無刑罰戡定之功哉何得茍以無冰示災便謂與}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-4a, image: WYG0685/WYG0685-0139a.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-4b, image: WYG0685/WYG0685-0139b.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-5a, image: WYG0685/WYG0685-0139c.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-5b, image: WYG0685/WYG0685-0139d.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-6a, image: WYG0685/WYG0685-0140a.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-6b, image: WYG0685/WYG0685-0140b.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-7a, image: WYG0685/WYG0685-0140c.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-7b, image: WYG0685/WYG0685-0140d.png}
+  - {type: page-break, offset: 5, content: '', id: KR2o0001_WYG_019-8a, image: WYG0685/WYG0685-0141a.png}
+  - {type: variant, offset: 5, length: 0, content: '', krp: 外篇漢書五行志錯誤第十班氏著志牴牾者多在於五行蕪累尤甚今輒條其錯繆定為四科一曰引書失宜二曰叙事乖理三曰釋災多濫四曰古學不精又於四科之中疏為雜志類聚區分編之如后第一科引書失宜者其流有四一曰史記左氏交錯相併二曰春秋史記雜亂難别三曰屢舉春秋言無定體四曰書名去取所記不同其志叙言之不從也先稱史記周單襄公告魯成公曰晉將有亂又稱宣公六年鄭公孫曼滿與王子伯廖語欲為卿按宣公六年自左傳所載也夫上論單襄則持史記以標首下列曼滿則遺左氏而無言遂令讀者疑此宣公上出史記而不云魯后莫定何邦是非難悟進退無準此所謂史記左氏交錯相併也志云史記成公十六年公㑹齊侯于周按成公者即魯侯也班氏凡說魯之某公皆以春秋為冠何則春秋者魯史之號言春秋則知公是魯公今引史記居先成公在下書非魯史而公捨魯名膠柱不移守株何甚此其所謂春秋史記雜亂難别也按班書為志本以漢為主在於漢時直記其帝號諡耳至於他代則云某書某國君此其大例也至如叙火不灾上具春秋桓公十四年次敘稼穡不成直云嚴公二十八年而已夫以火稼之間别書漢莽之事年代已隔去魯尤疎洎乎改說異端仍取春秋為始而於嚴公之上不復以春秋建名遂使漢帝魯公同歸一揆必為永例理亦可容在諸異科事又不爾求之畫一其例無常此所謂屢舉春秋言無定體也按本志叙漢已前事多略其書名至如服妖章初云晉獻公使太子率師佩之金玦續云鄭子威好為聚鷸之冠此二事之上每加左氏為首夫一言可悉而再列其名省則都捐繁則太甚此所謂書名去取所記之不同也第二科叙事乖理者其流有五一曰徒發首端不副徵驗二曰虚編古語討事不終三曰直引時談竟無他述四曰科條不整尋繹難知五曰標舉年號詳略無准志曰左氏昭公十五年晉籍談如周葬穆后既除喪而燕宴叔向曰王其不終乎吾聞之所樂必卒焉今王一嵗而有三年之喪二焉於是乎與喪賔燕樂憂甚矣禮王之大經也一動而失二禮無大經矣將安用之按其後七年王室終如羊舌所說此即其効也而班氏了不言之此所謂徒發首端不副徵驗也志云左氏襄公二十九年晉女齊語智伯曰齊髙子容宋司徒皆將不免子容専司徒侈皆亡子之主也専則速及侈則將以力斃九月髙止出奔北燕所載至此更無他說按左氏昭公二十年宋司徒奔陳而班氏採諸本傳直寫片言閱彼全書唯徵半事遂令學者疑丘明之說有是有非女齊之言或得或失此所謂虚編古語討事不終也志云成帝於鴻嘉永始之載好為微行置私田於民間谷永諫曰諸侯夢得田占為失國而況王者畜私田財物為庶人之事乎已下弗云成帝悛與不悛谷永言効與不効諫詞雖具而事闕如此所謂直引時談竟無佗述者也其述庶徵之恒寒也先云釐公十年冬大雨雹隨載劉向之占次云公羊經曰大雨雹續書董生之解按公羊所說與上奚殊而再列其辭俱云大雨雹而入此科又言大雪與雹繼言殞霜殺草起自春秋訖乎漢代其事既盡仍重叙雹災分散相離斷絶無趣夫同是一類而限成二條首尾紛挐章句錯糅此所謂科條不整尋繹難知者也夫人君改元肇自劉氏史官所録須存凡例按斯志之記異也首列元封年號不詳漢代何君次言地節河平具述宣成二帝成帝河平二年宣帝地節四年號如此其紀年武稱元鼎每嵗皆書續云元鼎三年按始云元鼎二年鼎之號也三年宜除元哀曰建平同年必録平三年續後始云哀帝建云是嵗而已不當言重言事也云哀帝建平三年按同是一年宜此所謂標舉年號詳略無準者也第三科釋災多濫其流有八一曰商㩁前世全違故實二曰影響不接牽引相㑹三曰敷演多端準的無主四曰輕持善政用配妖禍五曰但伸解釋不顯符應六曰考覈雖讜義理非精七曰妖祥可知寢嘿無說八曰不循經典自任胷懐志云史記周威烈王二十三年九鼎震是嵗韓魏趙簒晉而分其地威烈王命以為諸侯天子不恤同姓而爵其賊臣天下不附矣按周當戰國之世微弱尤甚故君疑竊斧臺名逃責正比夫泗上諸侯附庸小國者耳至如三晉跋扈欲為諸侯雖假王命實由已出譬夫近代莽稱安漢匪平帝之至誠卓號太師豈献皇之本願而作者茍責威烈以妄施爵賞坐貽妖㜸謂得人之情偽盡知之者乎此所謂商㩁前世全違故實也志云昭公十六年九月大雩先是昭母夫人歸氏薨昭不戚而蒐于比蒲又曰定公十一年九月大雩先是公自侵鄭歸而城中城二大夫圍鄆按大夫蒐于比蒲昭之十一年城中城圍鄆定之六年也其二役去雩皆非一載夫以國家常事而坐延灾青嵗月既遥而方聞響應斯豈非烏有成說扣寂為辝者㢤此所謂影響不按牽引相㑹也志云嚴公明帝諱故改曰嚴嚴公謂荘公也漢避七年秋大水董仲舒劉向以為嚴母姜與兄齊侯淫共殺桓公嚴釋公讎復娶齊女未入而先與之淫一年再出㑹於道逆亂臣下賤之應也又云十一年秋宋大水董仲舒以為時魯宋比年有乘丘鄑之戰百姓愁怨陰氣盛故二國俱水水今年宋大謂七年魯大也水按此說有三失焉何者嚴公十年十一年公敗宋師於乘丘及鄑夫以制勝克敵䇿勲命賞可祈榮降福而反愁怨貽災邪其失一也且先是數年嚴遭大水十一年亦謂校其時月殊在戰前而云與宋交兵故二國大水其失二也況於七年之内已釋水災始以齊女為辭終以宋師為應前後靡定向背何倚其失三也夫以一災示眚而三說競興此所謂敷演多端準的無主者也其釋厥咎舒厥罰恒燠以為其政弛慢失在舒緩故罰之以燠冬而世冰尋其解春秋之無冰也皆主内失黎庶外失諸侯不事誅賞不明善惡蠻夷猾夏天子不能討大夫擅權邦君不能制若斯而已矣次至武帝元封六年冬亡冰而云先是遣衛霍二將軍竆追單于斬首十餘萬級歸而大行慶賞上又閔恤勤勞遣使巡行天下存賜鰥寡假貸與之困舉遺逸獨行君子詣行在所郡國有以為便宜者上丞相御史以聞於是天下咸喜按漢帝其武功文徳也如彼其先猛後寛也如此豈是有懦弱凌遲之失而無刑罰戡定之功哉何得茍以無冰示災便謂與}
+  - {type: punctuation, offset: 6, content: 《, id: KR2o0001_tls_019-bkkpn1}
+  - {type: variant, offset: 6, length: 1, content: 五, SBCK: 人同罪矛盾自已始末相違豈其甚邪此所謂輕持善政用配妖禍者也志云孝昭元鳯三年太山有大石立眭孟以爲當有庶人爲天子者京房易傳云太山之石顛而下聖人受命人君虜又曰石立於山同姓爲天下雄按此當是孝宣皇帝即位之祥也夫宣帝出自閭閻坐登宸極所謂庶人受命者也以曾孫血属上纂皇統所謂同姓之雄者也昌邑見廢謫居逺方所謂人君虜者也班書載此徵祥雖具有剖折而求諸後應曾不縷陳叙事之宜豈其若是茍文有所闕則何以載言者哉此所謂但申解釋不顯符應也志云成帝建始二年小女陳持弓年九嵗走入未央宮又云綏和二年男子王褒入北司馬門上前殿班志雖已有證㨿言多疎闊今聊演而申之按女子九嵗者則陽數之極也男子王褒者王則巨君之姓也入北司馬門上殿者王莽始為大司馬至哀帝時就國帝崩後仍此官因以簒位夫入司馬門而上殿亦由從司馬而升極災祥示兆其事甚明忽而不書為略何甚此所謂解釋雖讜義理非精也志云哀帝建平四年山陽女子田無嗇懐孕三月兒啼腹中及生不舉葬之陌上三日人過聞啼聲母掘土收養尋本志雖述此妖災而了無解釋按人從胞至育含靈受氣始末有成數前後有定準至在孕哺爾遽發啼聲者亦由物有基業未彰而形象已兆即王氏簒國之徵生而不舉葬而不死者亦由物有期運已定非誅剪所平即王氏受命之應也又案班云以小女陳持弓者陳即莽之所出如女子田無嗇者田故莽之本宗事既同占言無一槩豈非唯知其一而不知其二者乎此所謂妖祥可知寢嘿無說也當春秋之時諸國賢俊多矣如沙麓其壊梁山云崩鷁退蜚於宋都龍交鬭於鄭水或伯宗子産具述其非妖或卜偃史過盛言其必應蓋於時有識君子以爲美談故左氏書之不刋貽厥來裔既而古今路阻聞見壤隔至漢代儒者董仲舒劉向之徒始别搆異聞輔申他說以兹後學凌彼先賢葢今諺所謂季與厥昆爭􅀻嫂者而班志尚捨長用短捐舊習新茍出異同自矜魁博多見其無識者矣此所謂不循}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_SBCK_019-8b}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_SBCK_019-9a}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_SBCK_019-9b}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_SBCK_019-10a}
+  - {type: variant, offset: 6, length: 1, content: 五, WYG: 人同罪矛盾自已始末相違豈其甚邪此所謂輕持善政用配妖禍者也志云孝昭元鳯三年太山有大石立眭孟以為當有庶人為天子者京房易傳云太山之石顛而下聖人受命人君虜又曰石立於山同姓為天下雄按此當是孝宣皇帝即位之祥也夫宣帝出自閭閻坐登宸極所謂庶人受命者也以曾孫血屬上纂皇統所謂同姓之雄者也昌邑見廢謫居逺方所謂人君虜者也班書載此徵祥雖具有剖析而求諸後應曾不縷陳叙事之宜豈其若是茍文有所闕則何以成言者哉此所謂但申解釋不顯符應也志云成帝建始三年小女陳持弓年九嵗走入未央宮又云綏和二年男子王褒入北司馬門上前殿班志雖已有證據言多疎闊今聊演而申之按女子九嵗者九則陽數之極也男子王褒者王則巨君之姓也入北司馬門上前殿者王莽始為大司馬至哀帝時就國帝崩後仍此官因以簒位夫入司馬門而上殿亦由從司馬而升極災祥示兆其事甚明忽而不書為略何甚此所謂解釋雖讜義理非精也志云哀帝建平四年山陽女子田無嗇懐妊三月兒啼腹中及生不舉葬之陌上三日人過聞啼聲母掘土收養尋本志雖述此妖災而了無解釋按人從胞至育含靈受氣始末有恒數前後有定準至在孕甫爾遽發啼聲者亦由物有基業未彰而形象已兆即王氏簒國之徵生而不舉葬而不死者亦猶物有期運已定非誅剪所平即王氏受命之應也又案班志以小女陳持弓者陳即莽之所出如女子田無嗇者田故莽之本宗事既同占言無一槩豈非唯知其一而不知其二者乎此所謂妖祥可知寢嘿無說也當春秋之時諸國賢俊多矣如沙麓其壊梁山云崩鶂退蜚於宋都龍交鬭於鄭水或伯宗子産具述其非妖或卜偃史過盛言其必應葢于時有識君子以為美談故左氏書之不刋貽厥來裔既而古今路阻聞見壤隔至漢代儒者董仲舒劉向之徒始别搆異聞輔申他說以兹後學凌彼先賢葢今諺所謂季與厥昆爭知嫂諱者也今諺云弟與兄爭嫂字以其名鄙故稍文釋之而班志尚捨長用短捐舊習新茍出異同自矜魁博多見其無識者矣此所謂不循}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_WYG_019-8b, image: WYG0685/WYG0685-0141b.png}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_WYG_019-9a, image: WYG0685/WYG0685-0141c.png}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_WYG_019-9b, image: WYG0685/WYG0685-0141d.png}
+  - {type: page-break, offset: 6, content: '', id: KR2o0001_WYG_019-10a, image: WYG0685/WYG0685-0142a.png}
+  - {type: variant, offset: 6, length: 1, content: 五, krp: 人同罪矛盾自已始末相違豈其甚邪此所謂輕持善政用配妖禍者也志云孝昭元鳯三年太山有大石立眭孟以爲當有庶人爲天子者京房易傳云太山之石顛而下聖人受命人君虜又曰石立於山同姓爲天下雄按此當是孝宣皇帝即位之祥也夫宣帝出自閭閻坐登宸極所謂庶人受命者也以曾孫血属上纂皇統所謂同姓之雄者也昌邑見廢謫居逺方所謂人君虜者也班書載此徵祥雖具有剖折而求諸後應曾不縷陳叙事之宜豈其若是茍文有所闕則何以載言者哉此所謂但申解釋不顯符應也志云成帝建始二年小女陳持弓年九嵗走入未央宮又云綏和二年男子王褒入北司馬門上前殿班志雖已有證㨿言多疎闊今聊演而申之按女子九嵗者則陽數之極也男子王褒者王則巨君之姓也入北司馬門上殿者王莽始為大司馬至哀帝時就國帝崩後仍此官因以簒位夫入司馬門而上殿亦由從司馬而升極災祥示兆其事甚明忽而不書為略何甚此所謂解釋雖讜義理非精也志云哀帝建平四年山陽女子田無嗇懐孕三月兒啼腹中及生不舉葬之陌上三日人過聞啼聲母掘土收養尋本志雖述此妖災而了無解釋按人從胞至育含靈受氣始末有成數前後有定準至在孕哺爾遽發啼聲者亦由物有基業未彰而形象已兆即王氏簒國之徵生而不舉葬而不死者亦由物有期運已定非誅剪所平即王氏受命之應也又案班云以小女陳持弓者陳即莽之所出如女子田無嗇者田故莽之本宗事既同占言無一槩豈非唯知其一而不知其二者乎此所謂妖祥可知寢嘿無說也當春秋之時諸國賢俊多矣如沙麓其壊梁山云崩鷁退蜚於宋都龍交鬭於鄭水或伯宗子産具述其非妖或卜偃史過盛言其必應蓋於時有識君子以爲美談故左氏書之不刋貽厥來裔既而古今路阻聞見壤隔至漢代儒者董仲舒劉向之徒始别搆異聞輔申他說以兹後學凌彼先賢葢今諺所謂季與厥昆爭私嫂者而班志尚捨長用短捐舊習新茍出異同自矜魁博多見其無識者矣此所謂不循}
+  - {type: punctuation, offset: 8, content: 》, id: KR2o0001_tls_019-bkkpn2}
+  - {type: punctuation, offset: 8, content: 、, id: KR2o0001_tls_019-bkkpn3}
+  - {type: variant, offset: 8, length: 0, content: '', SBCK: 典自任胷懐也第四科古學不精者其流有三一曰博引前書網羅不盡二曰兼採左氏遺逸甚多三曰屢舉舊事不知􅀁出志云庶徵之恒風劉向以為春秋無其應劉歆以為釐十六年左氏傳釋六鷁退飛是也案舊史稱劉向學榖梁歆學左氏既祖習各異而聞見不同信矣而周木斯拔鄭車僨濟風之為害被於尚書春秋向則略而不言歆則知而不傳又詳言衆恠歴叙群妖述兩㲠為災而不録趙毛生地書異鳥相育而不載宋雀生鸇斯皆見小忘大舉輕略重葢學有不同識無通鑑故也且當炎漢之代厥異尤竒若景帝承平赤風如血于公在職亢陽為旱在紀與傳各具其祥在於志中獨無其說者何哉所謂博引前書網羅不盡也左傳云宋人逐猰狗華臣出奔陳又云宋公子它有白馬景公奪而朱其尾鬛它弟辰以蕭叛班志書此二事以為犬馬之禍自釋非引}
+  - {type: page-break, offset: 8, content: '', id: KR2o0001_SBCK_019-10b}
+  - {type: page-break, offset: 8, content: '', id: KR2o0001_SBCK_019-11a}
+  - {type: variant, offset: 8, length: 0, content: '', WYG: 典自任胷懐也第四科古學不精者其流有三一曰博引前書網羅不盡二曰兼採左氏遺逸甚多三曰屢舉舊事不知所出志曰庶徵之恒風劉向以為春秋無其應劉歆以為釐十六年左氏傳釋六鶂退飛是也案舊史稱劉向學榖梁歆學左氏既祖習各異而聞見不同信矣而周木斯拔鄭車僨濟風之為害被於尚書春秋向則略而不言歆則知而不傳又詳言衆怪歴叙羣妖述雨㲠為災而不録趙毛生地書異鳥相育而不載宋雀生鸇斯皆見小忘大舉輕略重葢學有不同識無通鑑故也且當炎漢之代厥異尤竒若景帝承平赤風如血于公在職亢陽為旱在紀與傳各具其祥在於志中獨無其說者何哉所謂博引前書網羅不盡也左傳云宋人逐猰狗華臣出奔陳又云宋公子地有白馬景公奪而朱其尾鬛他弟辰以蕭叛班志書此二事以為犬馬之禍此二事是班生自釋非引}
+  - {type: page-break, offset: 8, content: '', id: KR2o0001_WYG_019-10b, image: WYG0685/WYG0685-0142b.png}
+  - {type: page-break, offset: 8, content: '', id: KR2o0001_WYG_019-11a, image: WYG0685/WYG0685-0142c.png}
+  - {type: variant, offset: 8, length: 0, content: '', krp: 典自任胷懐也第四科古學不精者其流有三一曰博引前書網羅不盡二曰兼採左氏遺逸甚多三曰屢舉舊事不知所出志云庶徵之恒風劉向以為春秋無其應劉歆以為釐十六年左氏傳釋六鷁退飛是也案舊史稱劉向學榖梁歆學左氏既祖習各異而聞見不同信矣而周木斯拔鄭車僨濟風之為害被於尚書春秋向則略而不言歆則知而不傳又詳言衆恠歴叙群妖述兩㲠為災而不録趙毛生地書異鳥相育而不載宋雀生鸇斯皆見小忘大舉輕略重葢學有不同識無通鑑故也且當炎漢之代厥異尤竒若景帝承平赤風如血于公在職亢陽為旱在紀與傳各具其祥在於志中獨無其說者何哉所謂博引前書網羅不盡也左傳云宋人逐猰狗華臣出奔陳又云宋公子它有白馬景公奪而朱其尾鬛它弟辰以蕭叛班志書此二事以為犬馬之禍自釋非引}
+  - {type: variant, offset: 9, length: 6, content: 子廣書人物雖, SBCK: 儒此二事是班生言所按左}
+  - {type: variant, offset: 9, length: 6, content: 子廣書人物雖, WYG: 儒所言按左}
+  - {type: variant, offset: 9, length: 6, content: 子廣書人物雖, krp: 儒此二事是班生言所按左}
+  - {type: punctuation, offset: 10, content: ，, id: KR2o0001_tls_019-bkkpn4}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR2o0001_tls_019-1a.2}
+  - {type: punctuation, offset: 14, content: ，, id: KR2o0001_tls_019-bkkpn5}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR2o0001_tls_019-1a.3}
+  - {type: variant, offset: 16, length: 3, content: 族可驗, SBCK: 所載斯流寔繁如季氏之逆也由闘鷄}
+  - {type: page-break, offset: 16, content: '', id: KR2o0001_SBCK_019-11b}
+  - {type: variant, offset: 16, length: 3, content: 族可驗, WYG: 所載斯流實繁如季氏之逆也由鬭雞}
+  - {type: variant, offset: 16, length: 3, content: 族可驗, krp: 所載斯流寔繁如季氏之逆也由闘鷄}
+  - {type: punctuation, offset: 19, content: ，, id: KR2o0001_tls_019-bkkpn6}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR2o0001_tls_019-1a.4}
+  - {type: variant, offset: 20, length: 5, content: 邑里難詳逮, SBCK: 傅芥衛侯之敗也因養鶴以乗軒曹亡首}
+  - {type: variant, offset: 20, length: 5, content: 邑里難詳逮, WYG: 傅介衛侯之敗也因養鶴以乗軒曹亡首}
+  - {type: page-break, offset: 20, content: '', id: KR2o0001_WYG_019-11b, image: WYG0685/WYG0685-0142d.png}
+  - {type: variant, offset: 20, length: 5, content: 邑里難詳逮, krp: 傅芥衛侯之敗也因養鶴以乗軒曹亡首}
+  - {type: punctuation, offset: 24, content: 。, id: KR2o0001_tls_019-bkkpn7}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR2o0001_tls_019-1a.5}
+  - {type: variant, offset: 26, length: 0, content: '', SBCK: 獲雁鄭殺萌於解黿郄至奪豕而家滅華元烹羊而卒奔此言白黑之祥羽毛之孽何獨捨而不論唯徵犬馬而已此所謂兼採左氏遺逸甚多也按}
+  - {type: variant, offset: 26, length: 0, content: '', WYG: 獲雁鄭殺萌於解黿郄至奪豕而家滅華元殺羊而卒奔此言白黑之祥羽毛之孽何獨捨而不論唯徵犬馬而已此所謂兼採左氏遺逸甚多也按}
+  - {type: variant, offset: 26, length: 0, content: '', krp: 獲雁鄭殺萌於解黿郄至奪豕而家滅華元烹羊而卒奔此言白黑之祥羽毛之孽何獨捨而不論唯徵犬馬而已此所謂兼採左氏遺逸甚多也按}
+  - {type: variant, offset: 29, length: 0, content: '', SBCK: 書自春秋已前所有國家灾眚賢哲占候皆出於左氏國語者也今班志所引上自周之幽厲下終魯之定哀而不云國語唯稱史記豈非忘本徇末逐近棄逺者乎此所謂屢舉舊事不知所出也所定多目凡二十九種但其失既衆不可殫論故每目之中或時舉一事庶觸類而長他皆可知又按斯志之作也本欲明吉凶釋休咎懲惡勸善以誡將來至如春秋已還漢代而往其間日蝕地震石隕山崩雨雹雨魚大旱大水鷄豕為禍桃李冬花直叙其灾而不言其應時日蝕載春秋十不言其應又惠帝二年武帝征和二年宣帝三十六而二不言其應漢時日蝕五十三而四石凡四十總不言其應又皇后二年武都山崩本}
+  - {type: page-break, offset: 29, content: '', id: KR2o0001_SBCK_019-12a}
+  - {type: variant, offset: 29, length: 0, content: '', WYG: 書自春秋已前所有國家災眚賢哲占候皆出於左氏國語者也今班志所引上自周之幽厲下終魯之定哀而不云國語唯稱史記豈非忘本徇末逐近棄逺者乎此所謂屢舉舊事不知所出也所定多目凡一十九種但其失既衆不可殫論故每目之中或時舉一事庶觸類而長他皆可知又按斯志之作也本欲明吉凶釋休咎懲惡勸善以誡將來至如春秋已還漢代而往其間日食地震石隕山崩雨雹雨魚大旱大水犬豕為禍桃李冬花多直叙其災而不言其應載春秋時日食三十六而二不言其應漢時日食五十三而四十不言其應又惠帝二年武帝征和二年宣帝本}
+  - {type: page-break, offset: 29, content: '', id: KR2o0001_WYG_019-12a, image: WYG0685/WYG0685-0143a.png}
+  - {type: variant, offset: 29, length: 0, content: '', krp: 書自春秋已前所有國家灾眚賢哲占候皆出於左氏國語者也今班志所引上自周之幽厲下終魯之定哀而不云國語唯稱史記豈非忘本徇末逐近棄逺者乎此所謂屢舉舊事不知所出也所定多目凡二十九種但其失既衆不可殫論故每目之中或時舉一事庶觸類而長他皆可知又按斯志之作也本欲明吉凶釋休咎懲惡勸善以誡將來至如春秋已還漢代而往其間日蝕地震石隕山崩雨雹雨魚大旱大水鷄豕為禍桃李冬花直叙其灾而不言其應時日蝕載春秋十不言其應又惠帝二年武帝征和二年宣帝三十六而二不言其應漢時日蝕五十三而四石凡四十總不言其應又皇后二年武都山崩本}
+  - {type: variant, offset: 30, length: 4, content: 革茲體凡, SBCK: 四年元帝永和三年綏和四年皆地震隕鴻嘉四年雨魚于信都孝景之時大旱者二昭成帝河平二年楚國雨雹大如斧蜚鳴死成帝甲兵弩繫之皆狗也又鴻嘉中狗與豕交惠帝成二年大雨水二河平元年長安}
+  - {type: page-break, offset: 30, content: '', id: KR2o0001_SBCK_019-12b}
+  - {type: variant, offset: 30, length: 3, content: 革茲體, WYG: 四年元帝永和三年綏和四年皆地震隕石}
+  - {type: variant, offset: 30, length: 4, content: 革茲體凡, krp: 四年元帝永和三年綏和四年皆地震隕鴻嘉四年雨魚于信都孝景之時大旱者二昭成帝河平二年楚國雨雹大如斧蜚鳴死成帝甲兵弩繫之皆狗也又鴻嘉中狗與豕交惠帝成二年大雨水二河平元年長安}
+  - {type: punctuation, offset: 33, content: ，, id: KR2o0001_tls_019-bkkpn8}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR2o0001_tls_019-1a.6}
+  - {type: variant, offset: 34, length: 0, content: '', WYG: 四十總不言其應又皇后二年武都山崩成帝和平二年楚國雨雹大如斧蜚鳥死成帝鴻嘉四年雨魚于信都孝景之時大旱者二昭成二年大雨水三河平元年長安}
+  - {type: variant, offset: 35, length: 20, content: 列傳先述本居至於國有弛張鄉有併省隨時而載, SBCK: 如人狀被實皆不言其應􅊨五年十月桃李花此乃魯史之春秋漢書之帝紀耳何}
+  - {type: variant, offset: 35, length: 20, content: 列傳先述本居至於國有弛張鄉有併省隨時而載, WYG: 如人狀被甲兵弩繫之皆狗也又鴻嘉中狗與豕交惠帝五年十月桃李花棗食皆不言其應此乃魯史之春秋漢書之帝紀耳何}
+  - {type: page-break, offset: 35, content: '', id: KR2o0001_WYG_019-12b, image: WYG0685/WYG0685-0143b.png}
+  - {type: variant, offset: 35, length: 20, content: 列傳先述本居至於國有弛張鄉有併省隨時而載, krp: 如人狀被實皆不言其應􅊨五年十月桃李花此乃魯史之春秋漢書之帝紀耳何}
+  - {type: punctuation, offset: 37, content: ，, id: KR2o0001_tls_019-bkkpn9}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR2o0001_tls_019-1a.7}
+  - {type: punctuation, offset: 41, content: 。, id: KR2o0001_tls_019-bkkpn10}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR2o0001_tls_019-1a.8}
+  - {type: punctuation, offset: 47, content: ，, id: KR2o0001_tls_019-bkkpn11}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR2o0001_tls_019-1a.9}
+  - {type: punctuation, offset: 51, content: ，, id: KR2o0001_tls_019-bkkpn12}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR2o0001_tls_019-1a.10}
+  - {type: punctuation, offset: 55, content: ，, id: KR2o0001_tls_019-bkkpn13}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR2o0001_tls_019-1a.11}
+  - {type: variant, offset: 56, length: 51, content: 明審實案夏侯孝若撰東方朔贊云朔字曼倩平原厭次人魏建安中分厭次爲樂陵郡故又爲郡人焉夫以身沒之後地名改易猶, SBCK: ''}
+  - {type: variant, offset: 56, length: 51, content: 明審實案夏侯孝若撰東方朔贊云朔字曼倩平原厭次人魏建安中分厭次爲樂陵郡故又爲郡人焉夫以身沒之後地名改易猶, WYG: ''}
+  - {type: variant, offset: 56, length: 51, content: 明審實案夏侯孝若撰東方朔贊云朔字曼倩平原厭次人魏建安中分厭次爲樂陵郡故又爲郡人焉夫以身沒之後地名改易猶, krp: ''}
+  - {type: punctuation, offset: 59, content: 。, id: KR2o0001_tls_019-bkkpn14}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR2o0001_tls_019-1a.12}
+  - {type: punctuation, offset: 65, content: 《, id: KR2o0001_tls_019-bkkpn15}
+  - {type: punctuation, offset: 69, content: 》, id: KR2o0001_tls_019-bkkpn16}
+  - {type: punctuation, offset: 70, content: ：, id: KR2o0001_tls_019-bkkpn17}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR2o0001_tls_019-1a.13}
+  - {type: punctuation, offset: 70, content: 「, id: KR2o0001_tls_019-bkkpn18}
+  - {type: punctuation, offset: 74, content: ，, id: KR2o0001_tls_019-bkkpn19}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR2o0001_tls_019-1a.14}
+  - {type: punctuation, offset: 79, content: 。, id: KR2o0001_tls_019-bkkpn20}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR2o0001_tls_019-1a.15}
+  - {type: punctuation, offset: 83, content: ，, id: KR2o0001_tls_019-bkkpn21}
+  - {type: 'tls:seg', offset: 83, content: '', id: KR2o0001_tls_019-1a.16}
+  - {type: substitution, offset: 86, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 90, content: ，, id: KR2o0001_tls_019-bkkpn22}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR2o0001_tls_019-1a.17}
+  - {type: substitution, offset: 92, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 96, content: 。, id: KR2o0001_tls_019-bkkpn23}
+  - {type: punctuation, offset: 96, content: 」, id: KR2o0001_tls_019-bkkpn24}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR2o0001_tls_019-1a.18}
+  - {type: punctuation, offset: 102, content: ，, id: KR2o0001_tls_019-bkkpn25}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR2o0001_tls_019-1a.19}
+  - {type: punctuation, offset: 106, content: ，, id: KR2o0001_tls_019-bkkpn26}
+  - {type: 'tls:seg', offset: 106, content: '', id: KR2o0001_tls_019-1a.20}
+  - {type: variant, offset: 108, length: 63, content: 追書其事以示後來則知身生之前故宜詳錄者矣異哉晉氏之有天下也自洛陽蕩覆衣冠南渡江左僑立州縣不存桑梓由是斗牛之野郡有青徐吳越之鄉州, SBCK: ''}
+  - {type: variant, offset: 108, length: 63, content: 追書其事以示後來則知身生之前故宜詳錄者矣異哉晉氏之有天下也自洛陽蕩覆衣冠南渡江左僑立州縣不存桑梓由是斗牛之野郡有青徐吳越之鄉州, WYG: ''}
+  - {type: variant, offset: 108, length: 63, content: 追書其事以示後來則知身生之前故宜詳錄者矣異哉晉氏之有天下也自洛陽蕩覆衣冠南渡江左僑立州縣不存桑梓由是斗牛之野郡有青徐吳越之鄉州, krp: ''}
+  - {type: punctuation, offset: 112, content: ，, id: KR2o0001_tls_019-bkkpn27}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR2o0001_tls_019-1a.21}
+  - {type: punctuation, offset: 116, content: 。, id: KR2o0001_tls_019-bkkpn28}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR2o0001_tls_019-1a.22}
+  - {type: punctuation, offset: 122, content: ，, id: KR2o0001_tls_019-bkkpn29}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR2o0001_tls_019-1a.23}
+  - {type: substitution, offset: 125, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 128, content: 。, id: KR2o0001_tls_019-bkkpn30}
+  - {type: xml-element, offset: 128, content: '', id: KR2o0001_tls_019-bkkxmlele2}
+  - {type: xml-element, offset: 128, content: '', id: KR2o0001_tls_019-bkkxmlele3}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR2o0001_tls_019-2a.1}
+  - {type: punctuation, offset: 130, content: ！, id: KR2o0001_tls_019-bkkpn31}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR2o0001_tls_019-2a.2}
+  - {type: punctuation, offset: 137, content: 。, id: KR2o0001_tls_019-bkkpn32}
+  - {type: 'tls:seg', offset: 137, content: '', id: KR2o0001_tls_019-2a.3}
+  - {type: punctuation, offset: 142, content: ，, id: KR2o0001_tls_019-bkkpn33}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR2o0001_tls_019-2a.4}
+  - {type: punctuation, offset: 146, content: ，, id: KR2o0001_tls_019-bkkpn34}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR2o0001_tls_019-2a.5}
+  - {type: punctuation, offset: 152, content: ，, id: KR2o0001_tls_019-bkkpn35}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR2o0001_tls_019-2a.6}
+  - {type: punctuation, offset: 156, content: 。, id: KR2o0001_tls_019-bkkpn36}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR2o0001_tls_019-2a.7}
+  - {type: punctuation, offset: 162, content: ，, id: KR2o0001_tls_019-bkkpn37}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR2o0001_tls_019-2a.8}
+  - {type: punctuation, offset: 165, content: 、, id: KR2o0001_tls_019-bkkpn38}
+  - {type: punctuation, offset: 166, content: ；, id: KR2o0001_tls_019-bkkpn39}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR2o0001_tls_019-2a.9}
+  - {type: punctuation, offset: 167, content: 、, id: KR2o0001_tls_019-bkkpn40}
+  - {type: punctuation, offset: 170, content: ，, id: KR2o0001_tls_019-bkkpn41}
+  - {type: 'tls:seg', offset: 170, content: '', id: KR2o0001_tls_019-2a.10}
+  - {type: variant, offset: 172, length: 70, content: 冀豫欲使南北不亂淄澠可分得乎繫虛名於本土者雖百代無易既而天長地久文軌大同州郡則廢置無恆名目則古今各異而作者爲人立傳每云某所人也其地皆取舊號施, SBCK: ''}
+  - {type: variant, offset: 172, length: 70, content: 冀豫欲使南北不亂淄澠可分得乎繫虛名於本土者雖百代無易既而天長地久文軌大同州郡則廢置無恆名目則古今各異而作者爲人立傳每云某所人也其地皆取舊號施, WYG: ''}
+  - {type: variant, offset: 172, length: 70, content: 冀豫欲使南北不亂淄澠可分得乎繫虛名於本土者雖百代無易既而天長地久文軌大同州郡則廢置無恆名目則古今各異而作者爲人立傳每云某所人也其地皆取舊號施, krp: ''}
+  - {type: punctuation, offset: 173, content: 、, id: KR2o0001_tls_019-bkkpn42}
+  - {type: punctuation, offset: 174, content: 。, id: KR2o0001_tls_019-bkkpn43}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR2o0001_tls_019-2a.11}
+  - {type: punctuation, offset: 180, content: ，, id: KR2o0001_tls_019-bkkpn44}
+  - {type: 'tls:seg', offset: 180, content: '', id: KR2o0001_tls_019-2a.12}
+  - {type: punctuation, offset: 181, content: 、, id: KR2o0001_tls_019-bkkpn45}
+  - {type: punctuation, offset: 184, content: ，, id: KR2o0001_tls_019-bkkpn46}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR2o0001_tls_019-2a.13}
+  - {type: punctuation, offset: 186, content: ？, id: KR2o0001_tls_019-bkkpn47}
+  - {type: 'tls:seg', offset: 186, content: '', id: KR2o0001_tls_019-2a.14}
+  - {type: punctuation, offset: 193, content: ，, id: KR2o0001_tls_019-bkkpn48}
+  - {type: 'tls:seg', offset: 193, content: '', id: KR2o0001_tls_019-2a.15}
+  - {type: punctuation, offset: 198, content: 。, id: KR2o0001_tls_019-bkkpn49}
+  - {type: 'tls:seg', offset: 198, content: '', id: KR2o0001_tls_019-2a.16}
+  - {type: punctuation, offset: 204, content: ，, id: KR2o0001_tls_019-bkkpn50}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR2o0001_tls_019-2a.17}
+  - {type: punctuation, offset: 208, content: 。, id: KR2o0001_tls_019-bkkpn51}
+  - {type: 'tls:seg', offset: 208, content: '', id: KR2o0001_tls_019-2a.18}
+  - {type: punctuation, offset: 215, content: ，, id: KR2o0001_tls_019-bkkpn52}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR2o0001_tls_019-2a.19}
+  - {type: punctuation, offset: 222, content: 。, id: KR2o0001_tls_019-bkkpn53}
+  - {type: 'tls:seg', offset: 222, content: '', id: KR2o0001_tls_019-2a.20}
+  - {type: substitution, offset: 225, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 229, content: ，, id: KR2o0001_tls_019-bkkpn54}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR2o0001_tls_019-2a.21}
+  - {type: punctuation, offset: 235, content: ，, id: KR2o0001_tls_019-bkkpn55}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR2o0001_tls_019-2a.22}
+  - {type: punctuation, offset: 241, content: ，, id: KR2o0001_tls_019-bkkpn56}
+  - {type: 'tls:seg', offset: 241, content: '', id: KR2o0001_tls_019-2a.23}
+  - {type: variant, offset: 244, length: 8, content: 今近代史爲王氏傳, SBCK: 此志哉昔班叔皮}
+  - {type: variant, offset: 244, length: 8, content: 今近代史爲王氏傳, WYG: 此志哉昔班叔皮}
+  - {type: variant, offset: 244, length: 8, content: 今近代史爲王氏傳, krp: 此志哉昔班叔皮}
+  - {type: substitution, offset: 248, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 252, content: ，, id: KR2o0001_tls_019-bkkpn57}
+  - {type: punctuation, offset: 253, content: 「, id: KR2o0001_tls_019-bkkpn58}
+  - {type: variant, offset: 253, length: 35, content: 瑯琊臨沂人爲李氏傳曰隴西成紀人之類是也非惟王李二族久離本居亦自當時無此, SBCK: 司馬遷叙相如則舉其}
+  - {type: variant, offset: 253, length: 35, content: 瑯琊臨沂人爲李氏傳曰隴西成紀人之類是也非惟王李二族久離本居亦自當時無此, WYG: 司馬遷叙相如則舉其}
+  - {type: variant, offset: 253, length: 35, content: 瑯琊臨沂人爲李氏傳曰隴西成紀人之類是也非惟王李二族久離本居亦自當時無此, krp: 司馬遷叙相如則舉其}
+  - {type: substitution, offset: 253, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1048}}
+  - {type: punctuation, offset: 258, content: 」, id: KR2o0001_tls_019-bkkpn59}
+  - {type: punctuation, offset: 258, content: ；, id: KR2o0001_tls_019-bkkpn60}
+  - {type: substitution, offset: 258, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 262, content: ，, id: KR2o0001_tls_019-bkkpn61}
+  - {type: punctuation, offset: 263, content: 「, id: KR2o0001_tls_019-bkkpn62}
+  - {type: punctuation, offset: 268, content: 」, id: KR2o0001_tls_019-bkkpn63}
+  - {type: punctuation, offset: 272, content: 。, id: KR2o0001_tls_019-bkkpn64}
+  - {type: punctuation, offset: 275, content: 、, id: KR2o0001_tls_019-bkkpn65}
+  - {type: punctuation, offset: 282, content: ，, id: KR2o0001_tls_019-bkkpn66}
+  - {type: punctuation, offset: 290, content: ，, id: KR2o0001_tls_019-bkkpn67}
+  - {type: variant, offset: 290, length: 92, content: 皆是晉魏已前舊名號欲求實錄不亦難乎且人無定質因地而化故生於荊者言皆成楚居於晉者齒便從黃涉魏而東已經七葉歷江而北非唯一世而猶以本國爲是此鄉爲非是則孔父里於昌平陰氏家於新野而系纂微子源承管, SBCK: 蕭曹}
+  - {type: variant, offset: 290, length: 92, content: 皆是晉魏已前舊名號欲求實錄不亦難乎且人無定質因地而化故生於荊者言皆成楚居於晉者齒便從黃涉魏而東已經七葉歷江而北非唯一世而猶以本國爲是此鄉爲非是則孔父里於昌平陰氏家於新野而系纂微子源承管, WYG: 蕭曹}
+  - {type: variant, offset: 290, length: 92, content: 皆是晉魏已前舊名號欲求實錄不亦難乎且人無定質因地而化故生於荊者言皆成楚居於晉者齒便從黃涉魏而東已經七葉歷江而北非唯一世而猶以本國爲是此鄉爲非是則孔父里於昌平陰氏家於新野而系纂微子源承管, krp: 蕭曹}
+  - {type: punctuation, offset: 293, content: 、, id: KR2o0001_tls_019-bkkpn68}
+  - {type: punctuation, offset: 299, content: 。, id: KR2o0001_tls_019-bkkpn69}
+  - {type: punctuation, offset: 299, content: 。, id: KR2o0001_tls_019-bkkpn70}
+  - {type: 'tls:seg', offset: 299, content: '', id: KR2o0001_tls_019-2a.24}
+  - {type: substitution, offset: 302, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: punctuation, offset: 303, content: ，, id: KR2o0001_tls_019-bkkpn71}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR2o0001_tls_019-2a.25}
+  - {type: punctuation, offset: 307, content: ！, id: KR2o0001_tls_019-bkkpn72}
+  - {type: xml-element, offset: 307, content: '', id: KR2o0001_tls_019-bkkxmlele4}
+  - {type: xml-element, offset: 307, content: '', id: KR2o0001_tls_019-bkkxmlele5}
+  - {type: 'tls:seg', offset: 307, content: '', id: KR2o0001_tls_019-3a.1}
+  - {type: punctuation, offset: 312, content: ，, id: KR2o0001_tls_019-bkkpn73}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR2o0001_tls_019-3a.2}
+  - {type: punctuation, offset: 316, content: 。, id: KR2o0001_tls_019-bkkpn74}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR2o0001_tls_019-3a.3}
+  - {type: punctuation, offset: 321, content: ，, id: KR2o0001_tls_019-bkkpn75}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR2o0001_tls_019-3a.4}
+  - {type: punctuation, offset: 325, content: ；, id: KR2o0001_tls_019-bkkpn76}
+  - {type: 'tls:seg', offset: 325, content: '', id: KR2o0001_tls_019-3a.5}
+  - {type: punctuation, offset: 329, content: ，, id: KR2o0001_tls_019-bkkpn77}
+  - {type: 'tls:seg', offset: 329, content: '', id: KR2o0001_tls_019-3a.6}
+  - {type: punctuation, offset: 333, content: 。, id: KR2o0001_tls_019-bkkpn78}
+  - {type: 'tls:seg', offset: 333, content: '', id: KR2o0001_tls_019-3a.7}
+  - {type: punctuation, offset: 337, content: ，, id: KR2o0001_tls_019-bkkpn79}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR2o0001_tls_019-3a.8}
+  - {type: punctuation, offset: 341, content: ；, id: KR2o0001_tls_019-bkkpn80}
+  - {type: 'tls:seg', offset: 341, content: '', id: KR2o0001_tls_019-3a.9}
+  - {type: punctuation, offset: 345, content: ，, id: KR2o0001_tls_019-bkkpn81}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR2o0001_tls_019-3a.10}
+  - {type: punctuation, offset: 349, content: 。, id: KR2o0001_tls_019-bkkpn82}
+  - {type: 'tls:seg', offset: 349, content: '', id: KR2o0001_tls_019-3a.11}
+  - {type: substitution, offset: 354, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 356, content: ，, id: KR2o0001_tls_019-bkkpn83}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR2o0001_tls_019-3a.12}
+  - {type: substitution, offset: 358, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 360, content: 。, id: KR2o0001_tls_019-bkkpn84}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR2o0001_tls_019-3a.13}
+  - {type: punctuation, offset: 368, content: ，, id: KR2o0001_tls_019-bkkpn85}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR2o0001_tls_019-3a.14}
+  - {type: punctuation, offset: 374, content: ，, id: KR2o0001_tls_019-bkkpn86}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR2o0001_tls_019-3a.15}
+  - {type: punctuation, offset: 379, content: ，, id: KR2o0001_tls_019-bkkpn87}
+  - {type: 'tls:seg', offset: 379, content: '', id: KR2o0001_tls_019-3a.16}
+  - {type: punctuation, offset: 383, content: ，, id: KR2o0001_tls_019-bkkpn88}
+  - {type: 'tls:seg', offset: 383, content: '', id: KR2o0001_tls_019-3a.17}
+  - {type: variant, offset: 383, length: 4, content: 乃爲齊宋, SBCK: 舒並時}
+  - {type: variant, offset: 383, length: 4, content: 乃爲齊宋, WYG: 舒並時}
+  - {type: variant, offset: 383, length: 4, content: 乃爲齊宋, krp: 舒並時}
+  - {type: substitution, offset: 384, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 386, content: 、, id: KR2o0001_tls_019-bkkpn89}
+  - {type: punctuation, offset: 389, content: ，, id: KR2o0001_tls_019-bkkpn90}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR2o0001_tls_019-3a.18}
+  - {type: variant, offset: 389, length: 2, content: 非關, SBCK: 不記其字或縣而不郡葢有所未暇也若孟堅此志錯謬殊多豈亦刋削未周者邪不然何脫略之甚也亦有穿鑿成文强生異義如蜮之為惑麋之為迷隕五石者齊五子之徵崩七山者漢七國之象叔服㑹葬成伯來奔亢陽所以成妖鄭易許由}
+  - {type: page-break, offset: 389, content: '', id: KR2o0001_SBCK_019-13a}
+  - {type: variant, offset: 389, length: 2, content: 非關, WYG: 不記其字或縣而不郡葢有所未暇也若孟堅此志錯繆殊多豈亦刋削未周者邪不然何脫略之甚也亦有穿鑿成文强生異義如蜮之為惑麋之為迷隕五石者齊五子之徵崩七山者漢七國之象叔服㑹葬成伯來奔亢陽所以成妖鄭易許田}
+  - {type: variant, offset: 389, length: 2, content: 非關, krp: 不記其字或縣而不郡葢有所未暇也若孟堅此志錯謬殊多豈亦刋削未周者邪不然何脫略之甚也亦有穿鑿成文强生異義如蜮之為惑麋之為迷隕五石者齊五子之徵崩七山者漢七國之象叔服㑹葬成伯來奔亢陽所以成妖鄭易許由}
+  - {type: punctuation, offset: 392, content: 、, id: KR2o0001_tls_019-bkkpn91}
+  - {type: variant, offset: 392, length: 4, content: 鄧之士求, SBCK: 謀菜國食苖所以為禍}
+  - {type: variant, offset: 392, length: 4, content: 鄧之士求, WYG: 謀萊國食苖所以為禍}
+  - {type: variant, offset: 392, length: 4, content: 鄧之士求, krp: 謀菜國食苖所以為禍}
+  - {type: punctuation, offset: 395, content: 。, id: KR2o0001_tls_019-bkkpn92}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR2o0001_tls_019-3a.19}
+  - {type: variant, offset: 397, length: 70, content: 自古其義無聞時修國史予被配篹李義琰傳琰家於魏州昌樂已經三代因云義琰魏州昌樂人也監修者大笑以爲深乖史體遂依李氏舊望改爲隴西成紀人既言不見從故有, SBCK: 如}
+  - {type: variant, offset: 397, length: 70, content: 自古其義無聞時修國史予被配篹李義琰傳琰家於魏州昌樂已經三代因云義琰魏州昌樂人也監修者大笑以爲深乖史體遂依李氏舊望改爲隴西成紀人既言不見從故有, WYG: 如}
+  - {type: variant, offset: 397, length: 70, content: 自古其義無聞時修國史予被配篹李義琰傳琰家於魏州昌樂已經三代因云義琰魏州昌樂人也監修者大笑以爲深乖史體遂依李氏舊望改爲隴西成紀人既言不見從故有, krp: 如}
+  - {type: punctuation, offset: 399, content: ，, id: KR2o0001_tls_019-bkkpn93}
+  - {type: 'tls:seg', offset: 399, content: '', id: KR2o0001_tls_019-3a.20}
+  - {type: punctuation, offset: 407, content: ，, id: KR2o0001_tls_019-bkkpn94}
+  - {type: substitution, offset: 407, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: substitution, offset: 410, original: 篹, replacement: 纂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3687}}
+  - {type: punctuation, offset: 411, content: 《, id: KR2o0001_tls_019-bkkpn95}
+  - {type: punctuation, offset: 415, content: 》, id: KR2o0001_tls_019-bkkpn96}
+  - {type: punctuation, offset: 415, content: 。, id: KR2o0001_tls_019-bkkpn97}
+  - {type: punctuation, offset: 422, content: ，, id: KR2o0001_tls_019-bkkpn98}
+  - {type: punctuation, offset: 426, content: ，, id: KR2o0001_tls_019-bkkpn99}
+  - {type: punctuation, offset: 428, content: ：, id: KR2o0001_tls_019-bkkpn100}
+  - {type: punctuation, offset: 428, content: 「, id: KR2o0001_tls_019-bkkpn101}
+  - {type: punctuation, offset: 430, content: ，, id: KR2o0001_tls_019-bkkpn102}
+  - {type: punctuation, offset: 436, content: 。, id: KR2o0001_tls_019-bkkpn103}
+  - {type: punctuation, offset: 436, content: 」, id: KR2o0001_tls_019-bkkpn104}
+  - {type: punctuation, offset: 441, content: ，, id: KR2o0001_tls_019-bkkpn105}
+  - {type: substitution, offset: 442, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 447, content: ，, id: KR2o0001_tls_019-bkkpn106}
+  - {type: punctuation, offset: 453, content: ，, id: KR2o0001_tls_019-bkkpn107}
+  - {type: substitution, offset: 454, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 460, content: 。, id: KR2o0001_tls_019-bkkpn108}
+  - {type: punctuation, offset: 465, content: ，, id: KR2o0001_tls_019-bkkpn109}
+  - {type: variant, offset: 468, length: 269, content: 說且自世重高門人輕寒族上竝下見以姓望所出邑里相矜若仲遠之尋鄭玄先云汝南應劭文舉之對曹操自謂魯國孔融是也爰及近古其言多僞至於碑頌所勒茅土定名虛引他邦冒爲己邑若乃稱袁則飾之陳郡言杜則係之京邑姓卯金者咸曰彭城氏禾女者皆云鉅鹿今有姓邴者姓弘者以犯國諱皆改爲李氏如書其邑里必曰隴西趙郡夫以假姓猶且如斯則真姓者斷可知矣又今西域胡人多有姓明及卑者如加五等爵或稱平原公或號東平子爲明氏出於平原卑氏出於東平故也夫邊夷雜種尚竊美名則諸夏士流固無慚德也在諸史傳多與同風如隋史牛弘傳云安定鶉觚人也本姓尞氏至它篇所引皆謂之隴西牛弘唐史謝偃傳本姓庫汗氏續謂陳郡謝偃並, SBCK: 事}
+  - {type: variant, offset: 468, length: 269, content: 說且自世重高門人輕寒族上竝下見以姓望所出邑里相矜若仲遠之尋鄭玄先云汝南應劭文舉之對曹操自謂魯國孔融是也爰及近古其言多僞至於碑頌所勒茅土定名虛引他邦冒爲己邑若乃稱袁則飾之陳郡言杜則係之京邑姓卯金者咸曰彭城氏禾女者皆云鉅鹿今有姓邴者姓弘者以犯國諱皆改爲李氏如書其邑里必曰隴西趙郡夫以假姓猶且如斯則真姓者斷可知矣又今西域胡人多有姓明及卑者如加五等爵或稱平原公或號東平子爲明氏出於平原卑氏出於東平故也夫邊夷雜種尚竊美名則諸夏士流固無慚德也在諸史傳多與同風如隋史牛弘傳云安定鶉觚人也本姓尞氏至它篇所引皆謂之隴西牛弘唐史謝偃傳本姓庫汗氏續謂陳郡謝偃並, WYG: 比一作事}
+  - {type: variant, offset: 468, length: 269, content: 說且自世重高門人輕寒族上竝下見以姓望所出邑里相矜若仲遠之尋鄭玄先云汝南應劭文舉之對曹操自謂魯國孔融是也爰及近古其言多僞至於碑頌所勒茅土定名虛引他邦冒爲己邑若乃稱袁則飾之陳郡言杜則係之京邑姓卯金者咸曰彭城氏禾女者皆云鉅鹿今有姓邴者姓弘者以犯國諱皆改爲李氏如書其邑里必曰隴西趙郡夫以假姓猶且如斯則真姓者斷可知矣又今西域胡人多有姓明及卑者如加五等爵或稱平原公或號東平子爲明氏出於平原卑氏出於東平故也夫邊夷雜種尚竊美名則諸夏士流固無慚德也在諸史傳多與同風如隋史牛弘傳云安定鶉觚人也本姓尞氏至它篇所引皆謂之隴西牛弘唐史謝偃傳本姓庫汗氏續謂陳郡謝偃並, krp: 事}
+  - {type: punctuation, offset: 469, content: 。, id: KR2o0001_tls_019-bkkpn110}
+  - {type: punctuation, offset: 469, content: 。, id: KR2o0001_tls_019-bkkpn111}
+  - {type: xml-element, offset: 469, content: '', id: KR2o0001_tls_019-bkkxmlele6}
+  - {type: xml-element, offset: 469, content: '', id: KR2o0001_tls_019-bkkxmlele7}
+  - {type: 'tls:seg', offset: 469, content: '', id: KR2o0001_tls_019-4a.1}
+  - {type: punctuation, offset: 475, content: ，, id: KR2o0001_tls_019-bkkpn112}
+  - {type: 'tls:seg', offset: 475, content: '', id: KR2o0001_tls_019-4a.2}
+  - {type: punctuation, offset: 479, content: ，, id: KR2o0001_tls_019-bkkpn113}
+  - {type: 'tls:seg', offset: 479, content: '', id: KR2o0001_tls_019-4a.3}
+  - {type: punctuation, offset: 479, content: '[', id: KR2o0001_tls_019-bkkpn114}
+  - {type: punctuation, offset: 483, content: ']', id: KR2o0001_tls_019-bkkpn115}
+  - {type: punctuation, offset: 488, content: ，, id: KR2o0001_tls_019-bkkpn116}
+  - {type: 'tls:seg', offset: 488, content: '', id: KR2o0001_tls_019-4a.4}
+  - {type: punctuation, offset: 492, content: 。, id: KR2o0001_tls_019-bkkpn117}
+  - {type: 'tls:seg', offset: 492, content: '', id: KR2o0001_tls_019-4a.5}
+  - {type: punctuation, offset: 499, content: ，, id: KR2o0001_tls_019-bkkpn118}
+  - {type: 'tls:seg', offset: 499, content: '', id: KR2o0001_tls_019-4a.6}
+  - {type: punctuation, offset: 505, content: ；, id: KR2o0001_tls_019-bkkpn119}
+  - {type: 'tls:seg', offset: 505, content: '', id: KR2o0001_tls_019-4a.7}
+  - {type: punctuation, offset: 511, content: ，, id: KR2o0001_tls_019-bkkpn120}
+  - {type: 'tls:seg', offset: 511, content: '', id: KR2o0001_tls_019-4a.8}
+  - {type: punctuation, offset: 519, content: 。, id: KR2o0001_tls_019-bkkpn121}
+  - {type: 'tls:seg', offset: 519, content: '', id: KR2o0001_tls_019-4a.9}
+  - {type: punctuation, offset: 523, content: ，, id: KR2o0001_tls_019-bkkpn122}
+  - {type: 'tls:seg', offset: 523, content: '', id: KR2o0001_tls_019-4a.10}
+  - {type: punctuation, offset: 527, content: 。, id: KR2o0001_tls_019-bkkpn123}
+  - {type: 'tls:seg', offset: 527, content: '', id: KR2o0001_tls_019-4a.11}
+  - {type: punctuation, offset: 533, content: ，, id: KR2o0001_tls_019-bkkpn124}
+  - {type: 'tls:seg', offset: 533, content: '', id: KR2o0001_tls_019-4a.12}
+  - {type: punctuation, offset: 537, content: ，, id: KR2o0001_tls_019-bkkpn125}
+  - {type: 'tls:seg', offset: 537, content: '', id: KR2o0001_tls_019-4a.13}
+  - {type: punctuation, offset: 541, content: ，, id: KR2o0001_tls_019-bkkpn126}
+  - {type: 'tls:seg', offset: 541, content: '', id: KR2o0001_tls_019-4a.14}
+  - {type: substitution, offset: 542, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 545, content: 。, id: KR2o0001_tls_019-bkkpn127}
+  - {type: 'tls:seg', offset: 545, content: '', id: KR2o0001_tls_019-4a.15}
+  - {type: punctuation, offset: 554, content: ，, id: KR2o0001_tls_019-bkkpn128}
+  - {type: 'tls:seg', offset: 554, content: '', id: KR2o0001_tls_019-4a.16}
+  - {type: punctuation, offset: 561, content: ，, id: KR2o0001_tls_019-bkkpn129}
+  - {type: 'tls:seg', offset: 561, content: '', id: KR2o0001_tls_019-4a.17}
+  - {type: punctuation, offset: 569, content: ，, id: KR2o0001_tls_019-bkkpn130}
+  - {type: 'tls:seg', offset: 569, content: '', id: KR2o0001_tls_019-4a.18}
+  - {type: substitution, offset: 575, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
+  - {type: punctuation, offset: 582, content: 、, id: KR2o0001_tls_019-bkkpn131}
+  - {type: punctuation, offset: 585, content: ，, id: KR2o0001_tls_019-bkkpn132}
+  - {type: punctuation, offset: 589, content: ，, id: KR2o0001_tls_019-bkkpn133}
+  - {type: substitution, offset: 591, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 594, content: ，, id: KR2o0001_tls_019-bkkpn134}
+  - {type: punctuation, offset: 599, content: ，, id: KR2o0001_tls_019-bkkpn135}
+  - {type: punctuation, offset: 603, content: 、, id: KR2o0001_tls_019-bkkpn136}
+  - {type: punctuation, offset: 605, content: 。, id: KR2o0001_tls_019-bkkpn137}
+  - {type: punctuation, offset: 613, content: ，, id: KR2o0001_tls_019-bkkpn138}
+  - {type: punctuation, offset: 621, content: 。, id: KR2o0001_tls_019-bkkpn139}
+  - {type: punctuation, offset: 627, content: ，, id: KR2o0001_tls_019-bkkpn140}
+  - {type: punctuation, offset: 634, content: ，, id: KR2o0001_tls_019-bkkpn141}
+  - {type: punctuation, offset: 639, content: ，, id: KR2o0001_tls_019-bkkpn142}
+  - {type: punctuation, offset: 644, content: ，, id: KR2o0001_tls_019-bkkpn143}
+  - {type: punctuation, offset: 649, content: ，, id: KR2o0001_tls_019-bkkpn144}
+  - {type: substitution, offset: 649, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 656, content: ，, id: KR2o0001_tls_019-bkkpn145}
+  - {type: punctuation, offset: 664, content: 。, id: KR2o0001_tls_019-bkkpn146}
+  - {type: punctuation, offset: 669, content: ，, id: KR2o0001_tls_019-bkkpn147}
+  - {type: punctuation, offset: 673, content: ，, id: KR2o0001_tls_019-bkkpn148}
+  - {type: punctuation, offset: 678, content: ，, id: KR2o0001_tls_019-bkkpn149}
+  - {type: punctuation, offset: 683, content: 。, id: KR2o0001_tls_019-bkkpn150}
+  - {type: punctuation, offset: 683, content: 。, id: KR2o0001_tls_019-bkkpn151}
+  - {type: 'tls:seg', offset: 683, content: '', id: KR2o0001_tls_019-4a.19}
+  - {type: punctuation, offset: 687, content: ，, id: KR2o0001_tls_019-bkkpn152}
+  - {type: 'tls:seg', offset: 687, content: '', id: KR2o0001_tls_019-4a.20}
+  - {type: punctuation, offset: 692, content: 《, id: KR2o0001_tls_019-bkkpn153}
+  - {type: punctuation, offset: 694, content: ‧, id: KR2o0001_tls_019-bkkpn154}
+  - {type: punctuation, offset: 697, content: 》, id: KR2o0001_tls_019-bkkpn155}
+  - {type: punctuation, offset: 698, content: ︰, id: KR2o0001_tls_019-bkkpn156}
+  - {type: punctuation, offset: 698, content: 「, id: KR2o0001_tls_019-bkkpn157}
+  - {type: punctuation, offset: 704, content: ，, id: KR2o0001_tls_019-bkkpn158}
+  - {type: punctuation, offset: 708, content: 。, id: KR2o0001_tls_019-bkkpn159}
+  - {type: punctuation, offset: 708, content: 」, id: KR2o0001_tls_019-bkkpn160}
+  - {type: punctuation, offset: 713, content: ，, id: KR2o0001_tls_019-bkkpn161}
+  - {type: punctuation, offset: 720, content: 。, id: KR2o0001_tls_019-bkkpn162}
+  - {type: punctuation, offset: 720, content: 《, id: KR2o0001_tls_019-bkkpn163}
+  - {type: punctuation, offset: 722, content: ‧, id: KR2o0001_tls_019-bkkpn164}
+  - {type: punctuation, offset: 725, content: 》, id: KR2o0001_tls_019-bkkpn165}
+  - {type: punctuation, offset: 725, content: ︰, id: KR2o0001_tls_019-bkkpn166}
+  - {type: punctuation, offset: 730, content: ，, id: KR2o0001_tls_019-bkkpn167}
+  - {type: punctuation, offset: 736, content: ，, id: KR2o0001_tls_019-bkkpn168}
+  - {type: variant, offset: 739, length: 19, content: 也此乃尋流俗之常談忘著書之舊體矣又近世, SBCK: 􅀪多徒}
+  - {type: variant, offset: 739, length: 19, content: 也此乃尋流俗之常談忘著書之舊體矣又近世, WYG: 𢎞多徒}
+  - {type: variant, offset: 739, length: 19, content: 也此乃尋流俗之常談忘著書之舊體矣又近世, krp: 弘多徒}
+  - {type: punctuation, offset: 740, content: 。, id: KR2o0001_tls_019-bkkpn169}
+  - {type: punctuation, offset: 740, content: 。, id: KR2o0001_tls_019-bkkpn170}
+  - {type: 'tls:seg', offset: 740, content: '', id: KR2o0001_tls_019-4a.21}
+  - {type: punctuation, offset: 748, content: ，, id: KR2o0001_tls_019-bkkpn171}
+  - {type: 'tls:seg', offset: 748, content: '', id: KR2o0001_tls_019-4a.22}
+  - {type: punctuation, offset: 755, content: 。, id: KR2o0001_tls_019-bkkpn172}
+  - {type: xml-element, offset: 755, content: '', id: KR2o0001_tls_019-bkkxmlele8}
+  - {type: xml-element, offset: 755, content: '', id: KR2o0001_tls_019-bkkxmlele9}
+  - {type: 'tls:seg', offset: 755, content: '', id: KR2o0001_tls_019-5a.1}
+  - {type: variant, offset: 759, length: 45, content: 班秩不著者始以州壤自標若楚國龔遂漁陽趙壹是也至於名位既隆則不從此列若蕭何鄧禹賈誼董仲舒是也, SBCK: 解釋無足}
+  - {type: variant, offset: 759, length: 45, content: 班秩不著者始以州壤自標若楚國龔遂漁陽趙壹是也至於名位既隆則不從此列若蕭何鄧禹賈誼董仲舒是也, WYG: 解釋無足}
+  - {type: variant, offset: 759, length: 45, content: 班秩不著者始以州壤自標若楚國龔遂漁陽趙壹是也至於名位既隆則不從此列若蕭何鄧禹賈誼董仲舒是也, krp: 解釋無足}
+  - {type: punctuation, offset: 764, content: ，, id: KR2o0001_tls_019-bkkpn173}
+  - {type: 'tls:seg', offset: 764, content: '', id: KR2o0001_tls_019-5a.2}
+  - {type: punctuation, offset: 770, content: ，, id: KR2o0001_tls_019-bkkpn174}
+  - {type: 'tls:seg', offset: 770, content: '', id: KR2o0001_tls_019-5a.3}
+  - {type: punctuation, offset: 775, content: 、, id: KR2o0001_tls_019-bkkpn175}
+  - {type: substitution, offset: 778, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3874}}
+  - {type: punctuation, offset: 781, content: 。, id: KR2o0001_tls_019-bkkpn176}
+  - {type: 'tls:seg', offset: 781, content: '', id: KR2o0001_tls_019-5a.4}
+  - {type: punctuation, offset: 787, content: ，, id: KR2o0001_tls_019-bkkpn177}
+  - {type: 'tls:seg', offset: 787, content: '', id: KR2o0001_tls_019-5a.5}
+  - {type: punctuation, offset: 792, content: ，, id: KR2o0001_tls_019-bkkpn178}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR2o0001_tls_019-5a.6}
+  - {type: punctuation, offset: 795, content: 、, id: KR2o0001_tls_019-bkkpn179}
+  - {type: punctuation, offset: 797, content: 、, id: KR2o0001_tls_019-bkkpn180}
+  - {type: punctuation, offset: 799, content: 、, id: KR2o0001_tls_019-bkkpn181}
+  - {type: punctuation, offset: 804, content: 。, id: KR2o0001_tls_019-bkkpn182}
+  - {type: 'tls:seg', offset: 804, content: '', id: KR2o0001_tls_019-5a.7}
+  - {type: punctuation, offset: 805, content: 《, id: KR2o0001_tls_019-bkkpn183}
+  - {type: variant, offset: 805, length: 115, content: 周隋二史每述王庾諸事高楊數公必云瑯琊王褒新野庾信弘農楊素渤海高熲以此成言豈曰省文從而可知也凡此諸失皆由積習相傳寖以成俗迷而不返蓋語曰難與慮始可與樂成夫以千載遵行持爲故事而一朝糾正必驚愚俗此莊生所謂安得忘言之人而與之言斯言已得之矣庶, SBCK: 採}
+  - {type: variant, offset: 805, length: 115, content: 周隋二史每述王庾諸事高楊數公必云瑯琊王褒新野庾信弘農楊素渤海高熲以此成言豈曰省文從而可知也凡此諸失皆由積習相傳寖以成俗迷而不返蓋語曰難與慮始可與樂成夫以千載遵行持爲故事而一朝糾正必驚愚俗此莊生所謂安得忘言之人而與之言斯言已得之矣庶, WYG: 採}
+  - {type: variant, offset: 805, length: 115, content: 周隋二史每述王庾諸事高楊數公必云瑯琊王褒新野庾信弘農楊素渤海高熲以此成言豈曰省文從而可知也凡此諸失皆由積習相傳寖以成俗迷而不返蓋語曰難與慮始可與樂成夫以千載遵行持爲故事而一朝糾正必驚愚俗此莊生所謂安得忘言之人而與之言斯言已得之矣庶, krp: 採}
+  - {type: punctuation, offset: 806, content: 》, id: KR2o0001_tls_019-bkkpn184}
+  - {type: punctuation, offset: 806, content: 、, id: KR2o0001_tls_019-bkkpn185}
+  - {type: punctuation, offset: 806, content: 《, id: KR2o0001_tls_019-bkkpn186}
+  - {type: punctuation, offset: 807, content: 》, id: KR2o0001_tls_019-bkkpn187}
+  - {type: punctuation, offset: 809, content: ，, id: KR2o0001_tls_019-bkkpn188}
+  - {type: 'tls:seg', offset: 809, content: '', id: KR2o0001_tls_019-5a.8}
+  - {type: punctuation, offset: 812, content: 、, id: KR2o0001_tls_019-bkkpn189}
+  - {type: punctuation, offset: 815, content: ，, id: KR2o0001_tls_019-bkkpn190}
+  - {type: 'tls:seg', offset: 815, content: '', id: KR2o0001_tls_019-5a.9}
+  - {type: punctuation, offset: 816, content: 、, id: KR2o0001_tls_019-bkkpn191}
+  - {type: punctuation, offset: 819, content: ，, id: KR2o0001_tls_019-bkkpn192}
+  - {type: 'tls:seg', offset: 819, content: '', id: KR2o0001_tls_019-5a.10}
+  - {type: substitution, offset: 821, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1048}}
+  - {type: punctuation, offset: 825, content: ，, id: KR2o0001_tls_019-bkkpn193}
+  - {type: 'tls:seg', offset: 825, content: '', id: KR2o0001_tls_019-5a.11}
+  - {type: punctuation, offset: 829, content: ，, id: KR2o0001_tls_019-bkkpn194}
+  - {type: 'tls:seg', offset: 829, content: '', id: KR2o0001_tls_019-5a.12}
+  - {type: punctuation, offset: 833, content: ，, id: KR2o0001_tls_019-bkkpn195}
+  - {type: 'tls:seg', offset: 833, content: '', id: KR2o0001_tls_019-5a.13}
+  - {type: punctuation, offset: 837, content: ，, id: KR2o0001_tls_019-bkkpn196}
+  - {type: 'tls:seg', offset: 837, content: '', id: KR2o0001_tls_019-5a.14}
+  - {type: punctuation, offset: 841, content: ，, id: KR2o0001_tls_019-bkkpn197}
+  - {type: 'tls:seg', offset: 841, content: '', id: KR2o0001_tls_019-5a.15}
+  - {type: punctuation, offset: 845, content: ，, id: KR2o0001_tls_019-bkkpn198}
+  - {type: 'tls:seg', offset: 845, content: '', id: KR2o0001_tls_019-5a.16}
+  - {type: punctuation, offset: 850, content: 。, id: KR2o0001_tls_019-bkkpn199}
+  - {type: xml-element, offset: 850, content: '', id: KR2o0001_tls_019-bkkxmlele10}
+  - {type: xml-element, offset: 850, content: '', id: KR2o0001_tls_019-bkkxmlele11}
+  - {type: 'tls:seg', offset: 850, content: '', id: KR2o0001_tls_019-6a.1}
+  - {type: punctuation, offset: 854, content: ，, id: KR2o0001_tls_019-bkkpn200}
+  - {type: 'tls:seg', offset: 854, content: '', id: KR2o0001_tls_019-6a.2}
+  - {type: punctuation, offset: 860, content: ，, id: KR2o0001_tls_019-bkkpn201}
+  - {type: 'tls:seg', offset: 860, content: '', id: KR2o0001_tls_019-6a.3}
+  - {type: punctuation, offset: 864, content: ，, id: KR2o0001_tls_019-bkkpn202}
+  - {type: 'tls:seg', offset: 864, content: '', id: KR2o0001_tls_019-6a.4}
+  - {type: punctuation, offset: 868, content: 。, id: KR2o0001_tls_019-bkkpn203}
+  - {type: 'tls:seg', offset: 868, content: '', id: KR2o0001_tls_019-6a.5}
+  - {type: punctuation, offset: 871, content: ：, id: KR2o0001_tls_019-bkkpn204}
+  - {type: 'tls:seg', offset: 871, content: '', id: KR2o0001_tls_019-6a.6}
+  - {type: punctuation, offset: 871, content: 「, id: KR2o0001_tls_019-bkkpn205}
+  - {type: punctuation, offset: 875, content: ，, id: KR2o0001_tls_019-bkkpn206}
+  - {type: 'tls:seg', offset: 875, content: '', id: KR2o0001_tls_019-6a.7}
+  - {type: punctuation, offset: 879, content: 。, id: KR2o0001_tls_019-bkkpn207}
+  - {type: punctuation, offset: 879, content: 」, id: KR2o0001_tls_019-bkkpn208}
+  - {type: 'tls:seg', offset: 879, content: '', id: KR2o0001_tls_019-6a.8}
+  - {type: punctuation, offset: 885, content: ，, id: KR2o0001_tls_019-bkkpn209}
+  - {type: 'tls:seg', offset: 885, content: '', id: KR2o0001_tls_019-6a.9}
+  - {type: substitution, offset: 886, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 889, content: ，, id: KR2o0001_tls_019-bkkpn210}
+  - {type: 'tls:seg', offset: 889, content: '', id: KR2o0001_tls_019-6a.10}
+  - {type: punctuation, offset: 894, content: ，, id: KR2o0001_tls_019-bkkpn211}
+  - {type: 'tls:seg', offset: 894, content: '', id: KR2o0001_tls_019-6a.11}
+  - {type: punctuation, offset: 898, content: 。, id: KR2o0001_tls_019-bkkpn212}
+  - {type: 'tls:seg', offset: 898, content: '', id: KR2o0001_tls_019-6a.12}
+  - {type: punctuation, offset: 903, content: 「, id: KR2o0001_tls_019-bkkpn213}
+  - {type: punctuation, offset: 913, content: 」, id: KR2o0001_tls_019-bkkpn214}
+  - {type: punctuation, offset: 913, content: ，, id: KR2o0001_tls_019-bkkpn215}
+  - {type: 'tls:seg', offset: 913, content: '', id: KR2o0001_tls_019-6a.13}
+  - {type: punctuation, offset: 919, content: 。, id: KR2o0001_tls_019-bkkpn216}
+  - {type: 'tls:seg', offset: 919, content: '', id: KR2o0001_tls_019-6a.14}
+  - {type: page-break, offset: 920, content: '', id: KR2o0001_WYG_019-13a, image: WYG0685/WYG0685-0143c.png}
+  - {type: punctuation, offset: 924, content: ，, id: KR2o0001_tls_019-bkkpn217}
+  - {type: 'tls:seg', offset: 924, content: '', id: KR2o0001_tls_019-6a.15}
+  - {type: variant, offset: 924, length: 0, content: '', SBCK: 幸為}
+  - {type: variant, offset: 924, length: 0, content: '', WYG: 幸為}
+  - {type: variant, offset: 924, length: 0, content: '', krp: 幸為}
+  - {type: variant, offset: 925, length: 0, content: '', SBCK: 焉五行志雜駁第十一總十五條春秋時事違誤最多魯文公二年不雨班氏以為自文即位天子使叔服㑹葬毛伯賜命又㑹晉侯于戚上得天子外得諸侯沛然自大故致亢陽之禍按周之東遷日以微弱故鄭取温陵射王中肩楚絶苞茅觀兵問鼎事同列國變雅為風如魯者方大邦不足比小國有餘安有暫降衰周使臣遽以驕矜自恃坐招厥罰亢陽求諸人事理必不然天髙聽卑豈}
+  - {type: page-break, offset: 925, content: '', id: KR2o0001_SBCK_019-13b}
+  - {type: variant, offset: 925, length: 0, content: '', WYG: 焉漢書五行志雜駁第十一春秋時事違誤最多總十五條魯文公二年不雨班氏以為自文即位天子使叔服㑹葬毛伯錫命又㑹晉侯于戚上得天子外得諸侯沛然自大故致亢陽之禍按周之東遷日以微弱故鄭取温麥射王中肩楚絶苞茅觀兵問鼎事同列國變雅為風如魯者方大邦不足比小國有餘安有暫降衰周使臣遽以驕矜自恃坐招厥罰亢陽為怪求諸人事理必不然天髙聽卑豈}
+  - {type: page-break, offset: 925, content: '', id: KR2o0001_WYG_019-13b, image: WYG0685/WYG0685-0143d.png}
+  - {type: variant, offset: 925, length: 0, content: '', krp: 焉五行志雜駁第十一總十五條春秋時事違誤最多魯文公二年不雨班氏以為自文即位天子使叔服㑹葬毛伯賜命又㑹晉侯于戚上得天子外得諸侯沛然自大故致亢陽之禍按周之東遷日以微弱故鄭取温陵射王中肩楚絶苞茅觀兵問鼎事同列國變雅為風如魯者方大邦不足比小國有餘安有暫降衰周使臣遽以驕矜自恃坐招厥罰亢陽求諸人事理必不然天髙聽卑豈}
+  - {type: variant, offset: 926, length: 0, content: '', SBCK: 若是也春秋成公元年無冰班氏以為其時王子札殺召伯毛伯按今春秋經子札殺毛召事在宣十五年而此言成公時未達其說下云無冰凡有三載春秋昭公九年陳火董仲舒以為陳夏徵舒殺君楚嚴王書不改其字下同嚴即莊也皆依本託欲為陳討賊陳國闢門而待之因滅陳陳之臣子毒恨尤甚極陰生陽故致火灾按楚嚴王之入陳乃宣十一年事也始有蹊田之謗取譏隗叔終有封國之恩見賢尼父毒恨尤甚其理未聞按陳前後爲楚所滅者三始宣十一年爲楚嚴王所滅次昭八年爲楚靈王所滅後哀十七年爲楚惠王所滅今董生誤以陳亡之役是楚始滅之時遂妄有占候虚辨物色尋昭之上去於宣魯易四公嚴之下至於靈楚經五代雖懸隔頓别而混雜無分嗟乎下帷三年誠則勤矣差之千里何其闊哉春秋桓公三年日有蝕之既京房易傳以為後楚嚴始稱王兼地千里按楚自武王僭號鄧盟是懼荆尸又歴文成繆三王方至於嚴是則楚之為王已四世矣何}
+  - {type: page-break, offset: 926, content: '', id: KR2o0001_SBCK_019-14a}
+  - {type: page-break, offset: 926, content: '', id: KR2o0001_SBCK_019-14b}
+  - {type: variant, offset: 926, length: 0, content: '', WYG: 若是也其一條春秋成公元年無冰班氏以為其時王札子殺召伯毛伯按今春秋經札子殺毛召事在宣十五年而此言成公時未達其說下去無冰凡有三載春秋昭公九年陳火董仲舒以為陳夏徵舒殺君楚嚴王嚴即莊也皆依本書不改其事下同託欲為陳討賊陳國闢門而待之因滅陳陳之臣子毒恨尤甚極陰生陽故致火災按楚嚴王之入陳乃宣十一年事也始有蹊田之謗取愧叔時愧一作譏終有封國之恩見賢尼父毒恨尤甚其理未聞按陳前後為楚所滅者三始宣十一年為楚嚴王所滅次昭八年為楚靈王所滅後哀十七年為楚惠王所滅今董生誤以陳次亡之役是楚始滅之時遂妄有占候虚辨物色尋昭之上去於宣魯易四主嚴之下至於靈楚經五代雖懸隔頓别而混雜無分嗟乎下帷三年誠則勤矣差之千里何其闊哉其二條春秋桓公三年日有食之既京房易傳以為後楚莊始稱王兼地千里按楚自武王僭號鄧盟是懼荆戸又歴文成繆三王方至於莊是則楚之為王已四世矣何}
+  - {type: page-break, offset: 926, content: '', id: KR2o0001_WYG_019-14a, image: WYG0685/WYG0685-0144a.png}
+  - {type: page-break, offset: 926, content: '', id: KR2o0001_WYG_019-14b, image: WYG0685/WYG0685-0144b.png}
+  - {type: variant, offset: 926, length: 0, content: '', krp: 若是也春秋成公元年無冰班氏以為其時王子札殺召伯毛伯按今春秋經子札殺毛召事在宣十五年而此言成公時未達其說下云無冰凡有三載春秋昭公九年陳火董仲舒以為陳夏徵舒殺君楚嚴王書不改其字下同嚴即莊也皆依本託欲為陳討賊陳國闢門而待之因滅陳陳之臣子毒恨尤甚極陰生陽故致火灾按楚嚴王之入陳乃宣十一年事也始有蹊田之謗取譏隗叔終有封國之恩見賢尼父毒恨尤甚其理未聞按陳前後爲楚所滅者三始宣十一年爲楚嚴王所滅次昭八年爲楚靈王所滅後哀十七年爲楚惠王所滅今董生誤以陳亡之役是楚始滅之時遂妄有占候虚辨物色尋昭之上去於宣魯易四公嚴之下至於靈楚經五代雖懸隔頓别而混雜無分嗟乎下帷三年誠則勤矣差之千里何其闊哉春秋桓公三年日有蝕之既京房易傳以為後楚嚴始稱王兼地千里按楚自武王僭號鄧盟是懼荆尸又歴文成繆三王方至於嚴是則楚之為王已四世矣何}
+  - {type: variant, offset: 927, length: 0, content: '', SBCK: 言嚴始稱之者哉又魯桓公薨後歴嚴閔釐文宣不改其字已下同釐即僖皆依本書凡五公而楚嚴始作霸安有桓三年日蝕而已應之者邪非唯叙事有違亦占候}
+  - {type: variant, offset: 927, length: 0, content: '', WYG: 言莊始稱之者哉又魯桓公薨後歴莊閔釐文宣釐即僖依本書不改其字下同凡五公而楚莊始作霸安有桓三年日食而已應之者邪非唯叙事有違亦自占候}
+  - {type: variant, offset: 927, length: 0, content: '', krp: 言嚴始稱之者哉又魯桓公薨後歴嚴閔釐文宣不改其字已下同釐即僖皆依本書凡五公而楚嚴始作霸安有桓三年日蝕而已應之者邪非唯叙事有違亦占候}
+  - {type: variant, offset: 928, length: 0, content: '', SBCK: 中者矣春秋釐公二十九年秋大雨雹劉向以為釐公末年公子遂専權自恣至於弑君陰脅陽之象見釐公不悟遂後二年殺公子赤立宣公按遂之立宣殺子赤也此乃文公末代輒謂僖公暮年是世懸殊言何倒錯春秋釐公十二年日有蝕之劉向以為是時莒滅杞􅁵十四年諸侯城縁陵公羊傳曰曷為城杞滅之孰滅之盖徐莒也如中壘所釋當以公羊為本爾然則公羊所說不如左氏之詳左氏襄公二十九年􅀳平公時杞尚在云云春秋文公元年日有蝕之劉向以為後􅀳滅江按本經書文四年楚人滅江今云􅀳滅其說無取且江居南裔與楚為隣􅀳處北方去江殊逺稱􅀳所滅其理難通左氏傳魯襄公時宋有生女子赤而毛棄之堤下宋平公母共􅁎之御者見而收之因名曰棄長而美好納之平公生子曰佐後宋臣戾讒太子痤而殺之十六年事在襄二先是大夫華元出奔􅀳十五年事在成華合比奔衛六年事在昭劉向以為時則有火災赤眚之明應也按灾祥之作將應後來事跡之彰用符前兆如華元奔晉在成十五年㕘諸棄堤實難符㑹又合比奔衛在昭六年而與華元奔晉俱云先是惟前與後事並相違}
+  - {type: page-break, offset: 928, content: '', id: KR2o0001_SBCK_019-15a}
+  - {type: page-break, offset: 928, content: '', id: KR2o0001_SBCK_019-15b}
+  - {type: page-break, offset: 928, content: '', id: KR2o0001_SBCK_019-16a}
+  - {type: variant, offset: 928, length: 0, content: '', WYG: 中者矣其三條春秋釐公二十九年秋大雨雹劉向以為釐公末年公子遂専權自恣至於弑君陰脅陽之象見釐公不悟遂後二年殺公子赤立宣公按遂之立宣殺子赤也此乃文公末代輒謂僖公暮年世實懸殊言何倒錯其四條春秋釐公十二年日有食之劉向以為是時莒滅杞案十四年諸侯城縁陵公羊傳曰曷為城杞滅之孰滅之葢徐莒也如中壘所釋當以公羊為本爾然則公羊所說不如左氏之詳左氏襄公二十九年晉平公時杞尚存云云其五條春秋文公元年日有食之劉向以為後晉滅江按本經書文四年楚人滅江今云晉滅其說無取且江居南裔與楚為隣晉處北方去江殊逺稱晉所滅其理難通其六條左氏傳魯襄公時宋有生女子赤而毛棄之隄下宋平公母共姬之御者見而收之因名曰棄長而美好納之平公生子曰佐後宋臣伊戾讒太子痤而殺之事在襄二十六年先是大夫華元出奔晉事在成十五年華合比奔衛事在昭六年劉向以為時則有火災赤眚之明應也按災祥之作將應後來事蹟之彰用符前兆如華元奔晉在成十五年㕘諸棄隄實難符㑹又合比奔衛在昭六年而與華元奔晉俱云先是惟前與後事並相違}
+  - {type: page-break, offset: 928, content: '', id: KR2o0001_WYG_019-15a, image: WYG0685/WYG0685-0144c.png}
+  - {type: page-break, offset: 928, content: '', id: KR2o0001_WYG_019-15b, image: WYG0685/WYG0685-0144d.png}
+  - {type: page-break, offset: 928, content: '', id: KR2o0001_WYG_019-16a, image: WYG0685/WYG0685-0145a.png}
+  - {type: variant, offset: 928, length: 0, content: '', krp: 中者矣春秋釐公二十九年秋大雨雹劉向以為釐公末年公子遂専權自恣至於弑君陰脅陽之象見釐公不悟遂後二年殺公子赤立宣公按遂之立宣殺子赤也此乃文公末代輒謂僖公暮年是世懸殊言何倒錯春秋釐公十二年日有蝕之劉向以為是時莒滅杞釐十四年諸侯城縁陵公羊傳曰曷為城杞滅之孰滅之盖徐莒也如中壘所釋當以公羊為本爾然則公羊所說不如左氏之詳左氏襄公二十九年晉平公時杞尚在云云春秋文公元年日有蝕之劉向以為後晉滅江按本經書文四年楚人滅江今云晉滅其說無取且江居南裔與楚為隣晉處北方去江殊逺稱晉所滅其理難通左氏傳魯襄公時宋有生女子赤而毛棄之堤下宋平公母共姬之御者見而收之因名曰棄長而美好納之平公生子曰佐後宋臣戾讒太子痤而殺之十六年事在襄二先是大夫華元出奔晉十五年事在成華合比奔衛六年事在昭劉向以為時則有火災赤眚之明應也按灾祥之作將應後來事跡之彰用符前兆如華元奔晉在成十五年㕘諸棄堤實難符㑹又合比奔衛在昭六年而與華元奔晉俱云先是惟前與後事並相違}
+  - {type: punctuation, offset: 930, content: 。, id: KR2o0001_tls_019-bkkpn218}
+  - {type: xml-element, offset: 930, content: '', id: KR2o0001_tls_019-bkkxmlele12}
+  - {type: xml-element, offset: 930, content: '', id: KR2o0001_tls_019-bkkxmlele13}
+  - {type: 'tls:seg', offset: 930, content: '', id: KR2o0001_tls_019-7a.1}
+  - {type: indent, offset: 930, content: 　, id: KR2o0001_tls_019-bkkind1}
+  - {type: variant, offset: 930, length: 0, content: '', SBCK: 春秋成公五年梁山崩七年鼷鼠食郊牛角襄公十五年日有蝕之董仲舒劉向皆以為自此後晉為雞澤之㑹諸侯盟大夫又盟後為溴梁之㑹諸侯不在而大夫獨相與盟君若綴旒不得舉手又襄公十六年五月地震劉向以為是嵗三月大夫盟於溴梁而五月地震矣又其二十八年春無冰班固以為天下異也襄公時天下諸侯之大夫皆執國權君不能制漸將日甚侯失政大夫盟政在大夫大夫之不臣也榖梁云諸侯始失政大夫執國權又曰諸按春秋諸國權臣可得言者如三相六卿田氏而已如雞澤之㑹溴梁之盟其臣豈有若向之所說者邪然而榖梁謂大夫不臣諸侯失政譏其無禮自擅在兹一舉而已非是如政由甯氏祭則寡人相承世官遂移國柄若斯之失也若董劉之徒不窺左氏直憑二傳遂廣為它說多肆侈言仍云君若綴旒臣將日甚何其妄也春秋昭十七年六月日有蝕之董仲舒以為時宿在畢晉國象也晉厲公誅四大夫失衆心以弑死後莫敢復責其大夫六卿遂相與比周専晉國晉君還事之按晉厲公所尸唯三郤耳何得云誅四大夫者哉又州滿既死本皆作州蒲今春秋左氏見王邵續書志誤也當為州滿事悼公嗣立選六官者皆獲其事逐七人者盡當其罪以辱及揚于將誅魏絳覽書後悟引愆授職此則生煞在已寵辱自由故能申五利以和戎馳三駕以挫楚威行夷夏覇復文襄而云不復責大夫何厚誣之甚也自昭公已降晉政多門如以君事臣居下僭上者此乃因昭之失漸至陵夷匪由懲厲之弑自取淪辱也豈可輒持彼後事用誣先代者乎哀公十三年十一月有星孛東方董仲舒劉向以為周之十一月夏九月日在氐出東方者軫角亢也或曰角亢大國之象為齊晉也其後田氏簒齊六卿分晉按星孛之後二年春秋之經盡矣又十一年左氏之傳盡矣自傳盡後八十二年齊康公為田和所滅又七年晉靜公為韓魏趙所滅上去星孛之嵗皆出百餘年辰象所纒氛祲所指若相感應何太疎闊者哉且當春秋既終之後左傳未盡之前其間衛弑君越滅吳魯遜越云云賊臣逆子破家亡國多矣此正得東方之象大國之徵何故捨而不述逺求他代者乎又范與中行早從殄滅智入戰國繼踵云亡輒與三晉連名總以六卿為目殊為謬也尋斯失所起可以意測何者二傳所引事終西狩獲麟左氏所書語連趙襄滅智漢代學者唯讀二傳不觀左氏故事有不周言多脫略且春秋之後戰國之時史官闕書年祀難記而學者遂疑簒齊分晉時與魯史相鄰故輕引災祥用相符㑹白珪之玷何其甚歟春秋釐公三十三年十二月隕霜不殺草成公五年梁山崩七年鼷鼠食郊牛角劉向以其後三家逐魯昭公卒死於外之象按乾侯之出事由季氏孟叔二孫本所不預況昭子以納君不遂發憤而卒論其義烈道貫幽明定為忠臣猶且無愧編諸逆黨何乃厚誣夫以罪申一家而兼云二族以此題目何其濫歟左氏傳昭公十九年龍鬭於鄭時門之外洧淵劉向以為近龍孽也鄭小國攝乎晉楚之間重以强吳鄭當其衝不能修徳將鬭三國以自危亡是時子産任政内惠於民外善辭令以交三國鄭卒亡患此能以徳銷灾之道也按昭之十九年晉楚連盟干戈不作吳雖强暴未擾諸華鄭無外虞非子産之力也又吳為逺國僻在江干必畧中原當以楚宋為始鄭居河潁地匪夷庚謂當要衝殊為乖角求諸地理不其爽歟春秋昭公十五年六月日有蝕之董仲舒以為時宿在畢晉國象也云云日比再蝕其事在春秋後故不載於經按自昭十四年迄于獲麟之嵗其間日蝕復有七焉事列本經披文立驗安得云再蝕而已又在春秋之後也且觀班志編此七蝕其六皆載董生所占復不得言董以事後春秋故不存編録再思其語三覆所由斯盖孟堅之誤非仲舒之罪也春秋昭公九年陳火劉向以為先是陳侯之弟招殺陳太子偃師楚因滅陳春秋不與蠻夷滅中國故復書陳火也按楚縣中國以為邑者多矣如邑有宜見於經者豈可不以楚為名者哉盖當斯時陳雖暫亡尋復舊國故仍取陳號不假楚名獨不見鄭禆竈之說斯灾也曰五年陳將復封封五十二年而遂亡自斯而後若顓頊之墟宛丘之地如有應書於國史豈可復謂之陳乎史通}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-16b}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-17a}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-17b}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-18a}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-18b}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-19a}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-19b}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-20a}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_SBCK_019-20b}
+  - {type: variant, offset: 930, length: 0, content: '', WYG: 其七條春秋成公五年梁山崩七年鼷鼠食郊牛角襄公十五年日有食之董仲舒劉向皆以為自此後晉為雞澤之㑹諸侯盟大夫又盟後為溴梁之㑹諸侯在而大夫獨相與盟君若綴旒不得舉手又襄公十六年五月地震劉向以為是嵗三月大夫盟於溴梁而五月地震矣又其二十八年春無冰班固以為天下異也襄公時天下諸侯之大夫皆執國權君不能制漸將日甚榖梁云諸侯始失政大夫執國權又曰諸侯失政大夫盟政在大夫大夫之不臣也按春秋諸國權臣可得言者如三桓六卿田氏而已如雞澤之㑹溴梁之盟其臣豈有若向之所說者邪然而榖梁為大夫不臣諸侯失政譏其無禮自擅在兹一舉而已非是如政由甯氏祭則寡人相承世官遂移國柄若斯之失也董劉之徒不窺左氏直憑二傳遂廣為他說多肆侈言仍云君若綴旒臣將日甚何其妄也其八條春秋昭十七年六月日有食之董仲舒以為時宿在畢晉國象也晉厲公誅四大夫失衆心以弑死後莫敢復責其大夫六卿遂相與比周専晉國晉君還事之按晉厲公所屍唯三郤耳何得云誅四大夫者哉其九條又州滿既死今春秋左氏本皆作州蒲誤也當為州滿事具王邵續書志悼公嗣立選六官者皆獲其才逐七人者盡當其罪以辱及揚干將誅魏絳覽書後悟引愆授職此則生殺在已寵辱自由故能申五利以和戎馳三駕以挫楚威行夷夏霸復文襄而云不復責大夫何厚誣之甚也自昭公已降晉政多門如以君事臣居下僭上者此乃因昭之失漸至陵夷匪由懲厲之弑自取淪辱也豈可輒持彼後事用誣先代者乎其十條哀公十三年十一月有星孛于東方董仲舒劉向以為周之十一月夏九月日在氐出東方者軫角亢也或曰角亢大國之象為齊晉也其後田氏簒齊六卿分晉按星孛之後一年春秋之經盡矣又十一年左氏之傳盡矣自傳盡後二十八年齊康公為田和所滅又七年晉靜公為韓魏趙所滅上去星孛之嵗皆出百餘年辰象所纒氛祲所指其相感應何太疎闊者哉且當春秋既終之後左傳未盡之前其間衛弑君越滅吳魯遜越云云賊臣逆子破家亡國多矣此正得東方之象大國之徵何故捨而不述逺求他代者乎又范與中行早從殄滅智入戰國繼踵云亡輒與三晉連名勑以六卿為目殊為謬也尋斯失所起可以意測何者二傳所引事終西狩獲麟左氏所書語連趙襄滅智漢代學者唯讀二傳不觀左氏故事有不周言多脫略且春秋之後戰國之時史官闕書年祀難記而學者遂疑簒齊分晉時與魯史相鄰故輕引災祥用相符㑹白珪之玷何其甚歟其十一條春秋釐公三十三年十二月隕霜不殺草成公五年梁山崩七年鼷鼠食郊牛角劉向以其後三家逐魯昭公卒死於外之象按乾侯之出事由季氏孟叔二孫本所不預況昭子以納君不遂發憤而卒論其義烈道貫幽明定為忠臣猶且無愧編諸逆黨何乃厚誣夫以罪由一家而兼云二族以此題目何其濫歟其十二條左氏傳昭公十九年龍鬭於鄭時門之外洧淵劉向以為近龍孽也鄭小國攝乎晉楚之間重以强吳鄭當其衝不能修徳將鬭三國以自危亡是時子産任政内惠於民外善辭令以交三國鄭卒無患此能以徳銷災之道也按昭之十九年晉楚連盟干戈不作吳雖强暴未擾諸華鄭無外虞非子産之力也又吳為逺國僻在江干必略中原當以楚宋為始鄭居河潁地匪夷唐謂當要衝殊為乖角求諸地理不其爽歟其十三條春秋昭公十五年六月日有食之董仲舒以為時宿在畢晉國象也云云日比再食其事在春秋後故不載於經按自昭十四年迄于獲麟之嵗其間日食復有七焉事列本經披文立驗安得云再食而已又在春秋之後也且觀班志編此七食其六皆載董生所占復不得言董以事後春秋故不存編録再思其語三覆所由斯葢孟堅之誤非仲舒之罪也其十四條春秋昭公九年陳火劉向以為先是陳侯之弟招殺陳太子偃師楚因滅陳春秋不與蠻夷滅中國故復書陳火也按楚縣中國以為邑者多矣如邑有宜見於經者豈可不以楚為名者哉葢當斯時陳雖暫亡尋復舊國故仍取陳號不假楚名獨不見鄭禆竈之說斯災也曰五年陳將復封封五十二年而遂亡此其效也自斯而後若顓頊之墟宛丘之地如有應書於國史豈可復謂之陳乎其十五條史通}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-16b, image: WYG0685/WYG0685-0145b.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-17a, image: WYG0685/WYG0685-0145c.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-17b, image: WYG0685/WYG0685-0145d.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-18a, image: WYG0685/WYG0685-0146a.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-18b, image: WYG0685/WYG0685-0146b.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-19a, image: WYG0685/WYG0685-0146c.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-19b, image: WYG0685/WYG0685-0146d.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-20a, image: WYG0685/WYG0685-0147a.png}
+  - {type: page-break, offset: 930, content: '', id: KR2o0001_WYG_019-20b, image: WYG0685/WYG0685-0147b.png}
+  - {type: variant, offset: 930, length: 0, content: '', krp: 春秋成公五年梁山崩七年鼷鼠食郊牛角襄公十五年日有蝕之董仲舒劉向皆以為自此後晉為雞澤之㑹諸侯盟大夫又盟後為溴梁之㑹諸侯不在而大夫獨相與盟君若綴旒不得舉手又襄公十六年五月地震劉向以為是嵗三月大夫盟於溴梁而五月地震矣又其二十八年春無冰班固以為天下異也襄公時天下諸侯之大夫皆執國權君不能制漸將日甚侯失政大夫盟政在大夫大夫之不臣也榖梁云諸侯始失政大夫執國權又曰諸按春秋諸國權臣可得言者如三相六卿田氏而已如雞澤之㑹溴梁之盟其臣豈有若向之所說者邪然而榖梁謂大夫不臣諸侯失政譏其無禮自擅在兹一舉而已非是如政由甯氏祭則寡人相承世官遂移國柄若斯之失也若董劉之徒不窺左氏直憑二傳遂廣為它說多肆侈言仍云君若綴旒臣將日甚何其妄也春秋昭十七年六月日有蝕之董仲舒以為時宿在畢晉國象也晉厲公誅四大夫失衆心以弑死後莫敢復責其大夫六卿遂相與比周専晉國晉君還事之按晉厲公所尸唯三郤耳何得云誅四大夫者哉又州滿既死本皆作州蒲今春秋左氏見王邵續書志誤也當為州滿事悼公嗣立選六官者皆獲其事逐七人者盡當其罪以辱及揚于將誅魏絳覽書後悟引愆授職此則生煞在已寵辱自由故能申五利以和戎馳三駕以挫楚威行夷夏覇復文襄而云不復責大夫何厚誣之甚也自昭公已降晉政多門如以君事臣居下僭上者此乃因昭之失漸至陵夷匪由懲厲之弑自取淪辱也豈可輒持彼後事用誣先代者乎哀公十三年十一月有星孛東方董仲舒劉向以為周之十一月夏九月日在氐出東方者軫角亢也或曰角亢大國之象為齊晉也其後田氏簒齊六卿分晉按星孛之後二年春秋之經盡矣又十一年左氏之傳盡矣自傳盡後八十二年齊康公為田和所滅又七年晉靜公為韓魏趙所滅上去星孛之嵗皆出百餘年辰象所纒氛祲所指若相感應何太疎闊者哉且當春秋既終之後左傳未盡之前其間衛弑君越滅吳魯遜越云云賊臣逆子破家亡國多矣此正得東方之象大國之徵何故捨而不述逺求他代者乎又范與中行早從殄滅智入戰國繼踵云亡輒與三晉連名總以六卿為目殊為謬也尋斯失所起可以意測何者二傳所引事終西狩獲麟左氏所書語連趙襄滅智漢代學者唯讀二傳不觀左氏故事有不周言多脫略且春秋之後戰國之時史官闕書年祀難記而學者遂疑簒齊分晉時與魯史相鄰故輕引災祥用相符㑹白珪之玷何其甚歟春秋釐公三十三年十二月隕霜不殺草成公五年梁山崩七年鼷鼠食郊牛角劉向以其後三家逐魯昭公卒死於外之象按乾侯之出事由季氏孟叔二孫本所不預況昭子以納君不遂發憤而卒論其義烈道貫幽明定為忠臣猶且無愧編諸逆黨何乃厚誣夫以罪申一家而兼云二族以此題目何其濫歟左氏傳昭公十九年龍鬭於鄭時門之外洧淵劉向以為近龍孽也鄭小國攝乎晉楚之間重以强吳鄭當其衝不能修徳將鬭三國以自危亡是時子産任政内惠於民外善辭令以交三國鄭卒亡患此能以徳銷灾之道也按昭之十九年晉楚連盟干戈不作吳雖强暴未擾諸華鄭無外虞非子産之力也又吳為逺國僻在江干必畧中原當以楚宋為始鄭居河潁地匪夷庚謂當要衝殊為乖角求諸地理不其爽歟春秋昭公十五年六月日有蝕之董仲舒以為時宿在畢晉國象也云云日比再蝕其事在春秋後故不載於經按自昭十四年迄于獲麟之嵗其間日蝕復有七焉事列本經披文立驗安得云再蝕而已又在春秋之後也且觀班志編此七蝕其六皆載董生所占復不得言董以事後春秋故不存編録再思其語三覆所由斯盖孟堅之誤非仲舒之罪也春秋昭公九年陳火劉向以為先是陳侯之弟招殺陳太子偃師楚因滅陳春秋不與蠻夷滅中國故復書陳火也按楚縣中國以為邑者多矣如邑有宜見於經者豈可不以楚為名者哉盖當斯時陳雖暫亡尋復舊國故仍取陳號不假楚名獨不見鄭禆竈之說斯灾也曰五年陳將復封封五十二年而遂亡自斯而後若顓頊之墟宛丘之地如有應書於國史豈可復謂之陳乎史通}
+  - {type: variant, offset: 931, length: 5, content: 五內篇卷六, SBCK: 之十九終}
+  - {type: variant, offset: 931, length: 2, content: 五內, WYG: 十九欽定四庫全書史通卷二十唐劉知㡬撰外}
+  - {type: page-break, offset: 931, content: '', id: KR2o0001_WYG_020-1a, image: WYG0685/WYG0685-0147c.png}
+  - {type: variant, offset: 931, length: 5, content: 五內篇卷六, krp: 之十九終}
+  - {type: xml-element, offset: 932, content: '', id: KR2o0001_tls_019-bkkxmlele14}
+  - {type: xml-element, offset: 932, content: '', id: KR2o0001_tls_019-bkkxmlele15}
+  - {type: 'tls:seg', offset: 932, content: '', id: KR2o0001_tls_019-8a.1}
+  - {type: indent, offset: 934, content: 　, id: KR2o0001_tls_019-bkkind2}
+  - {type: variant, offset: 934, length: 2, content: 卷六, WYG: 暗惑第十二總}
+  - {type: xml-element, offset: 936, content: '', id: KR2o0001_tls_019-bkkxmlele16}
+  back: []
+hash: sha256:006e65fd0690bb31c40e52a125e83fd91d4642cc22da77effc4b0eb34284eb3e
