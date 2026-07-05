@@ -100,7 +100,6 @@ markers:
   - {type: 'tls:seg', offset: 60, content: '', id: KR2o0001_tls_009-1a.11}
   - {type: punctuation, offset: 65, content: ，, id: KR2o0001_tls_009-bkkpn20}
   - {type: 'tls:seg', offset: 65, content: '', id: KR2o0001_tls_009-1a.12}
-  - {type: substitution, offset: 68, original: 譔, replacement: 撰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1471}}
   - {type: punctuation, offset: 69, content: ，, id: KR2o0001_tls_009-bkkpn21}
   - {type: 'tls:seg', offset: 69, content: '', id: KR2o0001_tls_009-1a.13}
   - {type: punctuation, offset: 73, content: ，, id: KR2o0001_tls_009-bkkpn22}
@@ -136,7 +135,6 @@ markers:
   - {type: variant, offset: 121, length: 2, content: 者所, krp: 史之煩省但當要其事有妄載苦於榛蕪言有闕書傷於簡畧斯則可矣必量世事之厚薄限篇第}
   - {type: variant, offset: 124, length: 16, content: 辯疑惑釋凝滯若愚智共了固無俟商榷, SBCK: 多少理則不然且必謂}
   - {type: variant, offset: 124, length: 16, content: 辯疑惑釋凝滯若愚智共了固無俟商榷, krp: 多少理則不然且必謂}
-  - {type: substitution, offset: 124, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 127, content: ，, id: KR2o0001_tls_009-bkkpn33}
   - {type: 'tls:seg', offset: 127, content: '', id: KR2o0001_tls_009-2a.2}
   - {type: punctuation, offset: 130, content: 。, id: KR2o0001_tls_009-bkkpn34}
@@ -354,7 +352,6 @@ markers:
   - {type: 'tls:seg', offset: 445, content: '', id: KR2o0001_tls_009-3a.40}
   - {type: punctuation, offset: 453, content: ，, id: KR2o0001_tls_009-bkkpn106}
   - {type: 'tls:seg', offset: 453, content: '', id: KR2o0001_tls_009-3a.41}
-  - {type: substitution, offset: 455, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 460, content: ，, id: KR2o0001_tls_009-bkkpn107}
   - {type: 'tls:seg', offset: 460, content: '', id: KR2o0001_tls_009-3a.42}
   - {type: punctuation, offset: 468, content: ，, id: KR2o0001_tls_009-bkkpn108}
@@ -402,7 +399,6 @@ markers:
   - {type: 'tls:seg', offset: 576, content: '', id: KR2o0001_tls_009-4a.19}
   - {type: punctuation, offset: 583, content: ，, id: KR2o0001_tls_009-bkkpn128}
   - {type: 'tls:seg', offset: 583, content: '', id: KR2o0001_tls_009-4a.20}
-  - {type: substitution, offset: 584, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 589, content: ，, id: KR2o0001_tls_009-bkkpn129}
   - {type: 'tls:seg', offset: 589, content: '', id: KR2o0001_tls_009-4a.21}
   - {type: punctuation, offset: 593, content: ，, id: KR2o0001_tls_009-bkkpn130}
@@ -421,7 +417,6 @@ markers:
   - {type: 'tls:seg', offset: 620, content: '', id: KR2o0001_tls_009-4a.28}
   - {type: punctuation, offset: 624, content: ，, id: KR2o0001_tls_009-bkkpn137}
   - {type: 'tls:seg', offset: 624, content: '', id: KR2o0001_tls_009-4a.29}
-  - {type: substitution, offset: 625, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 628, content: 。, id: KR2o0001_tls_009-bkkpn138}
   - {type: xml-element, offset: 628, content: '', id: KR2o0001_tls_009-bkkxmlele8}
   - {type: xml-element, offset: 628, content: '', id: KR2o0001_tls_009-bkkxmlele9}
@@ -435,7 +430,6 @@ markers:
   - {type: variant, offset: 638, length: 280, content: 各敍其意既而班固變爲詩體號之曰述范曄改彼述名呼之以贊尋述贊爲例篇有一章事多者則約之使少理寡者則張之令大名實多爽詳略不同且欲觀人之善惡史之褒貶蓋無假於此也然固之總述合在一篇使其條貫有序歷然可閱蔚宗後書實同班氏乃各附本事書於卷末篇目相離斷絕失次而後生作者不悟其非如蕭李南北齊史大唐新修晉史皆依范書誤本篇終有贊夫每卷立論其煩已多而嗣論以贊爲黷彌甚亦猶文士制碑序終而續以銘曰釋氏演法義盡而宣以偈言茍撰史若斯難以議夫簡要者矣至若與奪乖宜是非失中如班固之深排賈誼范曄之虛美隗囂陳壽謂諸葛不逮管蕭魏收稱爾朱可方伊霍或言傷其實或擬非其倫必備加擊難則五車難盡故略陳梗概一言以蔽之, WYG: ''}
   - {type: punctuation, offset: 642, content: 。, id: KR2o0001_tls_009-bkkpn143}
   - {type: 'tls:seg', offset: 642, content: '', id: KR2o0001_tls_009-5a.4}
-  - {type: substitution, offset: 647, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 650, content: ，, id: KR2o0001_tls_009-bkkpn144}
   - {type: 'tls:seg', offset: 650, content: '', id: KR2o0001_tls_009-5a.5}
   - {type: punctuation, offset: 654, content: 。, id: KR2o0001_tls_009-bkkpn145}
@@ -444,7 +438,6 @@ markers:
   - {type: 'tls:seg', offset: 660, content: '', id: KR2o0001_tls_009-5a.7}
   - {type: punctuation, offset: 664, content: 。, id: KR2o0001_tls_009-bkkpn147}
   - {type: 'tls:seg', offset: 664, content: '', id: KR2o0001_tls_009-5a.8}
-  - {type: substitution, offset: 667, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 669, content: ，, id: KR2o0001_tls_009-bkkpn148}
   - {type: 'tls:seg', offset: 669, content: '', id: KR2o0001_tls_009-5a.9}
   - {type: punctuation, offset: 673, content: ，, id: KR2o0001_tls_009-bkkpn149}
@@ -471,7 +464,6 @@ markers:
   - {type: 'tls:seg', offset: 723, content: '', id: KR2o0001_tls_009-6a.3}
   - {type: punctuation, offset: 729, content: ，, id: KR2o0001_tls_009-bkkpn159}
   - {type: 'tls:seg', offset: 729, content: '', id: KR2o0001_tls_009-6a.4}
-  - {type: substitution, offset: 732, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: punctuation, offset: 733, content: 。, id: KR2o0001_tls_009-bkkpn160}
   - {type: 'tls:seg', offset: 733, content: '', id: KR2o0001_tls_009-6a.5}
   - {type: punctuation, offset: 735, content: 《, id: KR2o0001_tls_009-bkkpn161}
@@ -488,7 +480,6 @@ markers:
   - {type: 'tls:seg', offset: 750, content: '', id: KR2o0001_tls_009-6a.9}
   - {type: punctuation, offset: 754, content: ，, id: KR2o0001_tls_009-bkkpn167}
   - {type: 'tls:seg', offset: 754, content: '', id: KR2o0001_tls_009-6a.10}
-  - {type: substitution, offset: 755, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 758, content: 。, id: KR2o0001_tls_009-bkkpn168}
   - {type: 'tls:seg', offset: 758, content: '', id: KR2o0001_tls_009-6a.11}
   - {type: punctuation, offset: 767, content: ，, id: KR2o0001_tls_009-bkkpn169}
@@ -519,7 +510,6 @@ markers:
   - {type: 'tls:seg', offset: 799, content: '', id: KR2o0001_tls_009-6a.19}
   - {type: punctuation, offset: 804, content: ，, id: KR2o0001_tls_009-bkkpn187}
   - {type: 'tls:seg', offset: 804, content: '', id: KR2o0001_tls_009-6a.20}
-  - {type: substitution, offset: 804, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 808, content: 。, id: KR2o0001_tls_009-bkkpn188}
   - {type: 'tls:seg', offset: 808, content: '', id: KR2o0001_tls_009-6a.21}
   - {type: punctuation, offset: 814, content: ，, id: KR2o0001_tls_009-bkkpn189}
@@ -563,4 +553,4 @@ markers:
   - {type: punctuation, offset: 918, content: 。, id: KR2o0001_tls_009-bkkpn208}
   - {type: xml-element, offset: 918, content: '', id: KR2o0001_tls_009-bkkxmlele14}
   back: []
-hash: sha256:7279952a90682255991eae2d25c90e811dd172c2ab45e35839ed1955f6d4f962
+hash: sha256:d4f652d445f6663ab9a593e9c5365afa096e2fdd8b9aac8270416ee8d25a8386

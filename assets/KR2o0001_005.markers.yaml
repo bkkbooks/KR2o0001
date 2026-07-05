@@ -75,7 +75,6 @@ markers:
   - {type: page-break, offset: 15, content: '', id: KR2o0001_WYG_005-9a, image: WYG0685/WYG0685-0039c.png}
   - {type: punctuation, offset: 16, content: ，, id: KR2o0001_tls_005-bkkpn3}
   - {type: 'tls:seg', offset: 16, content: '', id: KR2o0001_tls_005-1a.4}
-  - {type: substitution, offset: 17, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 20, content: 。, id: KR2o0001_tls_005-bkkpn4}
   - {type: 'tls:seg', offset: 20, content: '', id: KR2o0001_tls_005-1a.5}
   - {type: variant, offset: 20, length: 2, content: 當周, SBCK: 志陸澄劉昭兩漢書劉彤晉紀劉孝摽世􅀃}
@@ -109,7 +108,6 @@ markers:
   - {type: variant, offset: 44, length: 3, content: 爲七雄, SBCK: 難以味同萍實者矣陸澄􅀁注班史多引}
   - {type: variant, offset: 44, length: 3, content: 爲七雄, WYG: 難以味同萍實者矣陸澄所注班史多引}
   - {type: variant, offset: 44, length: 3, content: 爲七雄, krp: 難以味同萍實者矣陸澄所注班史多引}
-  - {type: substitution, offset: 44, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 47, content: 。, id: KR2o0001_tls_005-bkkpn9}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2o0001_tls_005-1a.10}
   - {type: variant, offset: 51, length: 0, content: '', SBCK: 書若乃此缺一言彼增半句皆採摘成注標為異􅀃有昬耳目難以披覽切惟范曄之刪後漢也簡而且周踈而不漏蓋云備矣而劉昭採其􅀁捐以今稱之皇甫謐全録斯語載於髙士傳夫孟堅士安年代懸隔至今之􅀃豈可同云夫班之習馬其非旣如彼謐之承固其失又如此迷而不悟奚其甚乎何法盛中興書劉隗録稱其議獄事具刑法志依檢志内了無其􅀃旣而􅆇氏晉書梁朝通史扵大連之傳並有斯言志亦無文傳仍虚述此又不精之咎同扵玄晏也尋班馬之列傳皆具編其人姓名如行狀􅀹相似者則共歸一稱若刺客日者儒林循吏是也范曄旣移題目扵傳首歷姓名扵卷中而猶扵列傳之下注爲列女髙􅀮等目茍姓名旣書題目又顯是鄧禹宼恂之首當署為公輔者矣岑彭吴漢之前當摽為將帥者矣觸􅀋而長實繁其徒何止列女孝子髙􅀮獨行而已魏􅀵著書標牓南國桓劉諸族咸曰島夷是則自江東西盡為卉服之地至扵劉昶沈文秀等傳叙其爵里則不異諸華人也沈文秀等傳則劉􅁉等傳皆云丹徒武康人云吴興豈有君臣共國父子同姓闔閭季札便致土風之殊孫䇿虞翻仍成夷夏之隔求諸徃例􅀁未聞也當晉宅江淮實膺正朔嫉彼羣雄稱爲僣盗故阮氏七録以田范裴叚諸}
@@ -148,7 +146,6 @@ markers:
   - {type: 'tls:seg', offset: 75, content: '', id: KR2o0001_tls_005-1a.15}
   - {type: punctuation, offset: 80, content: ，, id: KR2o0001_tls_005-bkkpn15}
   - {type: 'tls:seg', offset: 80, content: '', id: KR2o0001_tls_005-1a.16}
-  - {type: substitution, offset: 81, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 83, length: 0, content: '', SBCK: 無聞至公國自謂為我長}
   - {type: variant, offset: 83, length: 0, content: '', krp: 無聞至公國自謂為我長}
   - {type: punctuation, offset: 84, content: 。, id: KR2o0001_tls_005-bkkpn16}
@@ -157,7 +154,6 @@ markers:
   - {type: 'tls:seg', offset: 84, content: '', id: KR2o0001_tls_005-2a.1}
   - {type: variant, offset: 84, length: 16, content: 案世家之爲義也豈不以開國承家世代, SBCK: ''}
   - {type: variant, offset: 84, length: 16, content: 案世家之爲義也豈不以開國承家世代, krp: ''}
-  - {type: substitution, offset: 88, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 91, content: ，, id: KR2o0001_tls_005-bkkpn17}
   - {type: 'tls:seg', offset: 91, content: '', id: KR2o0001_tls_005-2a.2}
   - {type: punctuation, offset: 98, content: ，, id: KR2o0001_tls_005-bkkpn18}
@@ -195,7 +191,6 @@ markers:
   - {type: variant, offset: 133, length: 0, content: '', krp: 書之蓋由父辱受髠故加兹謗議者也按史通十卷舊本定為三十八篇篇繫一事惟因習分為上下篇上篇舊稱文缺今本存三十七篇比因訂正曲筆鑒識二篇錯簡乃類為一篇}
   - {type: variant, offset: 134, length: 10, content: 世家爲稱豈當然乎夫史, SBCK: 還}
   - {type: variant, offset: 134, length: 10, content: 世家爲稱豈當然乎夫史, krp: 還}
-  - {type: substitution, offset: 136, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 138, content: ，, id: KR2o0001_tls_005-bkkpn26}
   - {type: 'tls:seg', offset: 138, content: '', id: KR2o0001_tls_005-2a.11}
   - {type: punctuation, offset: 142, content: ？, id: KR2o0001_tls_005-bkkpn27}
@@ -247,7 +242,6 @@ markers:
   - {type: 'tls:seg', offset: 177, content: '', id: KR2o0001_tls_005-3a.4}
   - {type: variant, offset: 179, length: 66, content: 爲君而前齒列陪臣屈身藩后而前後一統俱歸世家使君臣相雜升降失序何以責季孫之八佾舞庭管氏之三歸反坫又列號東帝抗衡西秦地方千里高視六國而沒, SBCK: 必}
   - {type: variant, offset: 179, length: 66, content: 爲君而前齒列陪臣屈身藩后而前後一統俱歸世家使君臣相雜升降失序何以責季孫之八佾舞庭管氏之三歸反坫又列號東帝抗衡西秦地方千里高視六國而沒, krp: 必}
-  - {type: substitution, offset: 179, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 183, content: ，, id: KR2o0001_tls_005-bkkpn36}
   - {type: 'tls:seg', offset: 183, content: '', id: KR2o0001_tls_005-3a.5}
   - {type: punctuation, offset: 187, content: ，, id: KR2o0001_tls_005-bkkpn37}
@@ -365,7 +359,6 @@ markers:
   - {type: 'tls:seg', offset: 369, content: '', id: KR2o0001_tls_005-4a.20}
   - {type: punctuation, offset: 373, content: 。, id: KR2o0001_tls_005-bkkpn75}
   - {type: 'tls:seg', offset: 373, content: '', id: KR2o0001_tls_005-4a.21}
-  - {type: substitution, offset: 379, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 380, content: ，, id: KR2o0001_tls_005-bkkpn76}
   - {type: 'tls:seg', offset: 380, content: '', id: KR2o0001_tls_005-4a.22}
   - {type: punctuation, offset: 384, content: ，, id: KR2o0001_tls_005-bkkpn77}
@@ -410,7 +403,6 @@ markers:
   - {type: variant, offset: 420, length: 20, content: 屬并一槪稱傳無復世家事勢當然非矯枉也自茲, krp: 人而與之言斯言}
   - {type: punctuation, offset: 421, content: ，, id: KR2o0001_tls_005-bkkpn87}
   - {type: 'tls:seg', offset: 421, content: '', id: KR2o0001_tls_005-5a.5}
-  - {type: substitution, offset: 423, original: 槪, replacement: 概, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3653}}
   - {type: punctuation, offset: 426, content: ，, id: KR2o0001_tls_005-bkkpn88}
   - {type: 'tls:seg', offset: 426, content: '', id: KR2o0001_tls_005-5a.6}
   - {type: punctuation, offset: 430, content: ，, id: KR2o0001_tls_005-bkkpn89}
@@ -435,7 +427,6 @@ markers:
   - {type: 'tls:seg', offset: 462, content: '', id: KR2o0001_tls_005-5a.14}
   - {type: punctuation, offset: 466, content: 。, id: KR2o0001_tls_005-bkkpn98}
   - {type: 'tls:seg', offset: 466, content: '', id: KR2o0001_tls_005-5a.15}
-  - {type: substitution, offset: 466, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: variant, offset: 472, length: 31, content: 以紀則上通帝王榜之以傳則下同臣妾梁主敕撰通史定爲吳蜀世家持彼僭, SBCK: 矣庶知音}
   - {type: variant, offset: 472, length: 31, content: 以紀則上通帝王榜之以傳則下同臣妾梁主敕撰通史定爲吳蜀世家持彼僭, WYG: 矣庶知音}
   - {type: variant, offset: 472, length: 31, content: 以紀則上通帝王榜之以傳則下同臣妾梁主敕撰通史定爲吳蜀世家持彼僭, krp: 矣庶知音}
@@ -451,7 +442,6 @@ markers:
   - {type: punctuation, offset: 494, content: 》, id: KR2o0001_tls_005-bkkpn104}
   - {type: punctuation, offset: 494, content: ，, id: KR2o0001_tls_005-bkkpn105}
   - {type: 'tls:seg', offset: 494, content: '', id: KR2o0001_tls_005-5a.20}
-  - {type: substitution, offset: 495, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 497, content: 、, id: KR2o0001_tls_005-bkkpn106}
   - {type: punctuation, offset: 500, content: 。, id: KR2o0001_tls_005-bkkpn107}
   - {type: 'tls:seg', offset: 500, content: '', id: KR2o0001_tls_005-5a.21}
@@ -487,7 +477,6 @@ markers:
   - {type: punctuation, offset: 533, content: ，, id: KR2o0001_tls_005-bkkpn120}
   - {type: 'tls:seg', offset: 533, content: '', id: KR2o0001_tls_005-5a.28}
   - {type: variant, offset: 533, length: 17, content: 南記蕭詧考其傳體宜曰世家但近古著書, WYG: ''}
-  - {type: substitution, offset: 536, original: 詧, replacement: 察, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1461}}
   - {type: punctuation, offset: 537, content: 。, id: KR2o0001_tls_005-bkkpn121}
   - {type: 'tls:seg', offset: 537, content: '', id: KR2o0001_tls_005-5a.29}
   - {type: punctuation, offset: 541, content: ，, id: KR2o0001_tls_005-bkkpn122}
@@ -509,4 +498,4 @@ markers:
   - {type: xml-element, offset: 574, content: '', id: KR2o0001_tls_005-bkkxmlele10}
   - {type: page-break, offset: 574, content: '', id: KR2o0001_SBCK_005-17a}
   back: []
-hash: sha256:79aec120b6f9c3e0dd92aa523bda14d486320c4265c91d41a66e3b947b1ac5d3
+hash: sha256:e30a8092f397799fc07e03130da5cd9fe4764c177dd6075eb890e99676c7b89c

@@ -37,7 +37,6 @@ markers:
   - {type: 'tls:seg', offset: 78, content: '', id: KR2o0001_tls_047-1a.16}
   - {type: punctuation, offset: 80, content: 。, id: KR2o0001_tls_047-bkkpn16}
   - {type: 'tls:seg', offset: 80, content: '', id: KR2o0001_tls_047-1a.17}
-  - {type: substitution, offset: 81, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 84, content: ，, id: KR2o0001_tls_047-bkkpn17}
   - {type: 'tls:seg', offset: 84, content: '', id: KR2o0001_tls_047-1a.18}
   - {type: punctuation, offset: 86, content: 。, id: KR2o0001_tls_047-bkkpn18}
@@ -751,7 +750,6 @@ markers:
   - {type: 'tls:seg', offset: 1459, content: '', id: KR2o0001_tls_047-15a.1}
   - {type: punctuation, offset: 1466, content: ，, id: KR2o0001_tls_047-bkkpn442}
   - {type: 'tls:seg', offset: 1466, content: '', id: KR2o0001_tls_047-15a.2}
-  - {type: substitution, offset: 1467, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1469, content: ，, id: KR2o0001_tls_047-bkkpn443}
   - {type: 'tls:seg', offset: 1469, content: '', id: KR2o0001_tls_047-15a.3}
   - {type: punctuation, offset: 1472, content: 。, id: KR2o0001_tls_047-bkkpn444}
@@ -1124,7 +1122,6 @@ markers:
   - {type: 'tls:seg', offset: 2256, content: '', id: KR2o0001_tls_047-22a.9}
   - {type: punctuation, offset: 2258, content: ，, id: KR2o0001_tls_047-bkkpn651}
   - {type: 'tls:seg', offset: 2258, content: '', id: KR2o0001_tls_047-22a.10}
-  - {type: substitution, offset: 2259, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 2262, content: ，, id: KR2o0001_tls_047-bkkpn652}
   - {type: 'tls:seg', offset: 2262, content: '', id: KR2o0001_tls_047-22a.11}
   - {type: punctuation, offset: 2266, content: ，, id: KR2o0001_tls_047-bkkpn653}
@@ -1150,7 +1147,6 @@ markers:
   - {type: 'tls:seg', offset: 2309, content: '', id: KR2o0001_tls_047-22a.21}
   - {type: punctuation, offset: 2313, content: ，, id: KR2o0001_tls_047-bkkpn664}
   - {type: 'tls:seg', offset: 2313, content: '', id: KR2o0001_tls_047-22a.22}
-  - {type: substitution, offset: 2315, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 2319, content: 。, id: KR2o0001_tls_047-bkkpn665}
   - {type: 'tls:seg', offset: 2319, content: '', id: KR2o0001_tls_047-22a.23}
   - {type: punctuation, offset: 2324, content: 。, id: KR2o0001_tls_047-bkkpn666}
@@ -1248,7 +1244,6 @@ markers:
   - {type: punctuation, offset: 2490, content: 》, id: KR2o0001_tls_047-bkkpn725}
   - {type: punctuation, offset: 2490, content: ，, id: KR2o0001_tls_047-bkkpn726}
   - {type: 'tls:seg', offset: 2490, content: '', id: KR2o0001_tls_047-25a.11}
-  - {type: substitution, offset: 2494, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 2495, content: 。, id: KR2o0001_tls_047-bkkpn727}
   - {type: 'tls:seg', offset: 2495, content: '', id: KR2o0001_tls_047-25a.12}
   - {type: punctuation, offset: 2499, content: ，, id: KR2o0001_tls_047-bkkpn728}
@@ -1335,4 +1330,4 @@ markers:
   - {type: indent, offset: 2689, content: 　, id: KR2o0001_tls_047-bkkind2}
   - {type: xml-element, offset: 2692, content: '', id: KR2o0001_tls_047-bkkxmlele56}
   back: []
-hash: sha256:c986a0f7676971e699165a7cca9a30444292849ccc2c90a35109f1e2d737de8e
+hash: sha256:6bec1c46a47b1aa9dc957dd56603dbca15daa63c514c261bf1cb266d45f2409b
