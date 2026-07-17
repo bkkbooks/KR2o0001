@@ -1010,6 +1010,7 @@ markers:
   - {type: line-break, offset: 3164, content: '', id: KR2o0001_SBCK_010-11a03}
   - {type: punctuation, offset: 3169, content: (, id: KR2o0001_krp_010-bkkpn1}
   - {type: variant, offset: 3169, length: 0, content: '', WYG: 則天朝為著作佐郎轉左史今上}
+  - {type: voice, offset: 3169, length: 67, name: note, id: n1}
   - {type: punctuation, offset: 3182, content: /, id: KR2o0001_krp_010-bkkpn2}
   - {type: variant, offset: 3182, length: 31, content: 則天朝為著作佐郎轉左史今上又以本官兼修國史迄今之不改今之史館即, WYG: ''}
   - {type: punctuation, offset: 3195, content: ), id: KR2o0001_krp_010-bkkpn3}
@@ -1366,6 +1367,7 @@ markers:
   - {type: punctuation, offset: 4315, content: (, id: KR2o0001_krp_010-bkkpn10}
   - {type: variant, offset: 4315, length: 1, content: 終, WYG: 欽定四庫全書史通卷十一唐劉知幾撰}
   - {type: page-break, offset: 4315, content: '', id: KR2o0001_WYG_011-1a, image: WYG0685/WYG0685-0082a.png}
+  - {type: voice, offset: 4315, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 4316, content: ), id: KR2o0001_krp_010-bkkpn11}
   - {type: 'kr:newline', offset: 4316, content: '
 
@@ -1375,4 +1377,4 @@ markers:
 
       ', id: KR2o0001_krp_010-bkkkrnewl273}
   back: []
-hash: sha256:75163b176b8627580d772287bbfcfcc0fcd88011422696c10ac11f5549fa20e2
+hash: sha256:643ed8dc4b9e5dcf0e233f1f36f73a204ec0dcb538731d1061e67fd373bf9a7c

@@ -123,6 +123,7 @@ markers:
   - {type: line-break, offset: 306, content: '', id: KR2o0001_SBCK_007-2a05}
   - {type: punctuation, offset: 316, content: (, id: KR2o0001_krp_007-bkkpn1}
   - {type: variant, offset: 316, length: 0, content: '', WYG: 伯牛仲弓並在第一}
+  - {type: voice, offset: 316, length: 19, name: note, id: n1}
   - {type: punctuation, offset: 324, content: /, id: KR2o0001_krp_007-bkkpn2}
   - {type: variant, offset: 324, length: 9, content: 伯牛仲弓並在第二也, WYG: ''}
   - {type: punctuation, offset: 332, content: ), id: KR2o0001_krp_007-bkkpn3}
@@ -137,6 +138,7 @@ markers:
   - {type: variant, offset: 348, length: 0, content: '', WYG: 過一作如}
   - {type: variant, offset: 349, length: 0, content: '', WYG: 甥欲殺之耼}
   - {type: punctuation, offset: 350, content: (, id: KR2o0001_krp_007-bkkpn7}
+  - {type: voice, offset: 350, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 352, content: /, id: KR2o0001_krp_007-bkkpn8}
   - {type: variant, offset: 352, length: 1, content: 聃, WYG: 養}
   - {type: punctuation, offset: 354, content: ), id: KR2o0001_krp_007-bkkpn9}
@@ -154,6 +156,7 @@ markers:
   - {type: line-break, offset: 373, content: '', id: KR2o0001_SBCK_007-2a08}
   - {type: punctuation, offset: 376, content: (, id: KR2o0001_krp_007-bkkpn13}
   - {type: variant, offset: 376, length: 0, content: '', WYG: 即第}
+  - {type: voice, offset: 376, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 378, content: /, id: KR2o0001_krp_007-bkkpn14}
   - {type: variant, offset: 378, length: 2, content: 即第, WYG: ''}
   - {type: punctuation, offset: 380, content: ), id: KR2o0001_krp_007-bkkpn15}
@@ -182,6 +185,7 @@ markers:
   - {type: line-break, offset: 447, content: '', id: KR2o0001_SBCK_007-2b03}
   - {type: punctuation, offset: 449, content: (, id: KR2o0001_krp_007-bkkpn16}
   - {type: variant, offset: 449, length: 1, content: 第, WYG: 而}
+  - {type: voice, offset: 449, length: 7, name: note, id: n4}
   - {type: variant, offset: 450, length: 1, content: 六, WYG: 已}
   - {type: variant, offset: 451, length: 1, content: 等, WYG: 哉}
   - {type: punctuation, offset: 452, content: /, id: KR2o0001_krp_007-bkkpn17}
@@ -195,6 +199,7 @@ markers:
   - {type: line-break, offset: 468, content: '', id: KR2o0001_SBCK_007-2b04}
   - {type: punctuation, offset: 482, content: (, id: KR2o0001_krp_007-bkkpn19}
   - {type: variant, offset: 482, length: 4, content: 苐三等陽, WYG: ''}
+  - {type: voice, offset: 482, length: 19, name: note, id: n5}
   - {type: punctuation, offset: 486, content: /, id: KR2o0001_krp_007-bkkpn20}
   - {type: punctuation, offset: 490, content: ), id: KR2o0001_krp_007-bkkpn21}
   - {type: 'kr:newline', offset: 490, content: '
@@ -215,6 +220,7 @@ markers:
   - {type: line-break, offset: 513, content: '', id: KR2o0001_SBCK_007-2b06}
   - {type: punctuation, offset: 522, content: (, id: KR2o0001_krp_007-bkkpn25}
   - {type: variant, offset: 522, length: 0, content: '', WYG: 髙漸離在第五等荆軻}
+  - {type: voice, offset: 522, length: 20, name: note, id: n6}
   - {type: punctuation, offset: 531, content: /, id: KR2o0001_krp_007-bkkpn26}
   - {type: variant, offset: 531, length: 6, content: 髙漸離在第五, WYG: 七}
   - {type: variant, offset: 538, length: 4, content: 荆軻等六, WYG: ''}
@@ -325,6 +331,7 @@ markers:
   - {type: line-break, offset: 865, content: '', id: KR2o0001_SBCK_007-3b07}
   - {type: punctuation, offset: 876, content: (, id: KR2o0001_krp_007-bkkpn31}
   - {type: variant, offset: 876, length: 4, content: 卜謂天與, WYG: ''}
+  - {type: voice, offset: 876, length: 9, name: note, id: n7}
   - {type: punctuation, offset: 880, content: /, id: KR2o0001_krp_007-bkkpn32}
   - {type: punctuation, offset: 885, content: ), id: KR2o0001_krp_007-bkkpn33}
   - {type: variant, offset: 885, length: 0, content: '', WYG: 卜謂卜天與}
@@ -352,6 +359,7 @@ markers:
   - {type: line-break, offset: 941, content: '', id: KR2o0001_SBCK_007-4a02}
   - {type: punctuation, offset: 958, content: (, id: KR2o0001_krp_007-bkkpn34}
   - {type: variant, offset: 958, length: 0, content: '', WYG: 隋}
+  - {type: voice, offset: 958, length: 10, name: note, id: n8}
   - {type: punctuation, offset: 959, content: /, id: KR2o0001_krp_007-bkkpn35}
   - {type: variant, offset: 959, length: 1, content: 隋, WYG: 皆謂楊𤣥}
   - {type: punctuation, offset: 960, content: ), id: KR2o0001_krp_007-bkkpn36}
@@ -372,6 +380,7 @@ markers:
   - {type: line-break, offset: 982, content: '', id: KR2o0001_SBCK_007-4a04}
   - {type: punctuation, offset: 982, content: (, id: KR2o0001_krp_007-bkkpn40}
   - {type: variant, offset: 982, length: 0, content: '', WYG: 隋書列王頗}
+  - {type: voice, offset: 982, length: 10, name: note, id: n9}
   - {type: punctuation, offset: 987, content: /, id: KR2o0001_krp_007-bkkpn41}
   - {type: variant, offset: 987, length: 5, content: 隋書列王頗, WYG: ''}
   - {type: punctuation, offset: 992, content: ), id: KR2o0001_krp_007-bkkpn42}
@@ -953,6 +962,7 @@ markers:
   - {type: line-break, offset: 2926, content: '', id: KR2o0001_SBCK_007-10a07}
   - {type: punctuation, offset: 2940, content: (, id: KR2o0001_krp_007-bkkpn43}
   - {type: variant, offset: 2940, length: 0, content: '', WYG: 王充謂彪}
+  - {type: voice, offset: 2940, length: 81, name: note, id: n10}
   - {type: punctuation, offset: 2944, content: /, id: KR2o0001_krp_007-bkkpn44}
   - {type: variant, offset: 2944, length: 4, content: 王克謂彪, WYG: 紀事詳贍觀者以為甲以太史公為乙也張輔名}
   - {type: punctuation, offset: 2948, content: ), id: KR2o0001_krp_007-bkkpn45}
@@ -1567,6 +1577,7 @@ markers:
   - {type: variant, offset: 4828, length: 1, content: 踈, WYG: 疎}
   - {type: punctuation, offset: 4834, content: (, id: KR2o0001_krp_007-bkkpn56}
   - {type: variant, offset: 4834, length: 0, content: '', WYG: 陳夀上書諸葛亮集}
+  - {type: voice, offset: 4834, length: 34, name: note, id: n11}
   - {type: punctuation, offset: 4842, content: /, id: KR2o0001_krp_007-bkkpn57}
   - {type: variant, offset: 4842, length: 8, content: 陳夀上書諸葛亮集, WYG: 然無忌故雖誹謗之言}
   - {type: punctuation, offset: 4850, content: ), id: KR2o0001_krp_007-bkkpn58}
@@ -1763,4 +1774,4 @@ markers:
   - {type: variant, offset: 5453, length: 0, content: '', WYG: 欽定四庫全書史通卷八唐劉知幾􅁧内篇}
   - {type: page-break, offset: 5453, content: '', id: KR2o0001_WYG_008-1a, image: WYG0685/WYG0685-0063a.png}
   back: []
-hash: sha256:6041b0d0ee993a1f39e10da85e41df03eb587ddf38e14c03854d87a1aa3be934
+hash: sha256:27e8fe9efa4e229ad8ffd1423c4bb79138ae123715d63887325610160a226bb7

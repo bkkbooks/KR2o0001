@@ -191,6 +191,7 @@ markers:
   - {type: punctuation, offset: 454, content: (, id: KR2o0001_krp_005-bkkpn1}
   - {type: variant, offset: 454, length: 0, content: '', WYG: 王邵沈約晉書造竒説云瑯琊國姓牛}
   - {type: page-break, offset: 454, content: '', id: KR2o0001_WYG_005-2b, image: WYG0685/WYG0685-0036b.png}
+  - {type: voice, offset: 454, length: 85, name: note, id: n1}
   - {type: variant, offset: 459, length: 1, content: 私, SBCK: 􅀻}
   - {type: variant, offset: 466, length: 1, content: 敘, WYG: 叙}
   - {type: punctuation, offset: 469, content: /, id: KR2o0001_krp_005-bkkpn2}
@@ -218,6 +219,7 @@ markers:
   - {type: variant, offset: 539, length: 0, content: '', WYG: 此誤况後史編録者耶}
   - {type: punctuation, offset: 545, content: (, id: KR2o0001_krp_005-bkkpn10}
   - {type: variant, offset: 545, length: 0, content: '', WYG: 沈約}
+  - {type: voice, offset: 545, length: 36, name: note, id: n2}
   - {type: punctuation, offset: 547, content: /, id: KR2o0001_krp_005-bkkpn11}
   - {type: variant, offset: 547, length: 18, content: 沈約書因云駿蒸其母路氏醜聲播扵甌越也, WYG: ''}
   - {type: punctuation, offset: 549, content: ), id: KR2o0001_krp_005-bkkpn12}
@@ -1209,6 +1211,7 @@ markers:
   - {type: line-break, offset: 3270, content: '', id: KR2o0001_SBCK_005-11a06}
   - {type: punctuation, offset: 3280, content: (, id: KR2o0001_krp_005-bkkpn16}
   - {type: variant, offset: 3280, length: 0, content: '', WYG: 劉裕等傳皆云丹徒楚}
+  - {type: voice, offset: 3280, length: 22, name: note, id: n3}
   - {type: punctuation, offset: 3288, content: /, id: KR2o0001_krp_005-bkkpn17}
   - {type: variant, offset: 3288, length: 5, content: 劉𥙿等傳皆, WYG: ''}
   - {type: variant, offset: 3289, length: 1, content: 𥙿, SBCK: 􅁉}
@@ -1393,6 +1396,7 @@ markers:
   - {type: indent, offset: 3746, content: 　　　, id: KR2o0001_krp_005-bkkind10}
   - {type: variant, offset: 3748, length: 380, content: 上第十八矣此篇終有缺文不可考古者諸侯並争勝負無懼而他善必稱已惡不諱逮乎近世無聞至公國自謂為我長家相謂為彼短至如朝廷貴臣必父祖有傳考其行事皆子孫所為而訪彼流俗詢諸故老事有不同言多爽實而魏收以元氏出扵邉裔見侮諸華遂髙自摽舉比夷朝扵姬漢之國曲加排抑同建業扵蠻貊之邦夫以敵國相讎交兵結怨載諸移檄用可致誣列諸緗素寔為妄說茍未逹此義安可言扵史耶張晏云遷歿後亡龜史職故災祥靡聞按黃氣見扵柹歸群烏墮扵江水成都言有景星出益州言無宰相氣若史官不置此事安得從而書之蓋由父辱受髠故加兹謗議者也按史通十卷舊本定為三十八篇篇繫一事惟因習分為上下篇上篇舊稱文缺今本存三十七篇比因訂正曲筆鑒識二篇錯簡乃類為一篇以還之扵此未必其本書也而文亦煩綴矣知㡬之為此書也高自摽致嘗謂國史以叙事為工叙事以簡為主故自子長丘明而上皆涉抨彈然此書之冗長亦不少矣笑前人之未工亡己事之已拙嗚呼修辭之難也如此深謹記因習, WYG: ''}
   - {type: punctuation, offset: 3752, content: (, id: KR2o0001_krp_005-bkkpn22}
+  - {type: voice, offset: 3752, length: 10, name: note, id: n4}
   - {type: punctuation, offset: 3753, content: /, id: KR2o0001_krp_005-bkkpn23}
   - {type: punctuation, offset: 3762, content: ), id: KR2o0001_krp_005-bkkpn24}
   - {type: 'kr:newline', offset: 3762, content: '
@@ -1521,6 +1525,7 @@ markers:
   - {type: indent, offset: 4126, content: 　　　, id: KR2o0001_krp_005-bkkind20}
   - {type: punctuation, offset: 4132, content: (, id: KR2o0001_krp_005-bkkpn25}
   - {type: variant, offset: 4132, length: 0, content: '', WYG: 亦曰}
+  - {type: voice, offset: 4132, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 4134, content: /, id: KR2o0001_krp_005-bkkpn26}
   - {type: variant, offset: 4134, length: 2, content: 亦曰, WYG: ''}
   - {type: punctuation, offset: 4136, content: ), id: KR2o0001_krp_005-bkkpn27}
@@ -1610,6 +1615,7 @@ markers:
   - {type: variant, offset: 4373, length: 1, content: 于, WYG: 於}
   - {type: punctuation, offset: 4375, content: (, id: KR2o0001_krp_005-bkkpn28}
   - {type: variant, offset: 4375, length: 1, content: 氏, WYG: 近代史為王傳云瑯琊臨沂人為李}
+  - {type: voice, offset: 4375, length: 53, name: note, id: n6}
   - {type: variant, offset: 4384, length: 1, content: 類, SBCK: 􅀋}
   - {type: punctuation, offset: 4390, content: /, id: KR2o0001_krp_005-bkkpn29}
   - {type: variant, offset: 4390, length: 15, content: 近代史為王氏傳云瑯琊臨沂人為李, WYG: 二族久離本居亦自當時無此}
@@ -1666,6 +1672,7 @@ markers:
   - {type: line-break, offset: 4524, content: '', id: KR2o0001_SBCK_005-15a04}
   - {type: punctuation, offset: 4531, content: (, id: KR2o0001_krp_005-bkkpn34}
   - {type: variant, offset: 4531, length: 0, content: '', WYG: 時修國史予被配纂李義琰傳琰}
+  - {type: voice, offset: 4531, length: 64, name: note, id: n7}
   - {type: variant, offset: 4532, length: 1, content: 于, WYG: 於}
   - {type: punctuation, offset: 4542, content: /, id: KR2o0001_krp_005-bkkpn35}
   - {type: variant, offset: 4542, length: 29, content: 時修國史予𬒳配纂李義琰史體遂依李氏舊望攺為隴西成紀人既言不, WYG: ''}
@@ -1725,6 +1732,7 @@ markers:
   - {type: line-break, offset: 4700, content: '', id: KR2o0001_SBCK_005-15b03}
   - {type: punctuation, offset: 4700, content: (, id: KR2o0001_krp_005-bkkpn43}
   - {type: variant, offset: 4700, length: 0, content: '', WYG: 今有姓邴者姓𢎞者以犯國諱皆改為李氏如}
+  - {type: voice, offset: 4700, length: 106, name: note, id: n8}
   - {type: punctuation, offset: 4718, content: /, id: KR2o0001_krp_005-bkkpn44}
   - {type: variant, offset: 4718, length: 0, content: '', WYG: 則真姓者斷可知矣又}
   - {type: variant, offset: 4719, length: 0, content: '', WYG: 西域胡人多}
@@ -1752,6 +1760,7 @@ markers:
   - {type: line-break, offset: 4807, content: '', id: KR2o0001_SBCK_005-15b06}
   - {type: punctuation, offset: 4814, content: (, id: KR2o0001_krp_005-bkkpn52}
   - {type: variant, offset: 4814, length: 0, content: '', WYG: 如隋史牛𢎞傳曰安定鶉觚}
+  - {type: voice, offset: 4814, length: 51, name: note, id: n9}
   - {type: variant, offset: 4822, length: 1, content: 它, WYG: 他}
   - {type: punctuation, offset: 4825, content: /, id: KR2o0001_krp_005-bkkpn53}
   - {type: variant, offset: 4825, length: 2, content: 如隋, WYG: 引皆謂之西牛𢎞唐}
@@ -1856,4 +1865,4 @@ markers:
   - {type: variant, offset: 5061, length: 0, content: '', WYG: 欽定四庫全書史通卷六唐劉知㡬撰内篇}
   - {type: page-break, offset: 5061, content: '', id: KR2o0001_WYG_006-1a, image: WYG0685/WYG0685-0044a.png}
   back: []
-hash: sha256:1634fbcf05cfd6050525eb994131c91b293f3e676eb08d0327ac94e137470b68
+hash: sha256:3eacd0d4fde136b5e95ff3908c213158829e31dc53c7a41229fe978542c0e84c

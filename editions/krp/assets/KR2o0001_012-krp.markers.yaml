@@ -19,6 +19,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR2o0001_SBCK_012-1a03}
   - {type: indent, offset: 2, content: 　　, id: KR2o0001_krp_012-bkkind2}
   - {type: punctuation, offset: 8, content: (, id: KR2o0001_krp_012-bkkpn1}
+  - {type: voice, offset: 8, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR2o0001_krp_012-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -153,6 +154,7 @@ markers:
   - {type: line-break, offset: 413, content: '', id: KR2o0001_SBCK_012-2a09}
   - {type: punctuation, offset: 421, content: (, id: KR2o0001_krp_012-bkkpn3}
   - {type: variant, offset: 421, length: 4, content: 玄王肅也, WYG: ''}
+  - {type: voice, offset: 421, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 425, content: /, id: KR2o0001_krp_012-bkkpn4}
   - {type: punctuation, offset: 429, content: ), id: KR2o0001_krp_012-bkkpn5}
   - {type: variant, offset: 429, length: 0, content: '', WYG: 𤣥王肅也}
@@ -209,6 +211,7 @@ markers:
   - {type: page-break, offset: 574, content: '', id: KR2o0001_WYG_012-3a, image: WYG0685/WYG0685-0088a.png}
   - {type: punctuation, offset: 577, content: (, id: KR2o0001_krp_012-bkkpn6}
   - {type: variant, offset: 577, length: 3, content: 玄杜預, WYG: ''}
+  - {type: voice, offset: 577, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 580, content: /, id: KR2o0001_krp_012-bkkpn7}
   - {type: punctuation, offset: 583, content: ), id: KR2o0001_krp_012-bkkpn8}
   - {type: 'kr:newline', offset: 583, content: '
@@ -264,6 +267,7 @@ markers:
   - {type: line-break, offset: 727, content: '', id: KR2o0001_SBCK_012-3a08}
   - {type: punctuation, offset: 727, content: (, id: KR2o0001_krp_012-bkkpn11}
   - {type: variant, offset: 727, length: 18, content: 蓋文句相連所以或合舜典必有曰若稽古伏, WYG: ''}
+  - {type: voice, offset: 727, length: 50, name: note, id: n4}
   - {type: variant, offset: 732, length: 1, content: 所, SBCK: 􅀁}
   - {type: punctuation, offset: 745, content: /, id: KR2o0001_krp_012-bkkpn12}
   - {type: variant, offset: 750, length: 1, content: 博, SBCK: 􅀶}
@@ -504,6 +508,7 @@ markers:
   - {type: line-break, offset: 1400, content: '', id: KR2o0001_SBCK_012-5b01}
   - {type: punctuation, offset: 1405, content: (, id: KR2o0001_krp_012-bkkpn17}
   - {type: variant, offset: 1405, length: 8, content: 殁後亡失此說非也, WYG: ''}
+  - {type: voice, offset: 1405, length: 16, name: note, id: n5}
   - {type: variant, offset: 1410, length: 1, content: 說, SBCK: 􅀃}
   - {type: punctuation, offset: 1413, content: /, id: KR2o0001_krp_012-bkkpn18}
   - {type: punctuation, offset: 1421, content: ), id: KR2o0001_krp_012-bkkpn19}
@@ -1926,6 +1931,7 @@ markers:
   - {type: variant, offset: 5545, length: 1, content: 所, WYG: 異}
   - {type: punctuation, offset: 5559, content: (, id: KR2o0001_krp_012-bkkpn20}
   - {type: variant, offset: 5559, length: 1, content: 三, WYG: 其序云二}
+  - {type: voice, offset: 5559, length: 16, name: note, id: n6}
   - {type: punctuation, offset: 5562, content: /, id: KR2o0001_krp_012-bkkpn21}
   - {type: variant, offset: 5562, length: 3, content: 志序云, WYG: 今世間傳者}
   - {type: punctuation, offset: 5565, content: ), id: KR2o0001_krp_012-bkkpn22}
@@ -2061,6 +2067,7 @@ markers:
   - {type: line-break, offset: 5887, content: '', id: KR2o0001_SBCK_012-20a03}
   - {type: punctuation, offset: 5895, content: (, id: KR2o0001_krp_012-bkkpn26}
   - {type: variant, offset: 5895, length: 8, content: 起功多於諸史一嵗, WYG: ''}
+  - {type: voice, offset: 5895, length: 16, name: note, id: n7}
   - {type: punctuation, offset: 5903, content: /, id: KR2o0001_krp_012-bkkpn27}
   - {type: punctuation, offset: 5911, content: ), id: KR2o0001_krp_012-bkkpn28}
   - {type: variant, offset: 5911, length: 0, content: '', WYG: 起功多於諸史一歲}
@@ -2316,4 +2323,4 @@ markers:
   - {type: variant, offset: 6585, length: 0, content: '', WYG: 欽定四庫全書史通卷十三唐劉知幾撰外篇}
   - {type: page-break, offset: 6585, content: '', id: KR2o0001_WYG_013-1a, image: WYG0685/WYG0685-0098a.png}
   back: []
-hash: sha256:11ddc3de9db00dc6021c1c2065a8287a6c387da8c5bf63a209c3cf13dcb37b7d
+hash: sha256:fc9a1e8993f5cf5aa2b6ccebebe5569b9569b93f3bcfa829428ea2a39a9fe998

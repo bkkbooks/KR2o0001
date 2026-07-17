@@ -171,6 +171,7 @@ markers:
   - {type: line-break, offset: 446, content: '', id: KR2o0001_SBCK_008-2b03}
   - {type: punctuation, offset: 451, content: (, id: KR2o0001_krp_008-bkkpn1}
   - {type: variant, offset: 451, length: 0, content: '', WYG: 考竹書紀年始達此義而自}
+  - {type: voice, offset: 451, length: 22, name: note, id: n1}
   - {type: punctuation, offset: 462, content: /, id: KR2o0001_krp_008-bkkpn2}
   - {type: variant, offset: 462, length: 11, content: 考竹書紀年始達此義而自, WYG: ''}
   - {type: punctuation, offset: 473, content: ), id: KR2o0001_krp_008-bkkpn3}
@@ -234,6 +235,7 @@ markers:
   - {type: line-break, offset: 673, content: '', id: KR2o0001_SBCK_008-3a06}
   - {type: punctuation, offset: 688, content: (, id: KR2o0001_krp_008-bkkpn4}
   - {type: variant, offset: 688, length: 0, content: '', WYG: 師古曰}
+  - {type: voice, offset: 688, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 691, content: /, id: KR2o0001_krp_008-bkkpn5}
   - {type: variant, offset: 691, length: 3, content: 師古曰, WYG: ''}
   - {type: punctuation, offset: 694, content: ), id: KR2o0001_krp_008-bkkpn6}
@@ -953,6 +955,7 @@ markers:
   - {type: line-break, offset: 3034, content: '', id: KR2o0001_SBCK_008-10b02}
   - {type: punctuation, offset: 3034, content: (, id: KR2o0001_krp_008-bkkpn7}
   - {type: variant, offset: 3034, length: 11, content: 載擅道濟等來朝之類是也, WYG: ''}
+  - {type: voice, offset: 3034, length: 23, name: note, id: n3}
   - {type: punctuation, offset: 3045, content: /, id: KR2o0001_krp_008-bkkpn8}
   - {type: punctuation, offset: 3057, content: ), id: KR2o0001_krp_008-bkkpn9}
   - {type: variant, offset: 3057, length: 0, content: '', WYG: 載檀道濟等來朝之類是也}
@@ -1419,4 +1422,4 @@ markers:
   - {type: variant, offset: 4565, length: 0, content: '', WYG: 欽定四庫全書史通卷九唐劉知幾撰内篇}
   - {type: page-break, offset: 4565, content: '', id: KR2o0001_WYG_009-1a, image: WYG0685/WYG0685-0070c.png}
   back: []
-hash: sha256:35a2058b5d8b1c766a9fc68ed5653b258ab0c37fa7f1aa9233d59cd418fc6a2a
+hash: sha256:234ef1f1743c991bd9547ffacf90f734081307df4ac0705634b1e9fd21f05d1f
