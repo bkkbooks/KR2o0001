@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR2o0001/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: variant, offset: 0, length: 1, content: 原, SBCK: 續校史通}
   - {type: page-break, offset: 0, content: '', id: KR2o0001_SBCK_000-1a}
   - {type: variant, offset: 0, length: 371, content: 原序長安二年武后臨朝第十九年至此十六改元余以著作佐郎兼修國史尋遷左史於門下撰起居注會轉中書舍人暫停史任俄兼領其職今上即位除著作郎太子中允率更令其兼舊脫兼字修史皆如故兼修史以領職言脫兼字則非又屬大駕還京以留後在東舊脫東字都無幾驛徵入京專知史事仍遷秘書少監首叙歷官即自叙篇所謂三為史臣再入東觀也其注云今之史館即古之東觀自惟歷事二主從宦一作官兩京遍居司籍之曹久處載言之職昔馬融三入東觀漢代稱榮張華再典史官晉朝稱美嗟予小子兼而有之是用職思舊誤作司其憂不遑啟處此總上歷官拈合當職撰史事即以引起史通之作嘗以載削餘暇商榷一作確史篇下筆不休遂盈筐篋於是區分類聚編而次之此六句暗罷史通昔漢世諸儒集論經傳定之於白虎閣因名曰白虎通予既在史館而成此書故便以史通爲目且漢求司馬遷後封爲史通子是知史之稱通其來自久博采衆議爰定茲名此層明點史通兩引古史古事以見命名所本凡爲廿, WYG: ''}
@@ -631,6 +631,5 @@ markers:
   - {type: variant, offset: 1350, length: 1, content: 一, SBCK: 二十十五葉十行詆抵}
   - {type: variant, offset: 1350, length: 1, content: 一, krp: 二十十五葉十行詆抵}
   - {type: xml-element, offset: 1351, content: '', id: KR2o0001_tls_000-bkkxmlele30}
-  body: []
   back: []
-hash: sha256:053004f0074f45fb58fda2e1df1d4ad2a517209867ff332f2dd5faa8b24e447f
+hash: sha256:c09a264eb0224701fed55445008c0a22e9a1363fb7fb331f0e59e944dcef1df6

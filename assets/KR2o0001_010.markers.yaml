@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR2o0001/bkk/v1/markers/10
 seq: 10
 markers:
-  front:
+  body:
   - {type: variant, offset: 0, length: 2, content: 序例, SBCK: 史通卷}
   - {type: page-break, offset: 0, content: '', id: KR2o0001_SBCK_010-1a}
   - {type: variant, offset: 0, length: 1, content: 序, WYG: 雜}
@@ -581,6 +581,5 @@ markers:
   - {type: punctuation, offset: 754, content: 。, id: KR2o0001_tls_010-bkkpn228}
   - {type: xml-element, offset: 754, content: '', id: KR2o0001_tls_010-bkkxmlele12}
   - {type: page-break, offset: 754, content: '', id: KR2o0001_SBCK_010-15a}
-  body: []
   back: []
-hash: sha256:a426697b75d62f5b2203b3e322c535920e557801d59bb0f99a352fe586e1c15c
+hash: sha256:9ca5df0481d4d711924245e35a970ce6cd797c92d156868b046990679a370055
